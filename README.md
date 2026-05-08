@@ -13,7 +13,7 @@ Status: Public. Given, not sold. Irrevocable.
 UniVERSE is the wider vision that encompasses:
 
 - **TrueAI Foundation** — the immutable principles that define what an AI system is permitted to be.
-- **UniCORE AI** — the 12-Level Governance Architecture and reference implementation.
+- **UniCORE AI** — a reference implementation of governed AI, using a 12-Level vertical stack as one example of a system that meets the conformance floor.
 - **The Foundation Documents (001–056)** — whitepapers, strategy, roadmap, governance frameworks, and outreach material covering enterprise, governmental, space mission, and long-duration contexts.
 
 UniVERSE is not a product. It is not a platform. It is not for sale.
@@ -103,7 +103,7 @@ An AI system aligned with the TrueAI Foundation must:
 ## Related Repositories
 
 - [`TrueAI`](https://github.com/bryanunitek/TrueAI) — The immutable Foundation. Small. Stable. Never commercial.
-- [`UniCORE-AI`](https://github.com/bryanunitek/UniCORE-AI) — The 12-Level Governance Architecture, reference specifications, and implementation.
+- [`UniCORE-AI`](https://github.com/bryanunitek/UniCORE-AI) — A governed AI reference implementation with a 12-Level vertical stack, reference specifications, and implementation.
 
 ---
 
