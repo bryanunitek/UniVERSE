@@ -1,0 +1,48 @@
+# 01 — OpenAI
+
+**Date sent:** 2026-05-10
+**From:** Bryan Fred <bryan.fred@unitek-systems.com>
+**To:** info@openai.com
+**Cc:** press@openai.com
+**Subject:** UniVERSE / TrueAI / UniCORE — open governance architecture, offered to OpenAI
+
+## Status
+
+| Address | Outcome |
+|---|---|
+| `info@openai.com` (To) | Bounced — closed Google Group (`openai.com admins`: "the group you tried to contact (info) may not exist, or you may not have permission to post"). |
+| `press@openai.com` (Cc) | Delivered — no non-delivery report received. |
+
+## Body
+
+> Dear OpenAI team,
+>
+> I'm writing directly rather than through a form because this isn't a pitch and nothing is for sale.
+>
+> My name is Bryan Fred. I'm the Senior Solutions Architect at Unitek Systems (UK and US). Over the last period I have authored and published three linked bodies of work and released them publicly, irrevocably, and free of any commercial claim:
+>
+> - **UniVERSE** — a civilisational-scale programme for safe, governed AI.
+> - **TrueAI** — the immutable principles that define what an AI system is permitted to be: no fabrication, no self-modification, externally bounded, human-sovereign.
+> - **UniCORE AI** — a 12-Level Governance Architecture; a reference implementation that meets the TrueAI conformance floor.
+>
+> Given, not sold. Irrevocable.
+>
+> Repositories:
+>   https://github.com/bryanunitek/UniVERSE
+>   https://github.com/bryanunitek/TrueAI
+>   https://github.com/bryanunitek/UniCORE-AI
+>
+> Mirror URLs (each resolves to the repository above):
+>   https://UnitekUniVERSE.com | .co.uk | .net | .ai
+>   https://UnitekTrueAI.com  | .co.uk | .net | .ai
+>   https://UnitekUniCORE.com | .co.uk | .net | .ai
+>
+> Why I am sending this to you: the world is not in a good place, and I don't believe any single lab — however capable or well-intentioned — can carry the governance load alone. TrueAI is deliberately small, stable, and non-commercial so it can be adopted without anyone surrendering control, IP, or roadmap. If any part of it is useful to your safety, alignment, or governance work, it is yours to use.
+>
+> No reply is required. I'm sending this so it is on record that the work was offered, openly, to your team.
+>
+> Kind regards,
+>
+> Bryan Fred
+> Senior Solutions Architect
+> Unitek Systems Limited | Unitek Systems USA Inc
