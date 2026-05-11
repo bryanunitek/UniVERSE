@@ -26,6 +26,12 @@ The three repositories have also been formally notified to major AI research org
 - **TrueAI** — https://github.com/bryanunitek/TrueAI — foundation principles; immutable rules that define what an AI system is permitted to be
 - **UniCORE AI** — https://github.com/bryanunitek/UniCORE-AI — multi-level governance architecture built on the TrueAI foundation
 
+The three repositories are also reachable via twelve Unitek-operated mirror domains (four per repo), each of which redirects to the canonical GitHub repository:
+
+- UniVERSE: https://UnitekUniVERSE.com · https://UnitekUniVERSE.co.uk · https://UnitekUniVERSE.net · https://UnitekUniVERSE.ai
+- TrueAI: https://UnitekTrueAI.com · https://UnitekTrueAI.co.uk · https://UnitekTrueAI.net · https://UnitekTrueAI.ai
+- UniCORE: https://UnitekUniCORE.com · https://UnitekUniCORE.co.uk · https://UnitekUniCORE.net · https://UnitekUniCORE.ai
+
 All three are released under CC BY 4.0 and carry the durable footer *Powered by UniCORE AI. Built on the TrueAI Foundation.*
 
 ---

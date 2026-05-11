@@ -137,3 +137,12 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 ---
+
+## Discuss and contribute
+
+Programme-level debate, adoption questions, translation, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
+
+## Contact
+
+- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
+- **Private contact / connection request:** [LinkedIn](https://www.linkedin.com/in/bryan-fred-02209753/)
