@@ -54,6 +54,16 @@ New numbered docs (057+) go into `docs/` using the same `NNN-X-Title-With-Hyphen
 - **Author byline:** `Bryan Fred, Unitek Systems Limited` unless Bryan says otherwise
 - **Version/date:** include version + month-year on any substantive document (e.g. `Version 1.0 · May 2026`)
 
+## Contact rules (durable)
+
+- **All public contact routes through GitHub Discussions on the relevant repo.**
+  - UniVERSE: https://github.com/bryanunitek/UniVERSE/discussions
+  - TrueAI: https://github.com/bryanunitek/TrueAI/discussions
+  - UniCORE-AI: https://github.com/bryanunitek/UniCORE-AI/discussions
+- **Do not publish** Bryan's personal email (`bryan.fred@unitek-systems.com`, `bryan@unitek-systems.co.uk`), personal phone numbers, or the Unitek Systems generic inboxes (`info@`, `support@`, `services@`) in any file committed to this repo.
+- Git commit author metadata is the one exception: use `bryanunitek <bryan.fred@unitek-systems.com>` for `--author=` so the git log attributes correctly. That address lives in git metadata, not in published prose.
+- When writing a "Contact" section in any public document (README, whitepaper derivative, LICENSE, press material, submission), use the Discussions URL only.
+
 ## Voice
 
 - Reasoned, not declaratory. Engineering-honest. Avoid manifesto tone.
