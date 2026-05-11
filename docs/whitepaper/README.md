@@ -1,13 +1,14 @@
 # Governed Intelligence — whitepaper set
 
-A single framework, four artifacts. The canonical document is **WHITEPAPER.md**. The other three are derivatives shaped for specific audiences. If any of them contradicts the canonical paper, the canonical paper wins.
+A single framework, three artifacts. The canonical document is **WHITEPAPER.md**. The other two are derivatives shaped for specific audiences. If any of them contradicts the canonical paper, the canonical paper wins.
 
 | File | Audience | Length | Use |
 |---|---|---|---|
 | [WHITEPAPER.md](./WHITEPAPER.md) | General, technical, academic | ~17 KB | The artifact of record. Cite this. |
-| [PRESS-RELEASE.md](./PRESS-RELEASE.md) | Journalists, editors | ~1 page | Hook, pull-quote, link back to the paper. |
 | [GOVERNMENT-BRIEFING.md](./GOVERNMENT-BRIEFING.md) | Policymakers, regulators | ~2 pages | Problem, proposal, next steps. |
 | [UN-SUBMISSION.md](./UN-SUBMISSION.md) | UN processes, multilateral bodies | ~2 pages | Route-agnostic stakeholder submission. |
+
+The companion press release lives in [`../../press/`](../../press/) as a dated file. See [`../../press/README.md`](../../press/README.md) for the index.
 
 ## Licence
 

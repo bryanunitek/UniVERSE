@@ -77,13 +77,32 @@ When writing a "Contact" section in any public document (README, whitepaper deri
   - `Author:` fields at the top of any document
   - Signoff lines at the end of a document (`— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.`)
   - LICENSE contact blocks
-  - UN submissions, government briefings, press-ready press releases (where the masthead is the byline, not a dateline)
+  - UN submissions, government briefings
   - Masthead blocks of whitepapers and foundation documents
+  - Press release front-matter `author:` field (the body uses a dateline, not a byline)
 - **Short form** `Bryan Fred, Unitek Systems Limited` is acceptable only in running prose ("authored by Bryan Fred of Unitek Systems Limited", "said Fred", etc.) or inside a press dateline like `**London, May 2026**`.
 - **"Bryan" alone** is fine inside prose after Bryan Fred has been introduced, and in informal voices (blog-style pieces, OUTREACH letters where he signs personally).
 - **Never** shorten the byline to "Bryan, Unitek Systems Limited" — that's the pre-normalisation form and will be rewritten.
 - **Role line, when used:** `Senior Solutions Architect, Unitek Systems Limited (United Kingdom) and Unitek Systems USA Inc.`
 - **Version/date:** on any substantive document include version + month-year (e.g. `Version 1.0 · May 2026`).
+
+## Press releases (durable)
+
+- **All press releases live in `/press/` at the repo root.** Never put a press release in `docs/`, `docs/whitepaper/`, or anywhere else.
+- **Filename:** `YYYY-MM-DD-short-kebab-slug.md`. The date is mandatory in the filename. No undated `PRESS-RELEASE.md`.
+- **Front-matter block at the top** of every release:
+  ```
+  ---
+  date: YYYY-MM-DD
+  author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+  repo: UniVERSE
+  slug: short-kebab-slug
+  licence: CC BY 4.0
+  ---
+  ```
+- **Dateline in the body:** `**London, D MMMM YYYY**` (full date, not just month).
+- **Contact block at the end** must use the two-tier policy (Discussions + LinkedIn), never personal email or phone.
+- After adding a release, add a row to `/press/README.md`.
 
 ## Voice
 

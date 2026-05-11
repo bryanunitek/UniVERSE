@@ -1,8 +1,16 @@
+---
+date: 2026-05-11
+author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+repo: UniVERSE
+slug: governed-intelligence
+licence: CC BY 4.0
+---
+
 # For immediate release
 
 ## New framework defines the architectural floor for governable AI
 
-**London, May 2026** — A new white paper published today argues that the debate over artificial intelligence safety has been asking the wrong question. The question is not whether AI is powerful. It is whether AI is built in a shape that human institutions can govern.
+**London, 11 May 2026** — A new white paper published today argues that the debate over artificial intelligence safety has been asking the wrong question. The question is not whether AI is powerful. It is whether AI is built in a shape that human institutions can govern.
 
 *Governed Intelligence*, authored by Bryan Fred of Unitek Systems Limited and released under a Creative Commons licence, sets out seven architectural criteria that distinguish AI systems capable of being placed under human authority from those that cannot. The paper also defines a twelve-level conformance ladder, with Level 4 proposed as the minimum posture for any AI system making decisions that affect a person's life, livelihood, or rights.
 
@@ -19,7 +27,7 @@ The practical implications are direct. Under the framework:
 
 The paper does not call for a ban on any class of AI. It calls for a line, below which consequential deployment is not permitted, and above which deployers must demonstrate how they meet each criterion.
 
-*Governed Intelligence* is available as WHITEPAPER.md in the UniCORE-Claw repository on GitHub and is free to read, cite, translate, and reuse under CC BY 4.0.
+*Governed Intelligence* is available as [WHITEPAPER.md](../docs/whitepaper/WHITEPAPER.md) in the UniVERSE repository on GitHub and is free to read, cite, translate, and reuse under CC BY 4.0.
 
 ---
 
