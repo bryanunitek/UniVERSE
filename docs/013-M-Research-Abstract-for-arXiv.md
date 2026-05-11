@@ -6,7 +6,7 @@ UniCORE AI: A TruthAnchored, NonSelfModifying Governance Architecture for LongDu
 
 Author:
 
-Bryan (Unitek Systems Limited)
+Bryan Fred (Unitek Systems Limited)
 
 Abstract:
 

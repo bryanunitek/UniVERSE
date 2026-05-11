@@ -23,4 +23,5 @@ The framework is versioned. This is v1.0 (May 2026). Revisions will be tracked i
 
 ## Contact
 
-All contact via GitHub Discussions: https://github.com/bryanunitek/UniVERSE/discussions
+- Public discussion: https://github.com/bryanunitek/UniVERSE/discussions
+- Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/

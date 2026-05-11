@@ -66,7 +66,8 @@ The framework is offered as a contribution to the public record. Member States, 
 Bryan Fred
 Senior Solutions Architect, Unitek Systems Limited (United Kingdom) and Unitek Systems USA Inc.
 
-All contact via GitHub Discussions: https://github.com/bryanunitek/UniVERSE/discussions
+- Public discussion: https://github.com/bryanunitek/UniVERSE/discussions
+- Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 The full framework is set out in: Fred, B. (2026). *Governed Intelligence: A framework for keeping artificial intelligence inside human authority.* Unitek Systems. CC BY 4.0.
 

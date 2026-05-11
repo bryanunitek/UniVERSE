@@ -2,7 +2,7 @@
 
 **A civilisational-scale programme for safe, governed artificial intelligence.**
 
-Author: Bryan, Unitek Systems Limited, Bedford, United Kingdom
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: May 2026
 Status: Public. Given, not sold. Irrevocable.
 
@@ -120,7 +120,7 @@ Attribution required wherever UniCORE AI, the TrueAI Foundation, or the 12-Level
 
 Given, not sold. The core architecture is public, open, and free. The TrueAI Foundation cannot be modified, forked, commercialised, patented, or proprietarily captured. See [FULL_FORMAL_STATEMENT.md](FULL_FORMAL_STATEMENT.md) for complete terms.
 
-— Bryan, Unitek Systems Limited, Bedford, United Kingdom, May 2026.
+— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.
 
 ---
 
@@ -134,6 +134,6 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 **This is a gift. Public. Not for sale. Irrevocable. There is no negotiation.** Anything else would be false, and falsehood cannot build what this is for.
 
-— Bryan, Unitek Systems Limited
+— Bryan Fred, Unitek Systems Limited
 
 ---

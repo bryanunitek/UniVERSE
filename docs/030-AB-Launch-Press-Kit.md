@@ -2,7 +2,7 @@
 
 Version 1.0 — May 2026
 
-Author: Bryan (Unitek Systems Limited)
+Author: Bryan Fred (Unitek Systems Limited)
 
 
 
@@ -44,7 +44,7 @@ UniCORE AI is noncommercial, open, and globally adoptable.It is offered as a pub
 
 2. EXECUTIVE QUOTES
 
-Bryan, Creator of UniCORE AI (Unitek Systems Limited)
+Bryan Fred, Creator of UniCORE AI (Unitek Systems Limited)
 
 “The world does not need another AI model. It needs a governance architecture capable of keeping every model safe, truthful, and subordinate to human authority. UniCORE AI is that architecture.”
 
@@ -90,7 +90,7 @@ A deterministic, truthanchored, 12Level AI governance architecture.
 
 Who created it?
 
-Bryan, Unitek Systems Limited (United Kingdom).
+Bryan Fred, Unitek Systems Limited (United Kingdom).
 
 What makes it different?
 

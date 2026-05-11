@@ -56,13 +56,26 @@ New numbered docs (057+) go into `docs/` using the same `NNN-X-Title-With-Hyphen
 
 ## Contact rules (durable)
 
-- **All public contact routes through GitHub Discussions on the relevant repo.**
+Two tiers, and only these two:
+
+- **Public discussion** → GitHub Discussions of the relevant repo
   - UniVERSE: https://github.com/bryanunitek/UniVERSE/discussions
   - TrueAI: https://github.com/bryanunitek/TrueAI/discussions
   - UniCORE-AI: https://github.com/bryanunitek/UniCORE-AI/discussions
-- **Do not publish** Bryan's personal email (`bryan.fred@unitek-systems.com`, `bryan@unitek-systems.co.uk`), personal phone numbers, or the Unitek Systems generic inboxes (`info@`, `support@`, `services@`) in any file committed to this repo.
-- Git commit author metadata is the one exception: use `bryanunitek <bryan.fred@unitek-systems.com>` for `--author=` so the git log attributes correctly. That address lives in git metadata, not in published prose.
-- When writing a "Contact" section in any public document (README, whitepaper derivative, LICENSE, press material, submission), use the Discussions URL only.
+- **Private contact / connection request** → LinkedIn: https://www.linkedin.com/in/bryan-fred-02209753/
+
+**Do not publish** Bryan's personal email (`bryan.fred@unitek-systems.com`, `bryan@unitek-systems.co.uk`), personal phone numbers, or the Unitek Systems generic inboxes (`info@`, `support@`, `services@`) in any file committed to this repo.
+
+Git commit author metadata is the one exception: use `bryanunitek <bryan.fred@unitek-systems.com>` for `--author=` so the git log attributes correctly. That address lives in git metadata, not in published prose.
+
+When writing a "Contact" section in any public document (README, whitepaper derivative, LICENSE, press material, submission), use the two-tier block above. Do not invent a third tier, do not add back direct email or phone.
+
+## Byline rules (durable)
+
+- Byline is **Bryan Fred**, not "Bryan" alone. This applies to `Author:` fields, signoff lines (`— Bryan Fred, Unitek Systems Limited`), press copy, and any formal document.
+- Inside the prose of a document, after Bryan Fred has been introduced, "Bryan" on its own is fine.
+- Full formal byline: `Bryan Fred, Unitek Systems Limited` (UK authorship / legal entity).
+- Role, when used: `Senior Solutions Architect, Unitek Systems Limited (United Kingdom) and Unitek Systems USA Inc.`
 
 ## Voice
 

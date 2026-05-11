@@ -25,7 +25,9 @@ The paper does not call for a ban on any class of AI. It calls for a line, below
 
 **About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for regulated industries including finance, healthcare, and legal practice. The framework draws on that experience.
 
-**Contact.** All contact via GitHub Discussions: https://github.com/bryanunitek/UniVERSE/discussions
+**Contact.**
+- Public discussion: https://github.com/bryanunitek/UniVERSE/discussions
+- Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 **Full paper.** [link to WHITEPAPER.md]
 

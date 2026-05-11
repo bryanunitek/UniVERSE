@@ -80,6 +80,8 @@ The critique of current AI safety approaches is not that they are wrong. It is t
 
 **Full paper.** *Governed Intelligence: A framework for keeping artificial intelligence inside human authority.* Fred, B. (2026). Unitek Systems. CC BY 4.0.
 
-**Contact.** All contact via GitHub Discussions: https://github.com/bryanunitek/UniVERSE/discussions
+**Contact.**
+- Public discussion: https://github.com/bryanunitek/UniVERSE/discussions
+- Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 **Licence.** CC BY 4.0 — free to cite, adapt, and incorporate into policy work with attribution.
