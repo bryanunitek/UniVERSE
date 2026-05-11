@@ -7,6 +7,7 @@ Press material authored by Unitek Systems Limited and released under CC BY 4.0. 
 | Date | Title | File |
 |---|---|---|
 | 2026-05-11 | New framework defines the architectural floor for governable AI | [2026-05-11-governed-intelligence.md](./2026-05-11-governed-intelligence.md) |
+| 2026-05-10 | Unitek Systems publishes UniVERSE — a civilisational programme for safe, governed AI | [2026-05-10-programme-launch.md](./2026-05-10-programme-launch.md) |
 
 ## Guidelines for new releases
 
