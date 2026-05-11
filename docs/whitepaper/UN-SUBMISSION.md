@@ -1,6 +1,6 @@
 # Stakeholder submission on the governance of artificial intelligence
 
-**Submitted by:** Bryan Fred, Unitek Systems Limited (United Kingdom)
+**Submitted by:** Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 **Date:** May 2026
 **Licence:** CC BY 4.0
 **Route:** General stakeholder contribution, adaptable to UNESCO Recommendation on the Ethics of Artificial Intelligence follow-up, the Global Digital Compact implementation track, and ITU AI for Good stakeholder processes.

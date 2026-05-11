@@ -72,10 +72,18 @@ When writing a "Contact" section in any public document (README, whitepaper deri
 
 ## Byline rules (durable)
 
-- Byline is **Bryan Fred**, not "Bryan" alone. This applies to `Author:` fields, signoff lines (`— Bryan Fred, Unitek Systems Limited`), press copy, and any formal document.
-- Inside the prose of a document, after Bryan Fred has been introduced, "Bryan" on its own is fine.
-- Full formal byline: `Bryan Fred, Unitek Systems Limited` (UK authorship / legal entity).
-- Role, when used: `Senior Solutions Architect, Unitek Systems Limited (United Kingdom) and Unitek Systems USA Inc.`
+- **Formal full byline:** `Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom` — four parts, in that order.
+- **Use the full formal** on:
+  - `Author:` fields at the top of any document
+  - Signoff lines at the end of a document (`— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.`)
+  - LICENSE contact blocks
+  - UN submissions, government briefings, press-ready press releases (where the masthead is the byline, not a dateline)
+  - Masthead blocks of whitepapers and foundation documents
+- **Short form** `Bryan Fred, Unitek Systems Limited` is acceptable only in running prose ("authored by Bryan Fred of Unitek Systems Limited", "said Fred", etc.) or inside a press dateline like `**London, May 2026**`.
+- **"Bryan" alone** is fine inside prose after Bryan Fred has been introduced, and in informal voices (blog-style pieces, OUTREACH letters where he signs personally).
+- **Never** shorten the byline to "Bryan, Unitek Systems Limited" — that's the pre-normalisation form and will be rewritten.
+- **Role line, when used:** `Senior Solutions Architect, Unitek Systems Limited (United Kingdom) and Unitek Systems USA Inc.`
+- **Version/date:** on any substantive document include version + month-year (e.g. `Version 1.0 · May 2026`).
 
 ## Voice
 

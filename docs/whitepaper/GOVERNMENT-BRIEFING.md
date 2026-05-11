@@ -2,7 +2,9 @@
 
 **A proposed architectural floor for AI systems in consequential use**
 
-Version 1.0 · May 2026 · Unitek Systems Limited · CC BY 4.0
+Version 1.0 · May 2026
+Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+Licence: CC BY 4.0
 
 ---
 

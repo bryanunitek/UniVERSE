@@ -3,7 +3,7 @@
 **A framework for keeping artificial intelligence inside human authority**
 
 Version 1.0 · May 2026
-Bryan Fred, Unitek Systems Limited
+Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 Licence: CC BY 4.0
 
 ---

@@ -2,7 +2,7 @@
 
 **Canonical public statement for the UniVERSE, TrueAI, and UniCORE AI repositories.**
 
-Author: Bryan Fred, Unitek Systems Limited
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 Location: Bedford, United Kingdom
 First published: May 2026
 Status: Public. Given, not sold. Irrevocable.
@@ -282,7 +282,7 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 **This is a gift. Public. Not for sale. Irrevocable. There is no negotiation.** Anything else would be false, and falsehood cannot build what this is for.
 
-— Bryan Fred, Unitek Systems Limited
+— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 ---
 
@@ -307,4 +307,4 @@ UniVERSE, TrueAI, and UniCORE-AI exist because that direction needs protecting a
 
 If my belief about what humanity needs is wrong, the architecture still stands. The Foundation is valid regardless. But the architecture exists because I hold this belief, and I say so openly so that no one has to guess at motive.
 
-— Bryan Fred, Unitek Systems Limited
+— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
