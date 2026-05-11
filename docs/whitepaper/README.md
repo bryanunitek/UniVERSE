@@ -23,5 +23,4 @@ The framework is versioned. This is v1.0 (May 2026). Revisions will be tracked i
 
 ## Contact
 
-Bryan Fred, Unitek Systems Limited
-bryan@unitek-systems.co.uk · www.unitek-systems.com
+All contact via GitHub Discussions: https://github.com/bryanunitek/UniVERSE/discussions
