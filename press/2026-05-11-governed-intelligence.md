@@ -31,7 +31,7 @@ The paper does not call for a ban on any class of AI. It calls for a line, below
 
 ---
 
-**About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for regulated industries including finance, healthcare, and legal practice. The framework draws on that experience.
+**About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for the legal sector — a regulated, evidence-bound, decision-critical domain. The framework draws on that experience but is not limited to it: it is intended to apply wherever artificial intelligence enters the critical path of consequential human decisions, present and future.
 
 **Contact.**
 - Public discussion: https://github.com/bryanunitek/UniVERSE/discussions

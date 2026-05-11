@@ -36,7 +36,7 @@ All three are released under CC BY 4.0 and carry the durable footer *Powered by 
 
 ---
 
-**About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for regulated industries including finance, healthcare, and legal practice. The programme draws on that experience and on his conviction that trust, not capability, is the decisive property of AI systems placed in the critical path of human decisions.
+**About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for the legal sector — a regulated, evidence-bound, decision-critical domain. The programme draws on that experience but is not limited to it. UniVERSE, TrueAI, and UniCORE AI are intended to apply wherever artificial intelligence enters the critical path of consequential human decisions — in current sectors and in sectors not yet formed. The work rests on his conviction that trust, not capability, is the decisive property of AI systems placed in that path.
 
 **Contact.**
 - Public discussion: https://github.com/bryanunitek/UniVERSE/discussions
