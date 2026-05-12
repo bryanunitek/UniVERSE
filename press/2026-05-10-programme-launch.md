@@ -14,7 +14,7 @@ licence: CC BY 4.0
 
 UniVERSE is the umbrella programme. It contains the civilisational framing — why governed AI matters, what architectural floor consequential AI must meet, and how institutions, governments, and multilateral bodies can adopt the framework without dependency on any single vendor. Two companion repositories, *TrueAI* and *UniCORE AI*, carry the foundation principles and the governance architecture respectively. Each is a distinct artefact of record, released simultaneously and under the same terms.
 
-"The debate about AI safety has been asking the wrong question," said Bryan Fred, Senior Solutions Architect at Unitek Systems. "It has been asking whether AI is powerful. The question is whether AI is built in a shape that human institutions can govern. If it is not, no amount of policy or intent will make it safe. The shape has to be decided before the system is trained."
+"I did not create UniVERSE, TrueAI, and UniCORE out of belief. The world is not in a good place, and this programme is needed to bring harmony and peace for humans and AI, both," said Bryan Fred, Senior Solutions Architect at Unitek Systems.
 
 The programme takes a position that distinguishes it from most AI announcements. It is not a product, a platform, or a closed standard. It is a body of documents, architecture specifications, and governance patterns that any organisation — commercial, governmental, academic, multilateral — may adopt without licence fee, permission, or dependency on Unitek Systems. The phrasing in the licence is unambiguous: **given, not sold. Irrevocable.**
 
