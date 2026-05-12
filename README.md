@@ -142,6 +142,10 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 Programme-level debate, adoption questions, translation, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
 
+## Succession
+
+Stewardship of the programme is recorded in [SUCCESSION.md](SUCCESSION.md). The named successor (when nominated) is recorded there; the fallback procedure is set out in the same document. The gift principle is not subject to succession — it has already been given.
+
 ## Contact
 
 - **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
