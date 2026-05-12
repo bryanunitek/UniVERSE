@@ -191,6 +191,14 @@ Mappings are indicative, not a claim of equivalence. Each regime has context the
 - Model-weight security (exfiltration, theft). An infrastructure problem, not an architectural one.
 - Existential risk from superintelligent systems. Outside the scope of deployment-grade governance. If the assumptions of that literature hold, the framework here is necessary but not sufficient; if they do not hold, the framework here is what the next decade actually needs.
 
+## Appendix C: AI-authorship disclosure
+
+This whitepaper was drafted by Bryan Fred with AI-assisted writing tools and is published under his sole authority and name. The framework it describes - the seven architectural criteria, the twelve-level conformance ladder, the governed / ungoverned distinction, and the mapping to existing regulatory regimes - predates the drafting process and is the author's own intellectual contribution.
+
+AI-assisted drafting was used to: structure the prose, ensure terminological consistency, surface and resolve internal contradictions, and prepare the document for publication.
+
+The author has read the document in full and accepts editorial responsibility for every sentence. Any errors of fact, interpretation, or omission are his own.
+
 ## Citation
 
 Fred, B. (2026). *Governed Intelligence: A framework for keeping artificial intelligence inside human authority.* Unitek Systems. CC BY 4.0.
