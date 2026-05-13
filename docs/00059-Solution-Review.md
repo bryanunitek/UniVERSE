@@ -110,6 +110,8 @@ The Solution Review certificate is issued by **Unitek Systems Limited** (UK comp
 
 The full Solution Review certification scheme — criteria, examination, renewal, revocation, and the relationship between the certifying body and the L3 CORE governance layer — will be published as a separate programme document. Until that document is published, certificates other than the default-held certificate are issued by direct nomination by Bryan Fred and Unitek Systems Limited; the scheme will replace nomination with a public process once defined.
 
+The public register of current and historical Solution Review certificate-holders is maintained in [`CERTIFIED-EXPERTS.md`](../CERTIFIED-EXPERTS.md) at the root of this repository. Any practitioner offering Solution Review as a delegated service should be checkable against that register; if their name is not in the register, they are not certified within the meaning of this document.
+
 ---
 
 ## 3. The rule behind the process

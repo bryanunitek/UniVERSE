@@ -172,6 +172,10 @@ Two deployment-topology principles govern how UniCORE Solutions must be produced
 
 Stewardship of the programme is recorded in [SUCCESSION.md](SUCCESSION.md). The named successor (when nominated) is recorded there; the fallback procedure is set out in the same document. The gift principle is not subject to succession — it has already been given.
 
+## Certified Experts
+
+Practitioners authorised to provide **Solution Review** and other delegated programme services on behalf of Unitek Systems Limited are listed in [CERTIFIED-EXPERTS.md](CERTIFIED-EXPERTS.md). The register is the canonical public record of who currently holds (or has held) a Solution Review certificate. The certification rule itself is set out in [`docs/00059-Solution-Review.md`](docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly).
+
 ## Contact
 
 - **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
