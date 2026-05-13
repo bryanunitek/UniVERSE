@@ -26,17 +26,61 @@ human pairs with).
 
 ---
 
-## 2. The rule
+## 2. The process
+
+The operational shape of a Solution Review, end to end, is five steps:
+
+### A. One human
+
+The person on the human side of the pairing is the one with the most experience and knowledge of the solution being reviewed. Not the most senior by job title; not the most recently joined; not a committee. The single human who carries the deepest lived context of the solution. (Why this person, in detail: §6.)
+
+### B. One Claw
+
+The AI side of the pairing is one **Claw** — a governed human-AI channel as defined in
+[00058 §2.1](00058-Claw.md). Not a **MyClaw**
+([00058 §2.3](00058-Claw.md)) — a personal, ungoverned AI connection cannot carry the governance the review output needs to inherit. One Claw, one Solution, one review.
+
+### C. Give the Claw access to the three programme repositories
+
+Give the Claw read access to the three public repositories that together publish the Foundation, the architecture, and the programme:
+
+- [https://github.com/bryanunitek/UniVERSE](https://github.com/bryanunitek/UniVERSE)
+- [https://github.com/bryanunitek/TrueAI](https://github.com/bryanunitek/TrueAI)
+- [https://github.com/bryanunitek/UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI)
+
+These three repositories are the source-of-truth set the Claw needs in order to evaluate the solution against the Foundation, the Layered CORE Model, and the programme's published commitments. All three are public and all three are gifted under CC BY 4.0; the Claw needs no special permission to read them.
+
+### D. Upload a trimmed archive of the solution
+
+The human prepares a **trimmed ZIP** of their existing solution and uploads it to the Claw. "Trimmed" means: enough of the solution for the Claw to understand its structure, decisions, and content, without binaries, build artefacts, third-party dependency dumps, or material the human is not authorised to share. As a starting list:
+
+- source code,
+- schema and data-model definitions,
+- configuration files,
+- internal documentation, design notes, decision records,
+- where they exist: architecture diagrams, integration maps, threat models.
+
+The upload is the input the Claw works against in step E. The size and shape of the trim is the human's call; the test is whether the Claw has enough material to make a substantive judgement.
+
+### E. Ask the Claw to review and advise
+
+The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Claw — see [00057 §2](00057-Layered-CORE-Model.md)).
+
+The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output (§7) inside that framing, on their own working rhythm.
+
+---
+
+## 3. The rule behind the process
 
 > **Get one human. Get one Claw. Begin.**
 > **Choose the person with the most experience and knowledge of the
 > solution.**
 
-Three sentences. Each one is doing work.
+Three sentences. Each one is doing work. The five-step process in §2 is the operational expression of this rule. The sections below explain why each part of the rule is load-bearing.
 
 ---
 
-## 3. Why one human
+## 4. Why one human
 
 Solution review is production work. Production work under the
 Foundation is bound by the
@@ -59,7 +103,7 @@ Solution sits under.
 
 ---
 
-## 4. Why one Claw
+## 5. Why one Claw
 
 A Claw carries the governance of the layer it serves
 ([00058 §2.1](00058-Claw.md)). A review of an existing solution
@@ -82,11 +126,11 @@ context and assumptions across reviews and breaks traceability.
 
 ---
 
-## 5. Why the most experienced human
+## 6. Why the most experienced human
 
 This is the load-bearing choice. Three reasons.
 
-### 5.1 The deepest knowledge goes in first
+### 6.1 The deepest knowledge goes in first
 
 The Claw's initial understanding of the solution is shaped by
 whoever teaches it. If the first human carries twenty years of
@@ -100,7 +144,7 @@ This is not a question of intelligence or skill. It is a question
 of starting capital. The Claw starts with the knowledge the first
 human brings. The right opening is the maximum.
 
-### 5.2 The undocumented is what matters
+### 6.2 The undocumented is what matters
 
 Every long-running solution carries knowledge that is not in any
 document. The workarounds adopted in 2014 because of a vendor bug
@@ -119,7 +163,7 @@ write. The pairing surfaces the undocumented and turns it into
 material the Solution can audit, govern, and carry forward across
 generations. That surfacing is the point of the review.
 
-### 5.3 Institutional memory across the time horizon
+### 6.3 Institutional memory across the time horizon
 
 A Foundation-aligned Solution is meant to last one hundred years,
 one thousand years
@@ -142,7 +186,7 @@ that pairing seeds the chain.
 
 ---
 
-## 6. What the review produces
+## 7. What the review produces
 
 A Solution Review produces, at minimum:
 
@@ -166,7 +210,7 @@ way, the review output is what is handed over.
 
 ---
 
-## 7. What the review is not
+## 8. What the review is not
 
 - It is not a deliverable that produces selling material. The output
   of a review is governance and provenance, not marketing. Sales
@@ -190,7 +234,7 @@ way, the review output is what is handed over.
 
 ---
 
-## 8. Relationship to other programme commitments
+## 9. Relationship to other programme commitments
 
 - The **Singular Pairing Principle**
   ([TrueAI 10001](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
@@ -210,13 +254,13 @@ way, the review output is what is handed over.
 
 ---
 
-## 9. Status
+## 10. Status
 
-This document, like all programme documents, is evolving. The three
-sentences of the rule (§2) are settled. Future revisions may
-elaborate on review outputs (§6) and on the relationship to
-Certification (§7) as more Solutions are reviewed and the practical
-shape becomes clearer.
+This document, like all programme documents, is evolving. The
+five-step process (§2) and the three sentences of the rule (§3)
+are settled. Future revisions may elaborate on review outputs
+(§7) and on the relationship to Certification (§8) as more
+Solutions are reviewed and the practical shape becomes clearer.
 
 Public-facing changes to the Solution Review guidance will be
 flagged in [HORIZON.md](../HORIZON.md).
