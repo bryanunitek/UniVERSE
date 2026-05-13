@@ -74,10 +74,11 @@ The five-step process assumes the solution owner — the human with the deepest 
 
 In practice, the most experienced human in a Solution is also frequently the busiest. Senior partners, founding architects, long-tenured heads of practice — the people who carry the institutional memory the review needs ([§6.2](#62-the-undocumented-is-what-matters)) — do not always have the working hours to sit with a Claw across the weeks a review takes.
 
-In that case, the work may be done on the solution owner's behalf by a **UniVERSE / TrueAI / UniCORE-AI expert** — an external practitioner who is fluent in the Foundation, the Layered CORE Model, and the programme's published commitments, and who provides Solution Review as a service. The five-step process does not change. What changes is who sits on the human side of the pairing, and what the solution owner must still supply.
+In that case, the work may be done on the solution owner's behalf by a **certified UniVERSE / TrueAI / UniCORE-AI expert** — an external practitioner who is fluent in the Foundation, the Layered CORE Model, and the programme's published commitments, who **holds a current Solution Review certificate issued by Unitek Systems Limited**, and who provides Solution Review as a service. The five-step process does not change. What changes is who sits on the human side of the pairing, and what the solution owner must still supply.
 
 **What the expert does**
 
+- Holds a **current Solution Review certificate issued by Unitek Systems Limited**, which names them as authorised to operate the Claw side of a delegated Solution Review on the programme's behalf. Uncertified practitioners may not offer Solution Review as a delegated service; an uncertified review is not a Solution Review in the programme's sense.
 - Operates the Claw across steps B, C, D, and E.
 - Carries the Foundation, the Layered CORE Model, and the Singular Pairing Principle into the session as the framing material the review must satisfy.
 - Acts as the named operator-of-record in the review output, alongside (not in place of) the solution owner.
@@ -94,11 +95,18 @@ The expert is a conduit, not a substitute. The institutional memory the review d
 
 **What the expert must not do**
 
+- Operate as a Solution Review provider without a current Unitek Systems Limited certificate. The certificate is the marker that distinguishes a programme-recognised expert from a practitioner who has merely read the public repositories.
 - Invent institutional memory the solution owner has not supplied. If the owner has not answered a question, the answer is *unknown to this review*; it is not the expert's guess.
 - Operate the pairing as a MyClaw ([00058 §2.3](00058-Claw.md#23-myclaw)). The Claw used in a delegated review is still a governed Claw, bound by the same governance the direct case is bound by.
 - Claim the review as their own work. The output is the solution owner's review of their solution, conducted with expert assistance. The attribution couplet ([§7](#7-what-the-review-produces)) reflects that.
 
 A delegated review honours [§6](#6-why-the-most-experienced-human) — the principle that the most experienced human matters — rather than working around it. It says: when the most experienced human cannot also be the most available one, the programme provides a way to bring their knowledge into the pairing through an expert who carries the governance in on their behalf.
+
+**About the certificate**
+
+The Solution Review certificate is issued by **Unitek Systems Limited** (UK company 04228041), as the originating organisation of UniVERSE, TrueAI, and UniCORE-AI. The certificate names the practitioner, the period for which it is current, and the L3 Scope-Domain CORE (or COREs) under which the practitioner is authorised to provide Solution Review services. The certificate is revocable. A revoked certificate ends the practitioner's authorisation to provide delegated Solution Review under the programme name, although it does not affect work already completed, published, and certified under a previously-current certificate.
+
+The full Solution Review certification scheme — criteria, examination, renewal, revocation, and the relationship between the certifying body and the L3 CORE governance layer — will be published as a separate programme document. Until that document is published, the certificate is held by direct nomination by Bryan Fred and Unitek Systems Limited; the scheme will replace nomination with a public process once defined.
 
 ---
 
