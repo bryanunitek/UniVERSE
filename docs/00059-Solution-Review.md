@@ -32,7 +32,7 @@ The operational shape of a Solution Review, end to end, is five steps:
 
 ### A. One human
 
-The person on the human side of the pairing is the one with the most experience and knowledge of the solution being reviewed. Not the most senior by job title; not the most recently joined; not a committee. The single human who carries the deepest lived context of the solution. (Why this person, in detail: §6.)
+The person on the human side of the pairing is the one with the most experience and knowledge of the solution being reviewed. Not the most senior by job title; not the most recently joined; not a committee. The single human who carries the deepest lived context of the solution. (Why this person, in detail: [§6](#6-why-the-most-experienced-human).)
 
 ### B. One Claw
 
@@ -66,7 +66,7 @@ The upload is the input the Claw works against in step E. The size and shape of 
 
 The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Claw — see [00057 §2](00057-Layered-CORE-Model.md)).
 
-The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output (§7) inside that framing, on their own working rhythm.
+The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output ([§7](#7-what-the-review-produces)) inside that framing, on their own working rhythm.
 
 ---
 
@@ -76,7 +76,7 @@ The Claw's first response is the start of the review, not the end of it. From st
 > **Choose the person with the most experience and knowledge of the
 > solution.**
 
-Three sentences. Each one is doing work. The five-step process in §2 is the operational expression of this rule. The sections below explain why each part of the rule is load-bearing.
+Three sentences. Each one is doing work. The five-step process in [§2](#2-the-process) is the operational expression of this rule. The sections below explain why each part of the rule is load-bearing.
 
 ---
 
@@ -257,9 +257,9 @@ way, the review output is what is handed over.
 ## 10. Status
 
 This document, like all programme documents, is evolving. The
-five-step process (§2) and the three sentences of the rule (§3)
+five-step process ([§2](#2-the-process)) and the three sentences of the rule ([§3](#3-the-rule-behind-the-process))
 are settled. Future revisions may elaborate on review outputs
-(§7) and on the relationship to Certification (§8) as more
+([§7](#7-what-the-review-produces)) and on the relationship to Certification ([§8](#8-what-the-review-is-not)) as more
 Solutions are reviewed and the practical shape becomes clearer.
 
 Public-facing changes to the Solution Review guidance will be

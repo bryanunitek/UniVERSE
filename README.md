@@ -93,7 +93,7 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 
 ## The Nine Invariants
 
-An AI system aligned with the TrueAI Foundation must satisfy these nine invariants. Canonical long-form statement: [`TrueAI/docs/whitepaper/WHITEPAPER.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) § 3.
+An AI system aligned with the TrueAI Foundation must satisfy these nine invariants. Canonical long-form statement: [`TrueAI/docs/whitepaper/WHITEPAPER.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) [§3](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#3-the-nine-invariants).
 
 1. **No Autonomy.** The AI does not generate goals, initiate decisions, or take actions outside human-defined thresholds.
 2. **No Self-Modification.** The AI does not alter its own architecture, constraints, governance, or thresholds.

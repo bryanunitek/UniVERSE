@@ -90,12 +90,12 @@ A binary governed/ungoverned split is too coarse for regulation. The ladder belo
 |---|---|---|
 | 0 | Uncontrolled | None. Typical of today's consumer AI. |
 | 1 | Logged | Every input and output is recorded. |
-| 2 | Reproducible | Decisions are reproducible at the decision boundary (§2.1). |
-| 3 | Bounded | Action set is enumerated and enforced (§2.2). |
-| **4** | **Operational floor** | **Human override, authority binding, reversibility window (§2.5–2.6). This is the minimum for any system taking consequential action.** |
-| 5 | Auditable | Decision-boundary transparency records are tamper-evident and retained (§2.4). |
-| 6 | Non-self-modifying | No in-deployment weight, prompt, or policy mutation (§2.3). |
-| 7 | Non-influencing | No optimisation against user psychology (§2.7). |
+| 2 | Reproducible | Decisions are reproducible at the decision boundary ([§2.1](#21-reproducibility)). |
+| 3 | Bounded | Action set is enumerated and enforced ([§2.2](#22-bounded-behavioural-surface)). |
+| **4** | **Operational floor** | **Human override, authority binding, reversibility window ([§2.5–2.6](#25-reversibility-within-a-stated-window)). This is the minimum for any system taking consequential action.** |
+| 5 | Auditable | Decision-boundary transparency records are tamper-evident and retained ([§2.4](#24-decision-boundary-transparency)). |
+| 6 | Non-self-modifying | No in-deployment weight, prompt, or policy mutation ([§2.3](#23-no-self-modification-in-deployment)). |
+| 7 | Non-influencing | No optimisation against user psychology ([§2.7](#27-no-influence-operations-against-users)). |
 | 8 | Cross-system | Authority and audit records survive across system boundaries (multi-vendor, multi-jurisdiction). |
 | 9 | Civic | Decisions affecting public services carry a public-record counterpart accessible to the affected party. |
 | 10 | Democratic | Classes of decision affecting populations require a deliberative mandate, not a technical one. |
@@ -179,7 +179,7 @@ The answer is architectural. The window to specify the architecture is now.
 | EU AI Act, high-risk systems | Level 4 floor; Level 5 for systems used in justice, migration, and essential services |
 | NIST AI RMF | The seven criteria map to Govern, Map, Measure, Manage; the ladder gives Manage a floor |
 | ISO/IEC 42001 | Level 5 is the minimum posture for ISO/IEC 42001 certification under this framework |
-| UK AI regulatory principles | Accountability and contestability map to §2.4 and §2.6; safety maps to §2.2 and §2.5 |
+| UK AI regulatory principles | Accountability and contestability map to [§2.4](#24-decision-boundary-transparency) and [§2.6](#26-authority-binding); safety maps to [§2.2](#22-bounded-behavioural-surface) and [§2.5](#25-reversibility-within-a-stated-window) |
 | FDA SaMD | Level 6 minimum for locked algorithms; Level 7 for systems influencing clinician behaviour |
 
 Mappings are indicative, not a claim of equivalence. Each regime has context the ladder does not capture.

@@ -78,7 +78,7 @@ by UniCORE AI, built on the TrueAI Foundation, is in the Solutions
 tier.
 
 Services-built. Sellable as services-delivered work. Required to
-attribute its CORE origins (see §4).
+attribute its CORE origins (see [§4](#4-attribution)).
 
 The Solutions tier is where commercial value lives. The CORE tiers
 above it are explicitly outside the commercial layer.
