@@ -37,8 +37,8 @@ The person on the human side of the pairing is the one with the most experience 
 ### B. One Claw
 
 The AI side of the pairing is one **Claw** — a governed human-AI channel as defined in
-[00058 §2.1](00058-Claw.md). Not a **MyClaw**
-([00058 §2.3](00058-Claw.md)) — a personal, ungoverned AI connection cannot carry the governance the review output needs to inherit. One Claw, one Solution, one review.
+[00058 §2.1](00058-Claw.md#21-claw). Not a **MyClaw**
+([00058 §2.3](00058-Claw.md#23-myclaw)) — a personal, ungoverned AI connection cannot carry the governance the review output needs to inherit. One Claw, one Solution, one review.
 
 ### C. Give the Claw access to the three programme repositories
 
@@ -64,7 +64,7 @@ The upload is the input the Claw works against in step E. The size and shape of 
 
 ### E. Ask the Claw to review and advise
 
-The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Claw — see [00057 §2](00057-Layered-CORE-Model.md)).
+The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Claw — see [00057 §2](00057-Layered-CORE-Model.md#2-the-four-tiers)).
 
 The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output ([§7](#7-what-the-review-produces)) inside that framing, on their own working rhythm.
 
@@ -106,13 +106,13 @@ Solution sits under.
 ## 5. Why one Claw
 
 A Claw carries the governance of the layer it serves
-([00058 §2.1](00058-Claw.md)). A review of an existing solution
+([00058 §2.1](00058-Claw.md#21-claw)). A review of an existing solution
 needs to happen *inside* that governance envelope, because the
 output of the review will be claimed as Foundation-aligned work and
 will be audited as such.
 
 A MyClaw is the wrong tool for this work
-([00058 §2.3](00058-Claw.md)). A MyClaw carries no governance, no
+([00058 §2.3](00058-Claw.md#23-myclaw)). A MyClaw carries no governance, no
 attribution couplet, no audit trail against programme rules. Output
 from a MyClaw cannot be claimed as Foundation-aligned. Using a
 MyClaw to review an existing solution that the owner intends to
@@ -167,7 +167,7 @@ generations. That surfacing is the point of the review.
 
 A Foundation-aligned Solution is meant to last one hundred years,
 one thousand years
-([00057 §2 Time horizon of a Solution](00057-Layered-CORE-Model.md)).
+([00057 §2 Time horizon of a Solution](00057-Layered-CORE-Model.md#time-horizon-of-a-solution)).
 Across a horizon of that length, the institutional memory entering
 the system at the first pairing is the seed of everything the
 Solution will know about itself in century three.
@@ -191,13 +191,13 @@ that pairing seeds the chain.
 A Solution Review produces, at minimum:
 
 - a **named Solution** with explicit attribution
-  ([00057 §4 Attribution](00057-Layered-CORE-Model.md));
+  ([00057 §4 Attribution](00057-Layered-CORE-Model.md#4-attribution));
 - a **declared CORE alignment** — which L3 CORE (if any) the
   Solution derives from, and which Foundation layers it builds on;
 - a **content provenance map** — what is taken from CORE (and
   therefore propagates the gift), what is built fresh, and which
   pieces require explicit decisions
-  ([00057 §3.2](00057-Layered-CORE-Model.md));
+  ([00057 §3.2](00057-Layered-CORE-Model.md#32-what-take-content-from-core-means));
 - a **human-of-record** — the senior human in the pairing, named
   as Solution author and certifier;
 - a **Claw-of-record** — the specific Claw used for the review,
@@ -230,7 +230,7 @@ way, the review output is what is handed over.
   identify content that should be lifted into a new CORE rather
   than retained in the Solution. That decision is a separate
   workstream and follows
-  [00057 §3.1 Gift propagation](00057-Layered-CORE-Model.md).
+  [00057 §3.1 Gift propagation](00057-Layered-CORE-Model.md#31-gift-propagation).
 
 ---
 
