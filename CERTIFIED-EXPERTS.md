@@ -32,7 +32,11 @@ This is the same logic as a professional registry. The point of publishing the n
 
 ## 2. How certificates are held
 
-Three distinct paths exist:
+Certification is **open to practitioners at all career stages** — from university students and junior consultants through to senior engineers and partners. The [Senior-level requirement in 00059 §6](docs/00059-Solution-Review.md#6-why-the-most-experienced-human) is **role-specific**, not exclusionary: it applies to the *Solution Review* role itself, because that role depends on the deepest available institutional memory of the solution being reviewed. The certification scheme that authorises a practitioner to provide Solution Review (and other delegated programme services) is intentionally broader. It is the route by which students, junior consultants, and mid-career practitioners contribute to UniVERSE, TrueAI, and UniCORE-AI, build the public track record that the certifying body weighs, and grow into the work the AI Enterprise Solutions of the future will need them to do.
+
+**[GitHub Discussions](DISCUSSIONS.md) is the public venue where certification work happens.** Certification steps begin in Discussions. Over time, certifications will be **given** as part of Discussions: nominations, the reasoning behind them, and the issuance event itself will be visible there. The signed Git commit that adds a row to §3.1 below remains the canonical record, but the public conversation that leads to that commit lives in Discussions. This is what makes the scheme open and visible rather than private and discretionary.
+
+Three distinct paths to holding a certificate exist:
 
 ### 2.1 Default-held certificate (no issuance required)
 
@@ -42,11 +46,11 @@ The default-held certificate **passes to any successor** named under the [TrueAI
 
 ### 2.2 Issued by direct nomination (interim regime)
 
-Until the full Solution Review certification scheme is published as a separate programme document, certificates other than the default-held certificate are issued by **direct nomination** by Bryan Fred and Unitek Systems Limited. Nomination is recorded in this register; the act of adding a name to §3.1 below, in a signed Git commit, is the issuance event.
+Until the full Solution Review certification scheme is published as a separate programme document, certificates other than the default-held certificate are issued by **direct nomination** by Bryan Fred and Unitek Systems Limited. Nominations originate in [Discussions](DISCUSSIONS.md), where practitioners contribute openly to programme threads and where the certifying body forms its view of who is ready for certification. Nomination is recorded in this register; the act of adding a name to §3.1 below, in a signed Git commit, is the issuance event.
 
 ### 2.3 Issued under the full certification scheme (future)
 
-When the full Solution Review certification scheme is published, the issuance path will change from nomination to a public process (criteria, examination, the licence-violation revocation procedure). The register will continue to be the canonical public record of who holds a certificate, regardless of which path issued it.
+When the full Solution Review certification scheme is published, the issuance path will change from direct nomination to a defined public process (criteria, examination, the licence-violation revocation procedure). [Discussions](DISCUSSIONS.md) will remain the venue in which the public-facing parts of that process run. The register will continue to be the canonical public record of who holds a certificate, regardless of which path issued it.
 
 ---
 
@@ -92,9 +96,10 @@ The default-held certificate (Bryan Fred and successors) cannot be revoked becau
 
 Under the interim regime (§2.2):
 
-1. Bryan Fred and Unitek Systems Limited identify a practitioner to nominate.
-2. The practitioner is added as a new row in §3.1 of this file by signed Git commit. The commit author is `bryanunitek <bryan.fred@unitek-systems.com>`. The commit message names the practitioner and the L3 Scope-Domain CORE(s) authorised.
-3. The commit's date in the public Git history of the UniVERSE repository is the **issuance event** for the certificate. There is no separate paper instrument; the public commit is the certificate.
+1. A practitioner contributes to programme [Discussions](DISCUSSIONS.md). This is the entry step. The contributions — questions, drafts, reviews, applied work shared back to the programme — form the public track record that the certifying body weighs.
+2. Bryan Fred and Unitek Systems Limited identify a practitioner to nominate, on the strength of that public record.
+3. The practitioner is added as a new row in §3.1 of this file by signed Git commit. The commit author is `bryanunitek <bryan.fred@unitek-systems.com>`. The commit message names the practitioner and the L3 Scope-Domain CORE(s) authorised, and links back to the Discussions thread(s) the nomination is grounded in.
+4. The commit's date in the public Git history of the UniVERSE repository is the **issuance event** for the certificate. There is no separate paper instrument; the public commit is the certificate.
 
 Under the full certification scheme (§2.3), the addition path will be replaced by the scheme's defined process. The Git commit will remain the public-record step.
 
