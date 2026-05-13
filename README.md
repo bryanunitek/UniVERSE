@@ -155,6 +155,13 @@ The UniVERSE programme materials are ready to cite, challenge, and build against
 
 This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](AI-AUTHORSHIP.md).
 
+## Deployment principles
+
+Two deployment-topology principles govern how UniCORE Solutions must be produced and certified before layered governance is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in the TrueAI Foundation:
+
+- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/057-BC-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/058-BD-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
+
 ## Succession
 
 Stewardship of the programme is recorded in [SUCCESSION.md](SUCCESSION.md). The named successor (when nominated) is recorded there; the fallback procedure is set out in the same document. The gift principle is not subject to succession — it has already been given.
