@@ -245,7 +245,7 @@ They need truth-anchored frameworks
 
 UniCORE fits their open AI ecosystem
 
-⭐ The Real Strategy (Summary)
+The Real Strategy (Summary)
 
 1. Publish UniCORE AI publicly
 

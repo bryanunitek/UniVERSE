@@ -179,4 +179,4 @@ UniCORE AI is:
 
 It is **given** — because truth, governance, and safety at civilisational scale cannot be **sold**.
 
-— End of Addendum AA-1 —
+— End of Addendum —

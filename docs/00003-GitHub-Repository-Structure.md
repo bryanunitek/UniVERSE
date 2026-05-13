@@ -225,7 +225,7 @@ unicore-ai/
 
     └── TruthCheckCLI/
 
-⭐ Explanation of Why This Structure Works
+Explanation of Why This Structure Works
 
 ✔ Clear separation of concerns
 
@@ -253,6 +253,6 @@ Researchers, engineers, and governance experts can work independently.
 
 Whitepaper + diagrams + MD files are cleanly organised.
 
-⭐ C is complete.
+C is complete.
 
 Shall I proceed to D — the Public Announcement Draft?

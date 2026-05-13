@@ -173,7 +173,7 @@ unicore-ai.org/
 
     └── Space Exploration Updates
 
-⭐ What This Website Structure Communicates
+What This Website Structure Communicates
 
 ✔ Professionalism
 

@@ -197,7 +197,7 @@ The hierarchy of authority is:
 
 Human Sovereignty
 
-Final Sovereignty Charter (AZ)
+Final Sovereignty Charter
 
 All other UniCORE governance documents
 

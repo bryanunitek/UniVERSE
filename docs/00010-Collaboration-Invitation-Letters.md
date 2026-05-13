@@ -47,7 +47,7 @@ I would welcome the opportunity to share the whitepaper, governance MD files, an
 
 Respectfully,Bryan Unitek Systems LimitedBedford, United Kingdom
 
-⭐ 2. OpenAI (Safety, Alignment, Research Partnerships)
+2. OpenAI (Safety, Alignment, Research Partnerships)
 
 Subject: Invitation to Review UniCORE AI — A Non-Self-Modifying Governance Architecture
 
@@ -97,7 +97,7 @@ I would be honored to share the whitepaper and prototype for review.
 
 Respectfully,Bryan Unitek Systems LimitedBedford, United Kingdom
 
-⭐ 3. Google DeepMind / Gemini
+3. Google DeepMind / Gemini
 
 Subject: Collaboration Opportunity: UniCORE AI Governance Architecture
 
@@ -137,7 +137,7 @@ I would welcome the opportunity to share the whitepaper and prototype with your 
 
 Respectfully,Bryan Unitek Systems LimitedBedford, United Kingdom
 
-⭐ 4. Anthropic (Claude, Constitutional AI)
+4. Anthropic (Claude, Constitutional AI)
 
 Subject: Invitation to Collaborate on UniCORE AI — A GovernanceGrade Architecture
 
