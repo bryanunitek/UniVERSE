@@ -82,6 +82,8 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 | 00054 | UniCORE AI Final Sovereignty Charter |
 | 00055 | UniCORE AI End of Universe Continuity Protocols |
 | 00056 | UniCORE AI Absolute Safety Invariants |
+| 10001 | Singular Pairing Principle (TrueAI-scoped) |
+| 10002 | Certification Before Layered Governance (TrueAI-scoped) |
 
 ---
 
@@ -157,10 +159,10 @@ This repository is produced with AI assistance operating under TrueAI governance
 
 ## Deployment principles
 
-Two deployment-topology principles govern how UniCORE Solutions must be produced and certified before layered governance is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in the TrueAI Foundation:
+Two deployment-topology principles govern how UniCORE Solutions must be produced and certified before layered governance is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in this repository:
 
-- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
+- [**Singular Pairing Principle**](docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
 
 ## Succession
 
