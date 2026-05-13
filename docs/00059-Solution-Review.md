@@ -68,6 +68,38 @@ The human asks the Claw, in their own words, to review the uploaded solution and
 
 The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output ([§7](#7-what-the-review-produces)) inside that framing, on their own working rhythm.
 
+### If the solution owner cannot operate the Claw directly
+
+The five-step process assumes the solution owner — the human with the deepest experience and knowledge of the solution — sits in the pairing themselves. That is the preferred shape, and it is what the rule in [§3](#3-the-rule-behind-the-process) names.
+
+In practice, the most experienced human in a Solution is also frequently the busiest. Senior partners, founding architects, long-tenured heads of practice — the people who carry the institutional memory the review needs ([§6.2](#62-the-undocumented-is-what-matters)) — do not always have the working hours to sit with a Claw across the weeks a review takes.
+
+In that case, the work may be done on the solution owner's behalf by a **UniVERSE / TrueAI / UniCORE-AI expert** — an external practitioner who is fluent in the Foundation, the Layered CORE Model, and the programme's published commitments, and who provides Solution Review as a service. The five-step process does not change. What changes is who sits on the human side of the pairing, and what the solution owner must still supply.
+
+**What the expert does**
+
+- Operates the Claw across steps B, C, D, and E.
+- Carries the Foundation, the Layered CORE Model, and the Singular Pairing Principle into the session as the framing material the review must satisfy.
+- Acts as the named operator-of-record in the review output, alongside (not in place of) the solution owner.
+- Declares the delegation explicitly in the review's attribution couplet, so the audit trail records both the human-of-record and the operator who ran the pairing on their behalf.
+
+**What the solution owner must still supply, directly**
+
+The expert is a conduit, not a substitute. The institutional memory the review depends on lives in the solution owner, not in the expert, and the review collapses to a surface read if the owner does not put themselves into the loop at the points where their knowledge is the only knowledge that exists. At minimum, the solution owner must:
+
+- Authorise the trimmed archive (step D) and confirm what may and may not be shared.
+- Answer the questions that surface during the pairing — in person, on a call, in writing, asynchronously — in their own words, so the material entering the Claw is the owner's institutional memory and not the expert's reconstruction of it.
+- Be available for clarifications across the working period of the review. A review that proceeds for days without any direct input from the owner is, in this document's terms, not a Solution Review of *their* solution — it is the expert's reading of it.
+- Sign off on the review output as the human-of-record before it is published or relied on internally.
+
+**What the expert must not do**
+
+- Invent institutional memory the solution owner has not supplied. If the owner has not answered a question, the answer is *unknown to this review*; it is not the expert's guess.
+- Operate the pairing as a MyClaw ([00058 §2.3](00058-Claw.md#23-myclaw)). The Claw used in a delegated review is still a governed Claw, bound by the same governance the direct case is bound by.
+- Claim the review as their own work. The output is the solution owner's review of their solution, conducted with expert assistance. The attribution couplet ([§7](#7-what-the-review-produces)) reflects that.
+
+A delegated review honours [§6](#6-why-the-most-experienced-human) — the principle that the most experienced human matters — rather than working around it. It says: when the most experienced human cannot also be the most available one, the programme provides a way to bring their knowledge into the pairing through an expert who carries the governance in on their behalf.
+
 ---
 
 ## 3. The rule behind the process
