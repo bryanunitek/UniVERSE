@@ -78,6 +78,17 @@ When a certificate is revoked on those grounds, the corresponding row is moved f
 
 There is no expiry mechanism. Certificates do not lapse with time and there is no renewal process.
 
+### 3.3 How to verify a certificate
+
+The canonical source of truth for any certificate is this file, in its **current state on the `main` branch of the [UniVERSE repository](https://github.com/bryanunitek/UniVERSE)** at the moment of verification. The Git history of this file records every issuance and every revocation as a signed commit; nothing else exists outside the public record.
+
+For readers who want to confirm a name against the register but do not wish to work directly with Git, **two channels are provided by Unitek Systems Limited**:
+
+- **Public verification — via [Discussions](DISCUSSIONS.md).** A reader, customer, regulator, or counterparty may open a Discussion thread in the UniVERSE repository asking whether a named practitioner is certified, and at what scope. The answer is given publicly in-thread. Public verification is suitable where there is no confidentiality concern and the asking party is content for the question and its answer to remain part of the programme's public record.
+- **Private verification — via LinkedIn direct message to [Bryan Fred](https://www.linkedin.com/in/bryan-fred-02209753/).** Where the asking party prefers not to put a verification question on the public record (commercial confidentiality, regulatory privacy, client-relationship sensitivity), the same question may be sent privately. The answer is given privately, and references the same register entries that would have been quoted in a public response.
+
+Both channels are authoritative. Neither channel can issue a certificate, change a register entry, or override what is recorded in the file; their role is to make the file's contents queryable for parties who would otherwise have to read raw Git history. Verification by either channel never invents a certification not recorded here — if the file says the practitioner is not certified, that is the answer in either channel.
+
 ---
 
 ## 4. When a certificate may be revoked
