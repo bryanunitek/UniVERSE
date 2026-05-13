@@ -52,6 +52,8 @@ Until the full Solution Review certification scheme is published as a separate p
 
 When the full Solution Review certification scheme is published, the issuance path will change from direct nomination to a defined public process (criteria, examination, the licence-violation revocation procedure). [Discussions](DISCUSSIONS.md) will remain the venue in which the public-facing parts of that process run. The register will continue to be the canonical public record of who holds a certificate, regardless of which path issued it.
 
+**Candidate mechanism under consideration: Discussion Points.** One model the certifying body is considering for the full scheme is a points-based pathway, in which practitioners accumulate **Discussion Points** through their public contributions to programme threads (questions, drafts, reviews, applied work shared back), and may **request certification via Discussions** once they reach a defined threshold. Under this model, the path to a certificate becomes practitioner-initiated rather than purely nomination-initiated: a practitioner who has earned the threshold and believes themselves ready may open a Discussion thread requesting certification, the certifying body reviews the public record, and (if approved) the same signed-Git-commit issuance event applies. Points criteria, threshold values, and any examination component are deliberately not defined in this register; they belong in the separate scheme document referenced above. This paragraph names the candidate mechanism so that contributions made under the interim regime are not lost if the future scheme adopts a points-based on-ramp.
+
 ---
 
 ## 3. The register
