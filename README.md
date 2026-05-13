@@ -24,64 +24,64 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 
 ## Document Index
 
-| Code | Title |
-|------|-------|
-| 001 | Contact Strategy for Each Major AI Company |
-| 002 | UniCORE AI Whitepaper Outline (Publication Ready) |
-| 003 | GitHub Repository Structure for UniCORE AI |
-| 004 | Public Announcement Draft for UniCORE AI |
-| 005 | UniCORE AI Technical Architecture Diagram (Text Based) |
-| 006 | The Governance Constitution for TrueAI |
-| 007 | The Reasonable Governance Threshold Specification |
-| 008 | Human Override Protocol |
-| 009 | UniCORE AI Licensing Model (Gift Based, Non Commercial) |
-| 010 | Collaboration Invitation Letters |
-| 011 | UniCORE AI Website Structure |
-| 012 | UniCORE AI Launch Video Script |
-| 013 | UniCORE AI Research Abstract (for arXiv) |
-| 014 | UniCORE AI Executive Summary (For CEOs & CTOs) |
-| 015 | UniCORE AI Technical API Specification |
-| 016 | UniCORE AI Data Model (XPO + SQL Schema) |
-| 017 | UniCORE AI Inter Level Messaging Protocol (ILMP) |
-| 018 | UniCORE AI Space Mission Governance Pack |
-| 019 | UniCORE AI Enterprise Deployment Guide |
-| 020 | UniCORE AI Compliance & Regulatory Mapping |
-| 021 | UniCORE AI Risk Register (Enterprise + Space Mission) |
-| 022 | UniCORE AI Operational Playbook |
-| 023 | UniCORE AI Training & Certification Framework |
-| 024 | UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios) |
-| 025 | UniCORE AI Multi Model Integration Framework |
-| 026 | UniCORE AI Global Governance Charter |
-| 027 | UniCORE AI Master Document |
-| 028 | TrueAI Foundation Gift Principle (Given, Not Sold) |
-| 029 | Machine-Level Integration (C++ and Other Machine Languages) |
-| 030 | UniCORE AI Launch Press Kit |
-| 031 | UniCORE AI Global Presentation Deck (100 Slides) |
-| 032 | UniCORE AI Licensing Framework |
-| 033 | UniCORE AI 100 Year Roadmap (2026–2126) |
-| 034 | UniCORE AI Global Adoption Strategy |
-| 035 | UniCORE AI Technical Reference (Developer Edition) |
-| 036 | UniCORE AI Governance Simulation Scenarios |
-| 037 | UniCORE AI Public Education Framework |
-| 038 | UniCORE AI Interplanetary Law Appendix |
-| 039 | UniCORE AI Habitat Governance Codex |
-| 040 | UniCORE AI Deep Space Communication Protocols |
-| 041 | UniCORE AI Cryogenic Hibernation Law |
-| 042 | UniCORE AI Multi Habitat Coordination Framework |
-| 043 | UniCORE AI Interplanetary Settlement Charter |
-| 044 | UniCORE AI Multi Model Robotics Governance |
-| 045 | UniCORE AI Terraforming Governance Appendix |
-| 046 | UniCORE AI Long Duration Mission Psychology Protocols |
-| 047 | UniCORE AI Interplanetary Economic Framework |
-| 048 | UniCORE AI Multi Century Governance Continuity Charter |
-| 049 | UniCORE AI Deep Space Ethical Codex |
-| 050 | UniCORE AI Interplanetary Cultural Preservation Framework |
-| 051 | UniCORE AI Galactic Expansion Governance Primer |
-| 052 | UniCORE AI Multiversal Contingency Appendix |
-| 053 | UniCORE AI Eternal Archive Codex |
-| 054 | UniCORE AI Final Sovereignty Charter |
-| 055 | UniCORE AI End of Universe Continuity Protocols |
-| 056 | UniCORE AI Absolute Safety Invariants |
+| Code  | Title |
+|-------|-------|
+| 00001 | Contact Strategy for Each Major AI Company |
+| 00002 | UniCORE AI Whitepaper Outline (Publication Ready) |
+| 00003 | GitHub Repository Structure for UniCORE AI |
+| 00004 | Public Announcement Draft for UniCORE AI |
+| 00005 | UniCORE AI Technical Architecture Diagram (Text Based) |
+| 00006 | The Governance Constitution for TrueAI |
+| 00007 | The Reasonable Governance Threshold Specification |
+| 00008 | Human Override Protocol |
+| 00009 | UniCORE AI Licensing Model (Gift Based, Non Commercial) |
+| 00010 | Collaboration Invitation Letters |
+| 00011 | UniCORE AI Website Structure |
+| 00012 | UniCORE AI Launch Video Script |
+| 00013 | UniCORE AI Research Abstract (for arXiv) |
+| 00014 | UniCORE AI Executive Summary (For CEOs & CTOs) |
+| 00015 | UniCORE AI Technical API Specification |
+| 00016 | UniCORE AI Data Model (XPO + SQL Schema) |
+| 00017 | UniCORE AI Inter Level Messaging Protocol (ILMP) |
+| 00018 | UniCORE AI Space Mission Governance Pack |
+| 00019 | UniCORE AI Enterprise Deployment Guide |
+| 00020 | UniCORE AI Compliance & Regulatory Mapping |
+| 00021 | UniCORE AI Risk Register (Enterprise + Space Mission) |
+| 00022 | UniCORE AI Operational Playbook |
+| 00023 | UniCORE AI Training & Certification Framework |
+| 00024 | UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios) |
+| 00025 | UniCORE AI Multi Model Integration Framework |
+| 00026 | UniCORE AI Global Governance Charter |
+| 00027 | UniCORE AI Master Document |
+| 00028 | TrueAI Foundation Gift Principle (Given, Not Sold) |
+| 00029 | Machine-Level Integration (C++ and Other Machine Languages) |
+| 00030 | UniCORE AI Launch Press Kit |
+| 00031 | UniCORE AI Global Presentation Deck (100 Slides) |
+| 00032 | UniCORE AI Licensing Framework |
+| 00033 | UniCORE AI 100 Year Roadmap (2026–2126) |
+| 00034 | UniCORE AI Global Adoption Strategy |
+| 00035 | UniCORE AI Technical Reference (Developer Edition) |
+| 00036 | UniCORE AI Governance Simulation Scenarios |
+| 00037 | UniCORE AI Public Education Framework |
+| 00038 | UniCORE AI Interplanetary Law Appendix |
+| 00039 | UniCORE AI Habitat Governance Codex |
+| 00040 | UniCORE AI Deep Space Communication Protocols |
+| 00041 | UniCORE AI Cryogenic Hibernation Law |
+| 00042 | UniCORE AI Multi Habitat Coordination Framework |
+| 00043 | UniCORE AI Interplanetary Settlement Charter |
+| 00044 | UniCORE AI Multi Model Robotics Governance |
+| 00045 | UniCORE AI Terraforming Governance Appendix |
+| 00046 | UniCORE AI Long Duration Mission Psychology Protocols |
+| 00047 | UniCORE AI Interplanetary Economic Framework |
+| 00048 | UniCORE AI Multi Century Governance Continuity Charter |
+| 00049 | UniCORE AI Deep Space Ethical Codex |
+| 00050 | UniCORE AI Interplanetary Cultural Preservation Framework |
+| 00051 | UniCORE AI Galactic Expansion Governance Primer |
+| 00052 | UniCORE AI Multiversal Contingency Appendix |
+| 00053 | UniCORE AI Eternal Archive Codex |
+| 00054 | UniCORE AI Final Sovereignty Charter |
+| 00055 | UniCORE AI End of Universe Continuity Protocols |
+| 00056 | UniCORE AI Absolute Safety Invariants |
 
 ---
 
@@ -159,8 +159,8 @@ This repository is produced with AI assistance operating under TrueAI governance
 
 Two deployment-topology principles govern how UniCORE Solutions must be produced and certified before layered governance is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in the TrueAI Foundation:
 
-- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/057-BC-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/058-BD-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
+- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/00057-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/00058-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
 
 ## Succession
 
