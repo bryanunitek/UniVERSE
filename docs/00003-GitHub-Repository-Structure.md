@@ -1,6 +1,13 @@
-⭐ C — GitHub Repository Structure for UniCORE AI
+# GitHub Repository Structure for UniCORE AI
 
-(This is the exact structure you should publish.)
+**(This is the exact structure you should publish.)**
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
+
+---
 
 unicore-ai/
 
@@ -94,7 +101,7 @@ unicore-ai/
 
 │   │   │   └── Level12_Human_Governance.md
 
-│   │   └── InterLevel_Communication.md
+│   │   └── Inter-Level_Communication.md
 
 │   │
 
@@ -218,8 +225,6 @@ unicore-ai/
 
     └── TruthCheckCLI/
 
-
-
 ⭐ Explanation of Why This Structure Works
 
 ✔ Clear separation of concerns
@@ -246,9 +251,7 @@ Researchers, engineers, and governance experts can work independently.
 
 ✔ Supports publication
 
-Whitepaper + diagrams + MD files are cleanly organized.
-
-
+Whitepaper + diagrams + MD files are cleanly organised.
 
 ⭐ C is complete.
 

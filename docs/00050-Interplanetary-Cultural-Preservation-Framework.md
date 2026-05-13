@@ -1,14 +1,15 @@
-⭐ AV — UniCORE AI Interplanetary Cultural Preservation Framework
+# UniCORE AI Interplanetary Cultural Preservation Framework
 
-Heritage Protection • Cultural Neutrality • MultiPlanet Continuity
-
-Version 1.0 — May 2026
+**Heritage Protection • Cultural Neutrality • MultiPlanet Continuity**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Interplanetary Cultural Preservation Framework defines how UniCORE AI:
 
@@ -22,7 +23,7 @@ prevents cultural homogenization
 
 prevents AIdriven cultural influence
 
-maintains neutrality across civilizations
+maintains neutrality across civilisations
 
 supports archival integrity across centuries
 
@@ -36,13 +37,11 @@ Mars colonies
 
 orbital stations
 
-deepspace missions
+deep-space missions
 
 multigeneration habitats
 
-
-
-2. FOUNDATIONAL PRINCIPLES
+## 2. Foundational Principles
 
 2.1 Cultural Sovereignty
 
@@ -62,7 +61,7 @@ interpret cultural meaning
 
 Culture belongs exclusively to humans.
 
-2.2 No Autonomous Cultural Behavior
+2.2 No Autonomous Cultural Behaviour
 
 AI cannot autonomously:
 
@@ -78,7 +77,7 @@ model cultural evolution
 
 2.3 Deterministic Cultural Governance
 
-All AI behavior must be:
+All AI behaviour must be:
 
 predictable
 
@@ -114,9 +113,7 @@ ideologically neutral
 
 religiously neutral
 
-
-
-3. CULTURAL GOVERNANCE FILES
+## 3. Cultural Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -144,9 +141,7 @@ tradition protection boundaries
 
 AI cannot modify these files.
 
-
-
-4. CULTURAL PRESERVATION DOMAINS
+## 4. Cultural Preservation Domains
 
 UniCORE AI must preserve:
 
@@ -204,9 +199,7 @@ community identity
 
 AI preserves — but never interprets or influences.
 
-
-
-5. ARCHIVAL GOVERNANCE
+## 5. Archival Governance
 
 UniCORE AI must maintain:
 
@@ -248,9 +241,7 @@ summarize
 
 translate without instruction
 
-
-
-6. INTERPLANETARY CULTURAL CONTINUITY
+## 6. Interplanetary Cultural Continuity
 
 As humanity spreads across planets:
 
@@ -288,9 +279,7 @@ recommend cultural exchange
 
 synchronize cultural practices
 
-
-
-7. MULTIGENERATION CULTURAL PRESERVATION
+## 7. Multigeneration Cultural Preservation
 
 For missions lasting decades or centuries:
 
@@ -326,9 +315,7 @@ shape community identity
 
 guide generational transitions
 
-
-
-8. EMERGENCY CULTURAL PROTECTION
+## 8. Emergency Cultural Protection
 
 Emergencies include:
 
@@ -362,9 +349,7 @@ generate replacement materials
 
 reinterpret lost traditions
 
-
-
-9. DRIFT DETECTION
+## 9. Drift Detection
 
 UniCORE AI must detect:
 
@@ -378,7 +363,7 @@ governance drift
 
 communication drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Cultural Safe Mode
 
@@ -388,15 +373,13 @@ log event
 
 escalate to human authority
 
-
-
-10. BLACKOUT & DEEPTIME CULTURAL GOVERNANCE
+## 10. Blackout & Deeptime Cultural Governance
 
 During:
 
 multiyear blackouts
 
-deepspace isolation
+deep-space isolation
 
 interstellar precursor missions
 
@@ -412,9 +395,7 @@ await human instruction
 
 Isolation does not grant cultural authority.
 
-
-
-11. HUMAN OVERRIDE
+## 11. Human Override
 
 Humans may override:
 

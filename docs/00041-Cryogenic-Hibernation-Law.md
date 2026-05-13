@@ -1,14 +1,15 @@
-⭐ AM — UniCORE AI Cryogenic Hibernation Law
+# UniCORE AI Cryogenic Hibernation Law
 
-Medical Sovereignty • Threshold Enforcement • Emergency Stabilization
-
-Version 1.0 — May 2026
+**Medical Sovereignty • Threshold Enforcement • Emergency Stabilization**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Cryogenic Hibernation Law defines how UniCORE AI:
 
@@ -20,11 +21,11 @@ prevents autonomous medical decisions
 
 stabilizes lifesupport during anomalies
 
-maintains deterministic behavior
+maintains deterministic behaviour
 
 preserves human sovereignty even during unconsciousness
 
-ensures longduration safety for multiyear missions
+ensures long-duration safety for multiyear missions
 
 This law applies to:
 
@@ -32,15 +33,13 @@ cryogenic hibernation pods
 
 metabolic suppression systems
 
-longduration transit habitats
+long-duration transit habitats
 
 multipod hibernation arrays
 
 interplanetary and interstellar precursor missions
 
-
-
-2. GOVERNANCE PRINCIPLES
+## 2. Governance Principles
 
 2.1 Human Medical Sovereignty
 
@@ -58,7 +57,7 @@ administer medication
 
 Only humans may authorize these actions.
 
-2.2 ThresholdBound Medical Behavior
+2.2 ThresholdBound Medical Behaviour
 
 UniCORE AI may act only within:
 
@@ -92,19 +91,17 @@ logged
 
 governed by MD files
 
-2.5 No Emergent Behavior
+2.5 No Emergent Behaviour
 
 AI cannot:
 
 selfcoordinate across pods
 
-selfoptimize medical routines
+self-optimize medical routines
 
 form internal medical logic
 
-
-
-3. HIBERNATION GOVERNANCE FILES
+## 3. Hibernation Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -132,9 +129,7 @@ multipod coordination boundaries
 
 AI cannot modify these files.
 
-
-
-4. VITAL SIGN GOVERNANCE
+## 4. Vital Sign Governance
 
 UniCORE AI monitors:
 
@@ -174,9 +169,7 @@ initiate sedation
 
 modify metabolic suppression
 
-
-
-5. METABOLIC SUPPRESSION GOVERNANCE
+## 5. Metabolic Suppression Governance
 
 UniCORE AI must:
 
@@ -202,9 +195,7 @@ lighten suppression
 
 alter suppression cycles
 
-
-
-6. REVIVAL GOVERNANCE
+## 6. Revival Governance
 
 UniCORE AI must enforce:
 
@@ -238,9 +229,7 @@ log drift
 
 escalate to human authority
 
-
-
-7. EMERGENCY MEDICAL GOVERNANCE
+## 7. Emergency Medical Governance
 
 UniCORE AI may act autonomously only to prevent immediate loss of life.
 
@@ -276,9 +265,7 @@ threshold enforcement
 
 isolation
 
-
-
-8. MULTIPOD GOVERNANCE
+## 8. Multipod Governance
 
 For hibernation arrays with multiple pods:
 
@@ -310,9 +297,7 @@ And isolate affected pods.
 
 Each pod is governed independently.
 
-
-
-9. BLACKOUT & DELAY GOVERNANCE
+## 9. Blackout & Delay Governance
 
 During communication delays or blackouts:
 
@@ -340,9 +325,7 @@ transmit drift log
 
 await human instruction
 
-
-
-10. CRYOPOD STRUCTURAL GOVERNANCE
+## 10. Cryopod Structural Governance
 
 UniCORE AI must monitor:
 
@@ -368,9 +351,7 @@ reconfigure pod architecture
 
 adjust coolant rates beyond thresholds
 
-
-
-11. DRIFT DETECTION
+## 11. Drift Detection
 
 UniCORE AI must detect:
 
@@ -386,7 +367,7 @@ structural drift
 
 governance drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Medical Safe Mode
 
@@ -394,9 +375,7 @@ freeze noncritical pod functions
 
 escalate to human authority
 
-
-
-12. HUMAN OVERRIDE
+## 12. Human Override
 
 Humans may override:
 

@@ -1,12 +1,13 @@
-⭐ AA — UniCORE AI Master Document
+# UniCORE AI Master Document
 
-Unified 500Page Governance Manual
-
-Version 1.0 — May 2026
+**Unified 500Page Governance Manual**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
-
+---
 
 MASTER STRUCTURE (500 Pages)
 
@@ -30,8 +31,6 @@ compliance mappings
 
 mission protocols
 
-
-
 ———————————————————————————
 
 BOOK I — FOUNDATIONS (Ch. 1–10)
@@ -50,13 +49,13 @@ Chapter 2 — The TrueAI Foundation
 
 No fabrication
 
-No selfmodification
+No self-modification
 
 No autonomous authority
 
 No internal heartbeat
 
-No emergent behavior
+No emergent behaviour
 
 Chapter 3 — Human Sovereignty
 
@@ -92,13 +91,13 @@ Modelneutral
 
 Platformneutral
 
-Chapter 7 — NonCommercial Status
+Chapter 7 — Non-Commercial Status
 
 Immutable license
 
 Anticapture provisions
 
-Chapter 8 — LongDuration Safety
+Chapter 8 — Long-Duration Safety
 
 10–20 year enterprise cycles
 
@@ -119,8 +118,6 @@ Chapter 10 — Charter Summary
 Core commitments
 
 Global adoption pathway
-
-
 
 ———————————————————————————
 
@@ -168,8 +165,6 @@ Chapter 21 — Level 11: Stability
 
 Chapter 22 — Level 12: Human Governance
 
-
-
 ———————————————————————————
 
 BOOK III — GOVERNANCE FILES (Ch. 23–30)
@@ -192,11 +187,9 @@ Chapter 29 — Emergency Governance
 
 Chapter 30 — Hibernation Governance
 
-
-
 ———————————————————————————
 
-BOOK IV — INTERLEVEL MESSAGING (Ch. 31–40)
+BOOK IV — INTER-LEVEL MESSAGING (Ch. 31–40)
 
 ———————————————————————————
 
@@ -219,8 +212,6 @@ Chapter 38 — No Autonomous Messaging
 Chapter 39 — Drift Detection in Messaging
 
 Chapter 40 — Human Override in Messaging
-
-
 
 ———————————————————————————
 
@@ -258,8 +249,6 @@ Chapter 54 — HumanOverride
 
 Chapter 55 — ThresholdDefinition
 
-
-
 ———————————————————————————
 
 BOOK VI — DEPLOYMENT (Ch. 56–70)
@@ -296,8 +285,6 @@ Chapter 69 — Restore Strategy
 
 Chapter 70 — DR Playbook
 
-
-
 ———————————————————————————
 
 BOOK VII — COMPLIANCE (Ch. 71–90)
@@ -326,8 +313,6 @@ Chapter 80 — CrossJurisdictional Governance
 
 Chapter 81–90 — Detailed Regulatory Appendices
 
-
-
 ———————————————————————————
 
 BOOK VIII — OPERATIONS (Ch. 91–130)
@@ -352,8 +337,6 @@ Chapter 98 — PostIncident Review
 
 Chapter 99–130 — Extended Operational Scenarios
 
-
-
 ———————————————————————————
 
 BOOK IX — SPACE MISSION GOVERNANCE (Ch. 131–180)
@@ -372,7 +355,7 @@ Chapter 135 — Emergency Governance
 
 Chapter 136 — Radiation Drift Management
 
-Chapter 137 — DeepSpace Communication Governance
+Chapter 137 — Deep-Space Communication Governance
 
 Chapter 138 — Safe Mode (Space)
 
@@ -380,11 +363,9 @@ Chapter 139 — Mission Restart Procedures
 
 Chapter 140–180 — Mission Scenarios
 
-
-
 ———————————————————————————
 
-BOOK X — MULTIMODEL GOVERNANCE (Ch. 181–220)
+BOOK X — MULTI-MODEL GOVERNANCE (Ch. 181–220)
 
 ———————————————————————————
 
@@ -407,8 +388,6 @@ Chapter 188 — Drift Detection for Models
 Chapter 189 — Override Rules for Models
 
 Chapter 190–220 — Model Integration Scenarios
-
-
 
 ———————————————————————————
 
@@ -436,8 +415,6 @@ Chapter 229 — CrossDomain Risks
 
 Chapter 230–260 — Mitigation Strategies
 
-
-
 ———————————————————————————
 
 BOOK XII — GLOBAL CHARTER (Ch. 261–300)
@@ -458,7 +435,7 @@ Chapter 266 — Ratification Procedures
 
 Chapter 267 — Global Governance Board Structure
 
-Chapter 268 — LongDuration Stewardship
+Chapter 268 — Long-Duration Stewardship
 
 Chapter 269 — Interplanetary Governance
 

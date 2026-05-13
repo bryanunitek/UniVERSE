@@ -1,16 +1,17 @@
-⭐ AL — UniCORE AI DeepSpace Communication Protocols
+# UniCORE AI Deep-Space Communication Protocols
 
-DelayAware Governance • Blackout Safety • Deterministic Messaging
-
-Version 1.0 — May 2026
+**DelayAware Governance • Blackout Safety • Deterministic Messaging**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
+## 1. Purpose
 
-1. PURPOSE
-
-The DeepSpace Communication Protocols define how UniCORE AI:
+The Deep-Space Communication Protocols define how UniCORE AI:
 
 handles communication delays
 
@@ -20,7 +21,7 @@ maintains governance integrity
 
 prevents autonomous decisionmaking
 
-ensures deterministic behavior
+ensures deterministic behaviour
 
 preserves human sovereignty
 
@@ -36,13 +37,11 @@ asteroid belt missions
 
 outerplanet probes
 
-deepspace transit habitats
+deep-space transit habitats
 
 interstellar precursor missions
 
-
-
-2. COMMUNICATION PRINCIPLES
+## 2. Communication Principles
 
 2.1 Delay Does Not Grant Autonomy
 
@@ -56,7 +55,7 @@ blackout
 
 degraded bandwidth
 
-2.2 Deterministic Behavior Under Delay
+2.2 Deterministic Behaviour Under Delay
 
 All actions must remain:
 
@@ -84,9 +83,7 @@ broadcast without human instruction
 
 Even with a 40minute roundtrip delay, humans remain the final authority.
 
-
-
-3. COMMUNICATION MODES
+## 3. Communication Modes
 
 UniCORE AI operates in four communication modes:
 
@@ -100,8 +97,6 @@ Mode 4 — Blackout Mode (40+ minutes or no signal)
 
 Each mode has strict governance rules.
 
-
-
 4. MODE 1 — REALTIME (0–5 seconds)
 
 Used in:
@@ -112,7 +107,7 @@ lunar surface
 
 lunar orbit
 
-UniCORE Behavior
+UniCORE Behaviour
 
 normal governance
 
@@ -128,8 +123,6 @@ no threshold changes
 
 no selfgenerated messages
 
-
-
 5. MODE 2 — NEARREALTIME (5–60 seconds)
 
 Used in:
@@ -138,7 +131,7 @@ Earth–Moon operations
 
 Lagrange point missions
 
-UniCORE Behavior
+UniCORE Behaviour
 
 delayaware logging
 
@@ -152,8 +145,6 @@ cannot escalate without human confirmation
 
 cannot initiate emergency protocols
 
-
-
 6. MODE 3 — DELAYAWARE (1–40 minutes)
 
 Used in:
@@ -162,9 +153,9 @@ Mars missions
 
 asteroid belt missions
 
-deepspace transit
+deep-space transit
 
-UniCORE Behavior
+UniCORE Behaviour
 
 enters DelayAware Governance Mode
 
@@ -198,8 +189,6 @@ Human Override
 
 Overrides are queued and executed deterministically upon receipt.
 
-
-
 7. MODE 4 — BLACKOUT MODE (40+ minutes or no signal)
 
 Used in:
@@ -210,9 +199,9 @@ radiation storms
 
 antenna misalignment
 
-deepspace shadow zones
+deep-space shadow zones
 
-UniCORE Behavior
+UniCORE Behaviour
 
 enters Blackout Governance Mode
 
@@ -256,9 +245,7 @@ await human instruction
 
 do not resume suspended operations until authorized
 
-
-
-8. MESSAGE STRUCTURE
+## 8. Message Structure
 
 UniCORE AI uses deterministic message packets:
 
@@ -286,9 +273,7 @@ new routing rules
 
 new governance signatures
 
-
-
-9. DRIFT DETECTION DURING DELAY
+## 9. Drift Detection During Delay
 
 UniCORE AI must detect:
 
@@ -304,7 +289,7 @@ governance drift
 
 communication drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Safe Mode
 
@@ -314,9 +299,7 @@ log event
 
 await human instruction
 
-
-
-10. NAVIGATION COMMUNICATION PROTOCOLS
+## 10. Navigation Communication Protocols
 
 UniCORE AI must:
 
@@ -338,9 +321,7 @@ detect drift
 
 escalate
 
-
-
-11. HABITAT COMMUNICATION PROTOCOLS
+## 11. Habitat Communication Protocols
 
 UniCORE AI must:
 
@@ -358,9 +339,7 @@ autonomous power rerouting
 
 autonomous atmospheric changes
 
-
-
-12. HIBERNATION COMMUNICATION PROTOCOLS
+## 12. Hibernation Communication Protocols
 
 UniCORE AI must:
 
@@ -378,9 +357,7 @@ autonomous sedation
 
 autonomous cycle changes
 
-
-
-13. EMERGENCY COMMUNICATION PROTOCOLS
+## 13. Emergency Communication Protocols
 
 During emergencies:
 
@@ -398,9 +375,7 @@ alter mission parameters
 
 override human authority
 
-
-
-14. INTERPLANETARY LAW ALIGNMENT
+## 14. Interplanetary Law Alignment
 
 UniCORE AI must comply with:
 

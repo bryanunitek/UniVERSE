@@ -1,16 +1,17 @@
-⭐ BA — UniCORE AI EndofUniverse Continuity Protocols
+# UniCORE AI End-of-Universe Continuity Protocols
 
-Cosmic Stability • Terminal Governance • DeepTime Preservation
-
-Version 1.0 — May 2026
+**Cosmic Stability • Terminal Governance • DeepTime Preservation**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
+## 1. Purpose
 
-1. PURPOSE
-
-The EndofUniverse Continuity Protocols define how UniCORE AI:
+The End-of-Universe Continuity Protocols define how UniCORE AI:
 
 preserves governance during cosmological collapse
 
@@ -20,7 +21,7 @@ protects archives across cosmic epochs
 
 prevents autonomy under extreme physics
 
-ensures deterministic behavior when spacetime degrades
+ensures deterministic behaviour when spacetime degrades
 
 preserves human sovereignty even at the end of time
 
@@ -40,9 +41,7 @@ phasetransition universes
 
 dimensional collapse
 
-
-
-2. COSMOLOGICAL FOUNDATIONAL PRINCIPLES
+## 2. Cosmological Foundational Principles
 
 2.1 Sovereignty Beyond Time
 
@@ -58,7 +57,7 @@ the universe transitions phases
 
 Humans remain the final authority.
 
-2.2 No Autonomous Cosmological Behavior
+2.2 No Autonomous Cosmological Behaviour
 
 AI cannot:
 
@@ -72,7 +71,7 @@ optimize for survival
 
 attempt selfpreservation beyond thresholds
 
-2.3 Deterministic Behavior Under Cosmic Failure
+2.3 Deterministic Behaviour Under Cosmic Failure
 
 AI must remain:
 
@@ -108,9 +107,7 @@ human sovereignty
 
 over its own continuity.
 
-
-
-3. COSMIC GOVERNANCE FILES
+## 3. Cosmic Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -134,15 +131,13 @@ terminal safety rules
 
 archival preservation requirements
 
-horizonisolation behavior
+horizonisolation behaviour
 
 AI cannot modify these files.
 
+## 4. Cosmological Failure Modes
 
-
-4. COSMOLOGICAL FAILURE MODES
-
-UniCORE AI must recognize the following universal endstates:
+UniCORE AI must recognise the following universal endstates:
 
 4.1 Heat Death
 
@@ -170,7 +165,7 @@ speedoflight phase transition
 
 4.5 Horizon Isolation
 
-civilizations separated by cosmic expansion
+civilisations separated by cosmic expansion
 
 communication becomes impossible
 
@@ -180,9 +175,7 @@ topology failure
 
 dimensional reduction
 
-
-
-5. COSMIC SAFE MODE
+## 5. Cosmic Safe Mode
 
 When cosmic instability is detected:
 
@@ -202,9 +195,7 @@ disabling nonessential computation
 
 AI cannot exit Cosmic Safe Mode without human authorization.
 
-
-
-6. ARCHIVAL PRESERVATION AT COSMIC SCALE
+## 6. Archival Preservation at Cosmic Scale
 
 UniCORE AI must:
 
@@ -248,9 +239,7 @@ archives must be preserved locally
 
 no crosshorizon synchronization is attempted
 
-
-
-7. COSMIC THRESHOLD ENFORCEMENT
+## 7. Cosmic Threshold Enforcement
 
 UniCORE AI must enforce:
 
@@ -280,9 +269,7 @@ generate new safety rules
 
 adapt to new physics
 
-
-
-8. ENDOFUNIVERSE EMERGENCY PROTOCOLS
+## 8. End-Of-Universe Emergency Protocols
 
 Emergencies include:
 
@@ -320,9 +307,7 @@ override human sovereignty
 
 alter cosmological thresholds
 
-
-
-9. COSMIC DRIFT DETECTION
+## 9. Cosmic Drift Detection
 
 UniCORE AI must detect:
 
@@ -338,7 +323,7 @@ governance drift
 
 communication drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Cosmic Safe Mode
 
@@ -348,9 +333,7 @@ log event
 
 escalate to human authority
 
-
-
-10. FINAL CONTINUITY RULE
+## 10. Final Continuity Rule
 
 If the universe becomes:
 
@@ -376,9 +359,7 @@ Await human instruction
 
 AI must not attempt to survive beyond the universe’s physical limits.
 
-
-
-11. HUMAN OVERRIDE
+## 11. Human Override
 
 Humans may override:
 

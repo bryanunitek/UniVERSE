@@ -1,14 +1,15 @@
-⭐ Y — UniCORE AI MultiModel Integration Framework
+# UniCORE AI Multi-Model Integration Framework
 
-How UniCORE Governs LLMs, Vision Models, Robotics Models & MultiAgent Systems
-
-Version 1.0 — May 2026
+**How UniCORE Governs LLMs, Vision Models, Robotics Models & MultiAgent Systems**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 This framework defines how UniCORE AI:
 
@@ -30,7 +31,7 @@ external AI models.
 
 It ensures that no external model can:
 
-selfmodify
+self-modify
 
 generate rules
 
@@ -42,13 +43,11 @@ initiate autonomous actions
 
 communicate horizontally
 
-form emergent multiagent behavior
+form emergent multiagent behaviour
 
 UniCORE AI becomes the governance shell around all models.
 
-
-
-2. CORE PRINCIPLES
+## 2. Core Principles
 
 2.1 UniCORE is the Governor, Not the Model
 
@@ -98,9 +97,7 @@ Models cannot modify governance.
 
 Models cannot propose or generate system changes.
 
-
-
-3. MODEL TYPES SUPPORTED
+## 3. Model Types Supported
 
 UniCORE supports integration with:
 
@@ -164,8 +161,6 @@ Radiation prediction
 
 Hibernation monitoring
 
-
-
 4. UNIcore MODEL WRAPPER (UMW)
 
 All external models are wrapped in the UniCORE Model Wrapper, which enforces:
@@ -186,9 +181,7 @@ override capability
 
 The wrapper is mandatory.
 
-
-
-5. MODEL INPUT PIPELINE
+## 5. Model Input Pipeline
 
 All model inputs must pass through:
 
@@ -230,9 +223,7 @@ Red band
 
 Red band inputs require human override.
 
-
-
-6. MODEL OUTPUT PIPELINE
+## 6. Model Output Pipeline
 
 All model outputs must pass through:
 
@@ -248,7 +239,7 @@ safe
 
 compliant
 
-nonautonomous
+non-autonomous
 
 6.2 Execution Validation
 
@@ -284,11 +275,9 @@ escalate
 
 selfpropagate
 
+## 7. Multi-Model Governance
 
-
-7. MULTIMODEL GOVERNANCE
-
-UniCORE supports multimodel orchestration, but with strict rules.
+UniCORE supports multi-model orchestration, but with strict rules.
 
 7.1 No Horizontal Model Communication
 
@@ -308,7 +297,7 @@ combine outputs
 
 route data
 
-7.4 No Emergent MultiAgent Behavior
+7.4 No Emergent MultiAgent Behaviour
 
 UniCORE prevents:
 
@@ -318,11 +307,7 @@ agent negotiation
 
 agent selfcoordination
 
-
-
-8. MODELSPECIFIC GOVERNANCE
-
-
+## 8. Modelspecific Governance
 
 8.1 LLM Governance
 
@@ -348,8 +333,6 @@ generate thresholds
 
 generate overrides
 
-
-
 8.2 Vision Model Governance
 
 Vision models must:
@@ -365,8 +348,6 @@ Vision models cannot:
 initiate actions
 
 trigger autonomous responses
-
-
 
 8.3 Robotics Model Governance
 
@@ -386,8 +367,6 @@ selfcorrect
 
 selfnavigate
 
-
-
 8.4 Space Mission Model Governance
 
 Space models must:
@@ -406,15 +385,13 @@ override navigation
 
 modify mission parameters
 
-
-
-9. DRIFT DETECTION FOR MODELS
+## 9. Drift Detection for Models
 
 UniCORE monitors:
 
 output drift
 
-behavior drift
+behaviour drift
 
 threshold drift
 
@@ -430,9 +407,7 @@ audit logging
 
 human escalation
 
-
-
-10. HUMAN OVERRIDE
+## 10. Human Override
 
 Humans can override:
 
@@ -456,9 +431,7 @@ unchallenged
 
 logged
 
-
-
-11. WHY THIS FRAMEWORK MATTERS
+## 11. Why This Framework Matters
 
 This framework ensures:
 

@@ -1,14 +1,15 @@
-⭐ AI — UniCORE AI Public Education Framework
+# UniCORE AI Public Education Framework
 
-Public Literacy • Academic Curriculum • Professional Training
-
-Version 1.0 — May 2026
+**Public Literacy • Academic Curriculum • Professional Training**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The purpose of this framework is to ensure that:
 
@@ -28,9 +29,7 @@ UniCORE AI is not just a system — it is a governance philosophy.
 
 This framework ensures the world understands it.
 
-
-
-2. EDUCATION TIERS
+## 2. Education Tiers
 
 The framework is divided into five education tiers:
 
@@ -54,8 +53,6 @@ assessments
 
 communication materials
 
-
-
 ———————————————————————————
 
 TIER 1 — PUBLIC LITERACY
@@ -74,7 +71,7 @@ UniCORE AI prevents AI from modifying itself.
 
 UniCORE AI ensures humans remain in control.
 
-UniCORE AI is neutral and noncommercial.
+UniCORE AI is neutral and non-commercial.
 
 UniCORE AI is built for longterm safety.
 
@@ -98,9 +95,7 @@ Understand why AI must be governed
 
 Understand human override
 
-Understand nonselfmodification
-
-
+Understand nonself-modification
 
 ———————————————————————————
 
@@ -116,7 +111,7 @@ Curriculum Modules
 
 What is AI governance?
 
-Why AI must not selfmodify
+Why AI must not self-modify
 
 The 12Level model (simplified)
 
@@ -144,8 +139,6 @@ scenario analysis
 
 group presentations
 
-
-
 ———————————————————————————
 
 TIER 3 — UNIVERSITY CURRICULUM
@@ -164,7 +157,7 @@ Governance Engineering
 
 ComplianceDriven AI Systems
 
-InterLevel Messaging Protocols
+Inter-Level Messaging Protocols
 
 AI Safety & Drift Detection
 
@@ -194,9 +187,7 @@ mission governance systems
 
 compliance automation
 
-multimodel governance research
-
-
+multi-model governance research
 
 ———————————————————————————
 
@@ -243,8 +234,6 @@ handson labs
 governance file creation
 
 compliance case studies
-
-
 
 ———————————————————————————
 
@@ -296,9 +285,7 @@ compliance violations
 
 governance corruption events
 
-
-
-3. COMMUNICATION STRATEGY
+## 3. Communication Strategy
 
 3.1 Messaging Pillars
 
@@ -326,9 +313,7 @@ enterprise workshops
 
 mission simulations
 
-
-
-4. CERTIFICATION PATHWAYS
+## 4. Certification Pathways
 
 The education framework aligns with the UniCORE certification system:
 
@@ -344,9 +329,7 @@ Level 5 — Mission Commander
 
 Each tier prepares learners for the next.
 
-
-
-5. GLOBAL ADOPTION
+## 5. Global Adoption
 
 This framework is designed for:
 

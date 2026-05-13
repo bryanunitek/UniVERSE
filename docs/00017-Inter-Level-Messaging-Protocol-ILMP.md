@@ -1,18 +1,19 @@
-⭐ Q — UniCORE AI InterLevel Messaging Protocol (ILMP)
-
-Version 1.0 — May 2026
+# UniCORE AI Inter-Level Messaging Protocol (ILMP)
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
+## 1. Purpose
 
-1. PURPOSE
-
-The InterLevel Messaging Protocol (ILMP) defines the only permitted communication pathways between the 12 Levels of UniCORE AI.
+The Inter-Level Messaging Protocol (ILMP) defines the only permitted communication pathways between the 12 Levels of UniCORE AI.
 
 Its goals are:
 
-prevent autonomous interlevel communication
+prevent autonomous inter-level communication
 
 enforce deterministic message flow
 
@@ -26,9 +27,7 @@ maintain strict architectural boundaries
 
 preserve human sovereignty
 
-
-
-2. CORE PRINCIPLES
+## 2. Core Principles
 
 2.1 No Autonomous Messaging
 
@@ -74,13 +73,9 @@ Levels cannot “ping” each other.
 
 Messages are oneshot, stateless, and logged.
 
-
-
-3. MESSAGE TYPES
+## 3. Message Types
 
 UniCORE supports four message types:
-
-
 
 3.1 TruthMessage (Upward Only)
 
@@ -106,8 +101,6 @@ ContextId (Guid)
 
 Allowed directions: 1 → 2 → 3 → 4 → 5
 
-
-
 3.2 GovernanceMessage (Downward Only)
 
 Used by Levels 6–12.
@@ -130,8 +123,6 @@ Timestamp (DateTime)
 
 Allowed directions: 12 → 11 → 10 → 9 → 8 → 7 → 6
 
-
-
 3.3 ComplianceMessage (Downward Only)
 
 Used by Levels 7–9.
@@ -153,8 +144,6 @@ RuleReference (string)
 Timestamp (DateTime)
 
 Allowed directions: 7 → 8 → 9
-
-
 
 3.4 AuditMessage (Upward Only)
 
@@ -180,27 +169,19 @@ Timestamp (DateTime)
 
 Allowed directions: 9 → 10 → 11
 
-
-
-4. MESSAGE FLOW DIAGRAM
+## 4. Message Flow Diagram
 
           (Upward Truth Flow)
 
   L1 → L2 → L3 → L4 → L5
 
-
-
           (Downward Governance Flow)
 
   L12 → L11 → L10 → L9 → L8 → L7 → L6
 
-
-
           (Compliance Flow)
 
   L7 → L8 → L9
-
-
 
           (Audit Flow)
 
@@ -208,11 +189,7 @@ Allowed directions: 9 → 10 → 11
 
 No other pathways exist.
 
-
-
-5. MESSAGE RULES
-
-
+## 5. Message Rules
 
 5.1 No Autonomous Initiation
 
@@ -224,41 +201,29 @@ a rule explicitly requires it
 
 a higher level requested it
 
-
-
 5.2 No MultiHop Messages
 
 A Level cannot send a message to a nonadjacent Level.
 
 Example:Level 3 cannot send directly to Level 5.
 
-
-
 5.3 No Message Mutation
 
 Messages cannot be altered by intermediate Levels.
-
-
 
 5.4 No Message Duplication
 
 A Level cannot clone or replicate messages.
 
-
-
 5.5 No Message Persistence
 
 Messages are not stored beyond audit logging.
-
-
 
 5.6 No Message Loops
 
 Messages cannot bounce between Levels.
 
-
-
-6. MESSAGE VALIDATION
+## 6. Message Validation
 
 Each message must pass:
 
@@ -284,9 +249,7 @@ Reasonable Governance Threshold
 
 Human Override Protocol
 
-
-
-7. HUMAN OVERRIDE IN MESSAGING
+## 7. Human Override in Messaging
 
 If a human override occurs:
 
@@ -300,9 +263,7 @@ the override is executed immediately
 
 No message may delay or challenge a human override.
 
-
-
-8. DRIFT DETECTION IN MESSAGING
+## 8. Drift Detection in Messaging
 
 The Stability Layer (Level 11) monitors:
 
@@ -318,9 +279,7 @@ unauthorized pathways
 
 Any deviation triggers a DriftEvent.
 
-
-
-9. IMPLEMENTATION DETAILS
+## 9. Implementation Details
 
 Transport Layer:
 
@@ -338,15 +297,13 @@ Timeouts:
 
 Humandefined only.No autonomous timeouts.
 
+## 10. Why This Protocol Is Safe
 
-
-10. WHY THIS PROTOCOL IS SAFE
-
-✔ Prevents emergent behavior
+✔ Prevents emergent behaviour
 
 ✔ Prevents internal conversations
 
-✔ Prevents recursive selfimprovement
+✔ Prevents recursive self-improvement
 
 ✔ Prevents architectural drift
 
@@ -354,6 +311,6 @@ Humandefined only.No autonomous timeouts.
 
 ✔ Ensures deterministic operation
 
-✔ Ensures longduration stability
+✔ Ensures long-duration stability
 
 This is the communication backbone of UniCORE AI.

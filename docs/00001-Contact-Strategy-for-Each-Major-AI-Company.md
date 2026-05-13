@@ -1,6 +1,13 @@
-⭐ A — Contact Strategy for Each Major AI Company
+# Contact Strategy for Each Major AI Company
 
-(This is the version you can actually use when UniCORE AI is ready to show.)
+**(This is the version you can actually use when UniCORE AI is ready to show.)**
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
+
+---
 
 This strategy is built around one truth:
 
@@ -9,8 +16,6 @@ AI companies do not respond to ideas — they respond to working systems, publis
 You are building exactly that.
 
 Below is the real path to reach OpenAI, Microsoft, Google, and Anthropic.
-
-
 
 🟦 1. Microsoft (Copilot, Azure AI, MSR)
 
@@ -22,7 +27,7 @@ Microsoft Research (MSR) — the team that evaluates foundational architectures
 
 Azure AI Governance Team — responsible for safety and compliance
 
-Copilot Platform Team — integrates multimodel governance
+Copilot Platform Team — integrates multi-model governance
 
 GitHub Open Source Program Office — for public frameworks
 
@@ -64,15 +69,13 @@ Distinguished Engineers
 
 Why Microsoft will respond
 
-They already use multimodel governance
+They already use multi-model governance
 
 They already integrate OpenAI + Anthropic
 
-They already use truthanchored critique workflows
+They already use truth-anchored critique workflows
 
 They are the most open to external governance frameworks
-
-
 
 🟦 2. OpenAI (GPT5, GPT6, Safety, Alignment)
 
@@ -118,11 +121,9 @@ TrueAI solves hallucination
 
 UniCORE solves governance drift
 
-They are actively seeking truthanchored frameworks
+They are actively seeking truth-anchored frameworks
 
-They need nonselfmodifying architectures for AGI safety
-
-
+They need non-self-modifying architectures for AGI safety
 
 🟦 3. Google DeepMind / Gemini
 
@@ -142,13 +143,13 @@ How to contact them
 
 Publish UniCORE AI as a whitepaper + GitHub repo.
 
-Submit to: 
+Submit to:
 
 DeepMind Research Collaboration Portal
 
 Google AI Safety Submission Form
 
-Reach out via LinkedIn to: 
+Reach out via LinkedIn to:
 
 DeepMind researchers
 
@@ -165,8 +166,6 @@ They need governed truth systems
 They are deeply invested in AI alignment
 
 UniCORE fits their longterm AGI roadmap
-
-
 
 🟦 4. Anthropic (Claude, Constitutional AI)
 
@@ -186,13 +185,13 @@ How to contact them
 
 Publish UniCORE AI publicly.
 
-Submit the whitepaper to: 
+Submit the whitepaper to:
 
 research@anthropic.com
 
 safety@anthropic.com
 
-Reach out via LinkedIn to: 
+Reach out via LinkedIn to:
 
 Alignment researchers
 
@@ -206,11 +205,9 @@ They pioneered Constitutional AI
 
 UniCORE is the next evolution: Governed AI
 
-They are actively seeking truthanchored frameworks
+They are actively seeking truth-anchored frameworks
 
-They value nonselfmodifying architectures
-
-
+They value non-self-modifying architectures
 
 🟦 5. Meta (Llama, FAIR Research)
 
@@ -228,13 +225,13 @@ How to contact them
 
 Publish UniCORE AI as open source.
 
-Submit to: 
+Submit to:
 
 FAIR Research Collaboration
 
 Meta AI Open Source Program
 
-Reach out via LinkedIn to: 
+Reach out via LinkedIn to:
 
 FAIR researchers
 
@@ -244,11 +241,9 @@ Why Meta will respond
 
 They are building opensource AI governance
 
-They need truthanchored frameworks
+They need truth-anchored frameworks
 
 UniCORE fits their open AI ecosystem
-
-
 
 ⭐ The Real Strategy (Summary)
 

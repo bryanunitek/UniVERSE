@@ -1,6 +1,13 @@
-⭐ K — UniCORE AI Website Structure
+# UniCORE AI Website Structure
 
-(Publicationready, professional, and aligned with your mission.)
+**(Publicationready, professional, and aligned with your mission.)**
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
+
+---
 
 unicore-ai.org/
 
@@ -165,8 +172,6 @@ unicore-ai.org/
     ├── Governance Essays
 
     └── Space Exploration Updates
-
-
 
 ⭐ What This Website Structure Communicates
 

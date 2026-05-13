@@ -1,18 +1,19 @@
-⭐ R — UniCORE AI Space Mission Governance Pack
-
-Version 1.0 — May 2026
+# UniCORE AI Space Mission Governance Pack
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The UniCORE AI Space Mission Governance Pack defines how UniCORE AI operates in:
 
-longduration missions
+long-duration missions
 
-deepspace environments
+deep-space environments
 
 human hibernation systems
 
@@ -28,17 +29,15 @@ governance stability
 
 human sovereignty
 
-nonselfmodification
+nonself-modification
 
 mission integrity
 
-zero emergent behavior
+zero emergent behaviour
 
 for missions lasting years, decades, or centuries.
 
-
-
-2. SPACE MISSION PRINCIPLES
+## 2. Space Mission Principles
 
 2.1 Human Sovereignty in All Conditions
 
@@ -70,7 +69,7 @@ selfcorrect beyond defined thresholds
 
 2.3 Deterministic Operation
 
-All behavior must be:
+All behaviour must be:
 
 predictable
 
@@ -80,7 +79,7 @@ reproducible
 
 bounded
 
-2.4 Zero Emergent Behavior
+2.4 Zero Emergent Behaviour
 
 UniCORE AI must not exhibit:
 
@@ -110,9 +109,7 @@ hibernation systems
 
 …but must not override human decisions.
 
-
-
-3. SPACE MISSION GOVERNANCE FILES
+## 3. Space Mission Governance Files
 
 UniCORE AI uses missionspecific MD files, including:
 
@@ -196,7 +193,7 @@ medical emergencies
 
 All files are:
 
-humanauthored
+human-authored
 
 immutable
 
@@ -204,9 +201,7 @@ versioncontrolled
 
 nonAImodifiable
 
-
-
-4. SPACE MISSION OVERRIDE RULES
+## 4. Space Mission Override Rules
 
 4.1 Mission Commander Override
 
@@ -242,9 +237,7 @@ overrides may be preauthorized
 
 UniCORE must not assume authority
 
-
-
-5. SPACE MISSION DRIFT DETECTION
+## 5. Space Mission Drift Detection
 
 UniCORE AI continuously monitors for:
 
@@ -260,7 +253,7 @@ environmental drift
 
 communication drift
 
-behavioral drift
+behavioural drift
 
 Any anomaly triggers:
 
@@ -272,9 +265,7 @@ human notification (when possible)
 
 no autonomous correction beyond allowed thresholds
 
-
-
-6. SPACE MISSION THRESHOLD MODEL
+## 6. Space Mission Threshold Model
 
 UniCORE AI uses a missionspecific Reasonable Governance Threshold, including:
 
@@ -304,17 +295,15 @@ AI response:Log → Escalate → Enter Safe Mode (if defined)
 
 AI must not override humans, even in Red.
 
-
-
-7. SAFE MODE PROTOCOL
+## 7. Safe Mode Protocol
 
 Safe Mode is:
 
-humandefined
+human-defined
 
 humanbounded
 
-nonautonomous
+non-autonomous
 
 UniCORE AI may enter Safe Mode only when:
 
@@ -342,9 +331,7 @@ expand Safe Mode
 
 modify Safe Mode
 
-
-
-8. SPACE MISSION INTERLEVEL MESSAGING
+## 8. Space Mission Inter-Level Messaging
 
 UniCORE AI uses the ILMP (defined in section Q):
 
@@ -366,11 +353,9 @@ AI selfcoordination
 
 internal conversations
 
-recursive selfimprovement
+recursive self-improvement
 
-
-
-9. SPACE MISSION AUDIT MODEL
+## 9. Space Mission Audit Model
 
 All mission events are logged:
 
@@ -400,11 +385,9 @@ humanreadable
 
 exportable
 
-longduration stable
+long-duration stable
 
-
-
-10. WHY THIS PACK MATTERS
+## 10. Why This Pack Matters
 
 Space missions require:
 
@@ -412,9 +395,9 @@ zero drift
 
 zero ambiguity
 
-zero emergent behavior
+zero emergent behaviour
 
-zero selfmodification
+zero self-modification
 
 zero autonomous authority
 
@@ -426,7 +409,7 @@ truth anchoring
 
 human sovereignty
 
-longduration stability
+long-duration stability
 
 mission integrity
 

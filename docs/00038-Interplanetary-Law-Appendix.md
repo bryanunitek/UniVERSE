@@ -1,14 +1,15 @@
-⭐ AJ — UniCORE AI Interplanetary Law Appendix
+# UniCORE AI Interplanetary Law Appendix
 
-Legal Framework for MultiPlanet Governance & Mission Safety
-
-Version 1.0 — May 2026
+**Legal Framework for MultiPlanet Governance & Mission Safety**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Interplanetary Law Appendix establishes:
 
@@ -38,9 +39,7 @@ interplanetary treaties
 
 future offworld jurisdictions
 
-
-
-2. LEGAL FOUNDATIONS
+## 2. Legal Foundations
 
 UniCORE AI is bound by:
 
@@ -88,9 +87,7 @@ hibernation cycles
 
 habitat autonomy
 
-
-
-3. INTERPLANETARY JURISDICTION
+## 3. Interplanetary Jurisdiction
 
 UniCORE AI must determine jurisdiction using:
 
@@ -128,9 +125,7 @@ never invent law
 
 never resolve legal conflicts autonomously
 
-
-
-4. GOVERNANCE FILES IN INTERPLANETARY CONTEXT
+## 4. Governance Files in Interplanetary Context
 
 UniCORE AI uses governance MD files to enforce law across planets.
 
@@ -192,9 +187,7 @@ radiation storms
 
 propulsion anomalies
 
-
-
-5. INTERPLANETARY SAFETY PRINCIPLES
+## 5. Interplanetary Safety Principles
 
 UniCORE AI must enforce:
 
@@ -230,7 +223,7 @@ human authorization
 
 medical governance validation
 
-5.4 No Emergent Behavior
+5.4 No Emergent Behaviour
 
 AI cannot form:
 
@@ -240,7 +233,7 @@ internal communication
 
 selfgenerated mission logic
 
-5.5 No SelfModification
+5.5 No Self-Modification
 
 AI cannot alter:
 
@@ -252,9 +245,7 @@ governance files
 
 mission parameters
 
-
-
-6. INTERPLANETARY DISPUTE RESOLUTION
+## 6. Interplanetary Dispute Resolution
 
 UniCORE AI must not:
 
@@ -274,11 +265,9 @@ escalate to human authority
 
 freeze relevant operations
 
+## 7. Communication Delay Protocols
 
-
-7. COMMUNICATION DELAY PROTOCOLS
-
-In deepspace missions, communication delays may exceed:
+In deep-space missions, communication delays may exceed:
 
 5 minutes
 
@@ -306,11 +295,9 @@ await human instruction
 
 7.3 Follow PreApproved Governance Files
 
-Only humanauthored rules apply.
+Only human-authored rules apply.
 
-
-
-8. HIBERNATION LAW
+## 8. Hibernation Law
 
 UniCORE AI must enforce:
 
@@ -352,9 +339,7 @@ crosspod contamination
 
 synchronized drift
 
-
-
-9. HABITAT LAW
+## 9. Habitat Law
 
 UniCORE AI must enforce:
 
@@ -394,9 +379,7 @@ stabilize pressure
 
 But must log and escalate.
 
-
-
-10. INTERPLANETARY TREATY COMPLIANCE
+## 10. Interplanetary Treaty Compliance
 
 UniCORE AI must comply with:
 
@@ -418,9 +401,7 @@ resolve conflicts
 
 generate legal positions
 
-
-
-11. FUTURE OFFWORLD JURISDICTIONS
+## 11. Future Offworld Jurisdictions
 
 As humanity expands, UniCORE AI must:
 
@@ -432,4 +413,4 @@ maintain neutrality
 
 maintain human sovereignty
 
-maintain deterministic behavior
+maintain deterministic behaviour

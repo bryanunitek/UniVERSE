@@ -1,16 +1,17 @@
-⭐ AN — UniCORE AI MultiHabitat Coordination Framework
+# UniCORE AI Multi-Habitat Coordination Framework
 
-Distributed Governance • InterHabitat Safety • Deterministic Coordination
-
-Version 1.0 — May 2026
+**Distributed Governance • InterHabitat Safety • Deterministic Coordination**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
+## 1. Purpose
 
-1. PURPOSE
-
-The MultiHabitat Coordination Framework defines how UniCORE AI:
+The Multi-Habitat Coordination Framework defines how UniCORE AI:
 
 governs multiple habitats simultaneously
 
@@ -18,7 +19,7 @@ enforces safety across distributed environments
 
 prevents autonomous crosshabitat coordination
 
-ensures deterministic behavior across modules
+ensures deterministic behaviour across modules
 
 maintains human sovereignty across distances
 
@@ -36,13 +37,11 @@ orbital stations
 
 asteroid outposts
 
-deepspace transit habitats
+deep-space transit habitats
 
 multimodule research facilities
 
-
-
-2. GOVERNANCE PRINCIPLES
+## 2. Governance Principles
 
 2.1 Habitat Independence
 
@@ -86,7 +85,7 @@ reversible
 
 thresholdconstrained
 
-2.4 No Emergent MultiHabitat Behavior
+2.4 No Emergent Multi-Habitat Behaviour
 
 AI cannot:
 
@@ -110,13 +109,11 @@ multiplanet distances
 
 Humans remain the final authority.
 
-
-
-3. MULTIHABITAT GOVERNANCE FILES
+## 3. Multi-Habitat Governance Files
 
 UniCORE AI uses the following MD files:
 
-MultiHabitat_Governance.md
+Multi-Habitat_Governance.md
 
 Habitat_Governance.md (per habitat)
 
@@ -142,9 +139,7 @@ communication protocols
 
 AI cannot modify these files.
 
-
-
-4. HABITATLEVEL GOVERNANCE
+## 4. Habitatlevel Governance
 
 Each habitat has:
 
@@ -168,9 +163,7 @@ medically independent
 
 structurally independent
 
-
-
-5. INTERHABITAT COMMUNICATION
+## 5. Interhabitat Communication
 
 UniCORE AI must:
 
@@ -206,9 +199,7 @@ no autonomy is granted
 
 no crosshabitat decisions occur
 
-
-
-6. RESOURCE GOVERNANCE
+## 6. Resource Governance
 
 Resources include:
 
@@ -250,9 +241,7 @@ coordinate resource sharing
 
 Only humans may authorize resource movement.
 
-
-
-7. EMERGENCY COORDINATION
+## 7. Emergency Coordination
 
 Emergencies include:
 
@@ -302,9 +291,7 @@ AI may synchronize emergency protocols
 
 All actions must be logged.
 
-
-
-8. MULTIMODULE HABITAT COORDINATION
+## 8. Multimodule Habitat Coordination
 
 Within a single habitat:
 
@@ -352,9 +339,7 @@ depressurize modules
 
 Except during redband emergencies.
 
-
-
-9. INTERPLANETARY SETTLEMENT GOVERNANCE
+## 9. Interplanetary Settlement Governance
 
 For settlements across planets:
 
@@ -382,9 +367,7 @@ authorize missionlevel coordination
 
 AI must execute deterministically.
 
-
-
-10. DRIFT DETECTION ACROSS HABITATS
+## 10. Drift Detection Across Habitats
 
 UniCORE AI must detect:
 
@@ -410,9 +393,7 @@ alter thresholds elsewhere
 
 trigger crosshabitat actions
 
-
-
-11. BLACKOUT & DELAY GOVERNANCE
+## 11. Blackout & Delay Governance
 
 During communication delays:
 
@@ -432,9 +413,7 @@ log all events
 
 await human instruction
 
-
-
-12. HUMAN OVERRIDE
+## 12. Human Override
 
 Humans may override:
 

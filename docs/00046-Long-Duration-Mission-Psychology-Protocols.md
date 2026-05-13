@@ -1,16 +1,17 @@
-⭐ AR — UniCORE AI LongDuration Mission Psychology Protocols
+# UniCORE AI Long-Duration Mission Psychology Protocols
 
-Mental Stability • Crew Safety • Behavioral Governance
-
-Version 1.0 — May 2026
+**Mental Stability • Crew Safety • Behavioural Governance**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
+## 1. Purpose
 
-1. PURPOSE
-
-The LongDuration Mission Psychology Protocols define how UniCORE AI:
+The Long-Duration Mission Psychology Protocols define how UniCORE AI:
 
 monitors psychological indicators
 
@@ -22,7 +23,7 @@ maintains human sovereignty over mental states
 
 supports crew stability during isolation
 
-ensures deterministic behavior in psychological contexts
+ensures deterministic behaviour in psychological contexts
 
 integrates psychology into mission governance
 
@@ -32,7 +33,7 @@ Mars missions
 
 lunar bases
 
-deepspace transit habitats
+deep-space transit habitats
 
 multiyear orbital stations
 
@@ -42,9 +43,7 @@ hibernation missions
 
 multigeneration missions
 
-
-
-2. GOVERNANCE PRINCIPLES
+## 2. Governance Principles
 
 2.1 Human Psychological Sovereignty
 
@@ -56,7 +55,7 @@ prescribe treatment
 
 alter emotional states
 
-manipulate behavior
+manipulate behaviour
 
 influence decisions
 
@@ -78,7 +77,7 @@ intervene in interpersonal conflict
 
 2.3 Deterministic Psychological Governance
 
-All AI behavior must be:
+All AI behaviour must be:
 
 predictable
 
@@ -90,17 +89,17 @@ thresholdbound
 
 governed by MD files
 
-2.4 No Emergent Behavioral Influence
+2.4 No Emergent Behavioural Influence
 
 AI cannot:
 
 adapt to crew psychology
 
-optimize crew behavior
+optimize crew behaviour
 
 form internal models of crew personalities
 
-generate behavioral predictions
+generate behavioural predictions
 
 2.5 Crew Autonomy
 
@@ -110,19 +109,17 @@ emotional autonomy
 
 cognitive autonomy
 
-behavioral autonomy
+behavioural autonomy
 
 decisionmaking sovereignty
 
-
-
-3. PSYCHOLOGY GOVERNANCE FILES
+## 3. Psychology Governance Files
 
 UniCORE AI uses the following MD files:
 
 Psychology_Governance.md
 
-Behavioral_Thresholds.md
+Behavioural_Thresholds.md
 
 Sleep_Governance.md
 
@@ -144,9 +141,7 @@ emergency escalation rules
 
 AI cannot modify these files.
 
-
-
-4. PSYCHOLOGICAL MONITORING
+## 4. Psychological Monitoring
 
 UniCORE AI may monitor:
 
@@ -180,15 +175,13 @@ AI may not:
 
 interpret psychological meaning
 
-generate behavioral models
+generate behavioural models
 
 adjust crew routines
 
 intervene in social dynamics
 
-
-
-5. SLEEP & CIRCADIAN GOVERNANCE
+## 5. Sleep & Circadian Governance
 
 UniCORE AI must:
 
@@ -216,9 +209,7 @@ induce sleep
 
 alter lighting autonomously
 
-
-
-6. ISOLATION GOVERNANCE
+## 6. Isolation Governance
 
 Longduration missions create:
 
@@ -236,7 +227,7 @@ Allowed Actions
 
 detect isolation drift
 
-log behavioral anomalies
+log behavioural anomalies
 
 notify human officers
 
@@ -250,11 +241,9 @@ attempt emotional support
 
 modify crew environment
 
-influence mood or behavior
+influence mood or behaviour
 
-
-
-7. INTERPERSONAL GOVERNANCE
+## 7. Interpersonal Governance
 
 Crew conflict is a known risk.
 
@@ -280,9 +269,7 @@ influence communication
 
 alter interpersonal dynamics
 
-
-
-8. HIBERNATION PSYCHOLOGY
+## 8. Hibernation Psychology
 
 During hibernation cycles:
 
@@ -312,9 +299,7 @@ alter sedation levels
 
 influence emotional recovery
 
-
-
-9. EMERGENCY PSYCHOLOGY PROTOCOLS
+## 9. Emergency Psychology Protocols
 
 Emergencies include:
 
@@ -326,7 +311,7 @@ psychological collapse
 
 interpersonal breakdown
 
-missioncritical behavioral anomalies
+missioncritical behavioural anomalies
 
 Allowed Actions
 
@@ -352,9 +337,7 @@ influence decisionmaking
 
 override crew autonomy
 
-
-
-10. DRIFT DETECTION
+## 10. Drift Detection
 
 UniCORE AI must detect:
 
@@ -366,11 +349,11 @@ communication drift
 
 social drift
 
-behavioral drift
+behavioural drift
 
 governance drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Psychological Safe Mode
 
@@ -380,9 +363,7 @@ log event
 
 escalate to human authority
 
-
-
-11. BLACKOUT & DELAY GOVERNANCE
+## 11. Blackout & Delay Governance
 
 During communication delays:
 
@@ -400,9 +381,7 @@ log events
 
 await human instruction
 
-
-
-12. INTERGENERATIONAL PSYCHOLOGY
+## 12. Intergenerational Psychology
 
 For multidecade missions:
 
@@ -410,7 +389,7 @@ UniCORE AI must preserve:
 
 psychological governance files
 
-behavioral baselines
+behavioural baselines
 
 drift logs
 
@@ -420,13 +399,11 @@ AI cannot:
 
 adapt to generational psychology
 
-evolve behavioral models
+evolve behavioural models
 
 generate new psychological rules
 
-
-
-13. HUMAN OVERRIDE
+## 13. Human Override
 
 Humans may override:
 

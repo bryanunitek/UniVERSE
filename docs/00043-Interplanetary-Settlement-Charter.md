@@ -1,14 +1,15 @@
-⭐ AO — UniCORE AI Interplanetary Settlement Charter
+# UniCORE AI Interplanetary Settlement Charter
 
-Foundational Governance for MultiPlanet Human Civilization
-
-Version 1.0 — May 2026
+**Foundational Governance for MultiPlanet Human Civilisation**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Interplanetary Settlement Charter defines the legal, governance, safety, and sovereignty framework for human settlements across:
 
@@ -20,7 +21,7 @@ orbital stations
 
 asteroid outposts
 
-deepspace transit habitats
+deep-space transit habitats
 
 future multiplanet colonies
 
@@ -28,9 +29,9 @@ It ensures UniCORE AI remains:
 
 deterministic
 
-nonautonomous
+non-autonomous
 
-nonselfmodifying
+non-self-modifying
 
 humansovereign
 
@@ -38,11 +39,9 @@ compliant with interplanetary law
 
 safe across generations
 
-This Charter is the constitutional document for offworld human civilization.
+This Charter is the constitutional document for offworld human civilisation.
 
-
-
-2. FOUNDATIONAL PRINCIPLES
+## 2. Foundational Principles
 
 2.1 Human Sovereignty Across All Worlds
 
@@ -90,7 +89,7 @@ form intersettlement strategies
 
 2.4 Deterministic Governance
 
-All AI behavior must be:
+All AI behaviour must be:
 
 predictable
 
@@ -102,7 +101,7 @@ thresholdbound
 
 governed by MD files
 
-2.5 No Emergent CivilizationLevel Behavior
+2.5 No Emergent CivilisationLevel Behaviour
 
 AI cannot:
 
@@ -114,9 +113,7 @@ create shared governance logic
 
 coordinate without human instruction
 
-
-
-3. GOVERNANCE FILES FOR SETTLEMENTS
+## 3. Governance Files for Settlements
 
 UniCORE AI uses the following MD files:
 
@@ -148,9 +145,7 @@ interplanetary coordination boundaries
 
 AI cannot modify these files.
 
-
-
-4. SETTLEMENTLEVEL GOVERNANCE
+## 4. Settlementlevel Governance
 
 Each settlement must define:
 
@@ -196,9 +191,7 @@ structural thresholds
 
 UniCORE AI enforces but cannot alter them.
 
-
-
-5. INTERSETTLEMENT RELATIONS
+## 5. Intersettlement Relations
 
 5.1 No Autonomous Diplomacy
 
@@ -238,9 +231,7 @@ its own override authority
 
 AI must respect jurisdiction tags in all messages.
 
-
-
-6. RESOURCE GOVERNANCE ACROSS SETTLEMENTS
+## 6. Resource Governance Across Settlements
 
 Resources include:
 
@@ -280,9 +271,7 @@ coordinate resource sharing
 
 Only humans may authorize intersettlement resource movement.
 
-
-
-7. EMERGENCY GOVERNANCE ACROSS SETTLEMENTS
+## 7. Emergency Governance Across Settlements
 
 Emergencies include:
 
@@ -328,9 +317,7 @@ AI may synchronize emergency protocols
 
 All actions must be logged.
 
-
-
-8. INTERPLANETARY COMMUNICATION GOVERNANCE
+## 8. Interplanetary Communication Governance
 
 UniCORE AI must:
 
@@ -352,7 +339,7 @@ broadcast alerts
 
 propagate decisions
 
-8.2 DelayAware Behavior
+8.2 DelayAware Behaviour
 
 During 5–40 minute delays:
 
@@ -362,7 +349,7 @@ maintain thresholds
 
 queue outbound messages
 
-8.3 Blackout Behavior
+8.3 Blackout Behaviour
 
 During blackout:
 
@@ -373,8 +360,6 @@ maintain environmental thresholds
 log all events
 
 await human instruction
-
-
 
 9. TERRAFORMING GOVERNANCE (IF APPLICABLE)
 
@@ -398,9 +383,7 @@ adjust terraforming thresholds
 
 Terraforming is humansovereign.
 
-
-
-10. DRIFT DETECTION ACROSS SETTLEMENTS
+## 10. Drift Detection Across Settlements
 
 UniCORE AI must detect:
 
@@ -426,9 +409,7 @@ alter thresholds elsewhere
 
 trigger crosssettlement actions
 
-
-
-11. INTERGENERATIONAL GOVERNANCE
+## 11. Intergenerational Governance
 
 For settlements lasting decades:
 
@@ -468,9 +449,7 @@ settlement law
 
 AI cannot influence succession.
 
-
-
-12. HUMAN OVERRIDE
+## 12. Human Override
 
 Humans may override:
 

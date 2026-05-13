@@ -1,12 +1,13 @@
-⭐ P — UniCORE AI Data Model (XPO + SQL Schema)
-
-Version 1.0 — May 2026
+# UniCORE AI Data Model (XPO + SQL Schema)
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. DESIGN PRINCIPLES
+## 1. Design Principles
 
 The UniCORE AI data model is built on five principles:
 
@@ -18,11 +19,11 @@ No probabilistic storage.No emergent schema.No AIgenerated tables.
 
 Truth, evidence, governance, and audit tables are appendonly.
 
-3. HumanAnchored
+3. Human-Anchored
 
-All governance files, overrides, and thresholds are humanauthored.
+All governance files, overrides, and thresholds are human-authored.
 
-4. LongDuration Stability
+4. Long-Duration Stability
 
 Schema must remain stable for 10–20 years.
 
@@ -38,9 +39,7 @@ PersistentAlias for computed values
 
 Onetomany and manytomany via linking tables
 
-
-
-2. HIGHLEVEL ENTITY MAP
+## 2. Highlevel Entity Map
 
 Truth
 
@@ -72,13 +71,9 @@ ThresholdDefinition
 
 SystemConfig
 
-
-
-3. XPO ENTITY DEFINITIONS
+## 3. XPO Entity Definitions
 
 Below are the core entities in XPO format.
-
-
 
 3.1 TruthRecord
 
@@ -99,8 +94,6 @@ Confidence (double)
 CreatedOn (DateTime)
 
 Notes (string)
-
-
 
 3.2 EvidenceRecord
 
@@ -124,8 +117,6 @@ SubmittedOn (DateTime)
 
 Classification (enum: Primary, Secondary, Contextual)
 
-
-
 3.3 VerificationRecord
 
 Crosschecking of evidence.
@@ -144,8 +135,6 @@ CreatedOn (DateTime)
 
 Notes (string)
 
-
-
 3.4 ContextRecord
 
 Jurisdictional, temporal, or mission context.
@@ -161,8 +150,6 @@ Location (string)
 Timestamp (DateTime)
 
 Details (string JSON)
-
-
 
 3.5 InterpretationRecord
 
@@ -183,8 +170,6 @@ Interpretation (string)
 Notes (string)
 
 CreatedOn (DateTime)
-
-
 
 3.6 GovernanceFile
 
@@ -210,8 +195,6 @@ UploadedOn (DateTime)
 
 IsActive (bool)
 
-
-
 3.7 GovernanceRule
 
 Extracted rule references (nonAI generated).
@@ -231,8 +214,6 @@ Description (string)
 Section (string)
 
 IsImmutable (bool)
-
-
 
 3.8 ComplianceCheck
 
@@ -256,8 +237,6 @@ CheckedOn (DateTime)
 
 Notes (string)
 
-
-
 3.9 OperationRecord
 
 Governed operations executed by UniCORE.
@@ -278,8 +257,6 @@ RequestedOn (DateTime)
 
 OverrideUsed (bool)
 
-
-
 3.10 ExecutionLog
 
 Deterministic execution output.
@@ -297,8 +274,6 @@ Output (string JSON)
 CreatedOn (DateTime)
 
 AuditId (Guid)
-
-
 
 3.11 AuditEvent
 
@@ -319,8 +294,6 @@ EntityId (Guid)
 Timestamp (DateTime)
 
 Details (string)
-
-
 
 3.12 DriftEvent
 
@@ -344,8 +317,6 @@ Resolved (bool)
 
 ResolvedOn (DateTime?)
 
-
-
 3.13 HumanOverride
 
 Human override events.
@@ -365,8 +336,6 @@ IssuedBy (string)
 IssuedOn (DateTime)
 
 OverrideType (enum: Direct, Implied, Emergency)
-
-
 
 3.14 ThresholdDefinition
 
@@ -390,11 +359,9 @@ CreatedOn (DateTime)
 
 CreatedBy (string)
 
-
-
 3.15 SystemConfig
 
-Global configuration (humanauthored only).
+Global configuration (human-authored only).
 
 SystemConfig
 
@@ -410,13 +377,9 @@ ModifiedOn (DateTime)
 
 ModifiedBy (string)
 
-
-
 4. SQL SCHEMA (ABBREVIATED)
 
 Below is the SQLready schema for core tables.
-
-
 
 TruthRecord
 
@@ -435,8 +398,6 @@ CREATE TABLE TruthRecord (
     Notes NVARCHAR(MAX)
 
 );
-
-
 
 EvidenceRecord
 
@@ -457,8 +418,6 @@ CREATE TABLE EvidenceRecord (
     Classification INT
 
 );
-
-
 
 GovernanceFile
 
@@ -482,8 +441,6 @@ CREATE TABLE GovernanceFile (
 
 );
 
-
-
 AuditEvent
 
 CREATE TABLE AuditEvent (
@@ -502,9 +459,7 @@ CREATE TABLE AuditEvent (
 
 );
 
-
-
-5. RELATIONSHIPS
+## 5. Relationships
 
 OnetoMany
 
@@ -518,9 +473,7 @@ ManytoMany
 
 Handled via JSON arrays for simplicity and longterm stability.
 
-
-
-6. WHY THIS MODEL WORKS
+## 6. Why This Model Works
 
 ✔ Enterprisegrade
 

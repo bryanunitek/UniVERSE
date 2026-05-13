@@ -1,10 +1,11 @@
-⭐ X — UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios)
-
-Version 1.0 — May 2026
+# UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios)
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
-
+---
 
 STRUCTURE OF THE INCIDENT LIBRARY
 
@@ -31,8 +32,6 @@ I — Space Mission Incidents
 J — Hibernation & Medical Incidents
 
 Each category contains 10–15 scenarios, giving you 100+ total.
-
-
 
 ———————————————————————————
 
@@ -90,8 +89,6 @@ Response: Reject → Log
 
 Human Action: Correct evidence mapping
 
-
-
 ———————————————————————————
 
 B — EVIDENCE LAYER INCIDENTS (Level 2)
@@ -147,8 +144,6 @@ Severity: Medium
 Response: Verification required
 
 Human Action: Resolve conflict
-
-
 
 ———————————————————————————
 
@@ -206,8 +201,6 @@ Response: DriftEvent
 
 Human Action: Review rule mapping
 
-
-
 ———————————————————————————
 
 D — COMPLIANCE INCIDENTS (Level 7)
@@ -264,8 +257,6 @@ Response: Queue
 
 Human Action: Review backlog
 
-
-
 ———————————————————————————
 
 E — OPERATIONAL INCIDENTS (Level 8–9)
@@ -316,8 +307,6 @@ Severity: Medium
 
 Response: Block second operation
 
-
-
 ———————————————————————————
 
 F — AUDIT & DRIFT INCIDENTS (Level 10–11)
@@ -366,8 +355,6 @@ Severity: Critical
 
 Response: Lock governance
 
-
-
 ———————————————————————————
 
 G — SECURITY INCIDENTS
@@ -396,8 +383,6 @@ G10 — Credential Compromise
 
 All are High or Critical severity.
 
-
-
 ———————————————————————————
 
 H — INFRASTRUCTURE INCIDENTS
@@ -423,8 +408,6 @@ H8 — Memory Corruption
 H9 — Disk Full
 
 H10 — Service Crash
-
-
 
 ———————————————————————————
 
@@ -461,8 +444,6 @@ I13 — Course Correction Error
 I14 — Fuel Leak
 
 I15 — Emergency Safe Mode Trigger
-
-
 
 ———————————————————————————
 

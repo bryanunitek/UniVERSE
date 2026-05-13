@@ -1,18 +1,19 @@
-⭐ O — UniCORE AI Technical API Specification
-
-Version 1.0 — May 2026
+# UniCORE AI Technical API Specification
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
+## 1. Overview
 
-1. OVERVIEW
-
-The UniCORE AI API is a deterministic, governed interface that exposes the 12Level architecture through controlled, nonautonomous endpoints.
+The UniCORE AI API is a deterministic, governed interface that exposes the 12Level architecture through controlled, non-autonomous endpoints.
 
 The API:
 
-does not allow selfmodification
+does not allow self-modification
 
 does not allow rule creation
 
@@ -20,19 +21,17 @@ does not allow internal heartbeats
 
 does not allow emergent processes
 
-does not allow autonomous interlevel communication
+does not allow autonomous inter-level communication
 
 All operations are explicit, humantriggered, and governed by MD files.
 
-
-
-2. API DESIGN PRINCIPLES
+## 2. API Design Principles
 
 2.1 Deterministic
 
 Every request produces a predictable, auditable response.
 
-2.2 NonSelfModifying
+2.2 Non-Self-Modifying
 
 No endpoint can alter:
 
@@ -44,9 +43,9 @@ governance files
 
 thresholds
 
-system behavior
+system behaviour
 
-2.3 HumanAnchored
+2.3 Human-Anchored
 
 All write operations require:
 
@@ -56,7 +55,7 @@ human authorization
 
 human intent
 
-2.4 TruthAnchored
+2.4 Truth-Anchored
 
 All truthlevel responses must:
 
@@ -76,9 +75,7 @@ Reasonable Governance Threshold
 
 Human Override Protocol
 
-
-
-3. API STRUCTURE
+## 3. API Structure
 
 The API is divided into five domains:
 
@@ -94,11 +91,7 @@ The API is divided into five domains:
 
 Each domain maps directly to UniCORE Levels.
 
-
-
-4. ENDPOINTS
-
-
+## 4. Endpoints
 
 4.1 /truth — Level 1
 
@@ -138,13 +131,11 @@ No inference beyond evidence
 
 Must return UNVERIFIED when uncertain
 
-
-
 4.2 /evidence — Level 2
 
 POST /evidence/submit
 
-Submits humanprovided evidence.
+Submits human-provided evidence.
 
 Request:
 
@@ -174,8 +165,6 @@ AI cannot generate evidence
 
 Only humans may submit
 
-
-
 4.3 /verification — Level 3
 
 POST /verification/crosscheck
@@ -199,8 +188,6 @@ Response:
   "notes": "string"
 
 }
-
-
 
 4.4 /context — Level 4
 
@@ -227,8 +214,6 @@ Response:
   "details": {...}
 
 }
-
-
 
 4.5 /interpretation — Level 5
 
@@ -261,8 +246,6 @@ Rules:
 No fabrication
 
 No extrapolation beyond evidence
-
-
 
 4.6 /governance — Level 6
 
@@ -312,8 +295,6 @@ Response:
 
 }
 
-
-
 4.7 /compliance — Level 7
 
 POST /compliance/check
@@ -341,8 +322,6 @@ Response:
   "notes": "string"
 
 }
-
-
 
 4.8 /operations — Level 8
 
@@ -378,8 +357,6 @@ No autonomous execution
 
 Must respect governance
 
-
-
 4.9 /execution — Level 9
 
 POST /execution/run
@@ -406,8 +383,6 @@ Response:
 
 }
 
-
-
 4.10 /audit — Level 10
 
 GET /audit/logs
@@ -426,8 +401,6 @@ GET /audit/event/{id}
 
 Retrieves a specific audit event.
 
-
-
 4.11 /stability — Level 11
 
 GET /stability/drift
@@ -443,8 +416,6 @@ Response:
   "details": [...]
 
 }
-
-
 
 4.12 /human — Level 12
 
@@ -482,9 +453,7 @@ No delay
 
 No reinterpretation
 
-
-
-5. AUTHENTICATION
+## 5. Authentication
 
 All write operations require:
 
@@ -496,15 +465,11 @@ human intent
 
 AI cannot authenticate itself.
 
+## 6. Rate Limits
 
+There are no autonomous rate limits.All limits are human-defined.
 
-6. RATE LIMITS
-
-There are no autonomous rate limits.All limits are humandefined.
-
-
-
-7. ERROR MODEL
+## 7. Error Model
 
 Errors must be:
 

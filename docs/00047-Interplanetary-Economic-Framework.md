@@ -1,14 +1,15 @@
-⭐ AS — UniCORE AI Interplanetary Economic Framework
+# UniCORE AI Interplanetary Economic Framework
 
-Resource Governance • Trade Safety • Deterministic Economic Support
-
-Version 1.0 — May 2026
+**Resource Governance • Trade Safety • Deterministic Economic Support**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Interplanetary Economic Framework defines how UniCORE AI:
 
@@ -16,7 +17,7 @@ supports economic governance across planets
 
 enforces resource thresholds
 
-prevents autonomous economic behavior
+prevents autonomous economic behaviour
 
 maintains human sovereignty over markets
 
@@ -36,13 +37,11 @@ orbital stations
 
 asteroid mining outposts
 
-deepspace transit habitats
+deep-space transit habitats
 
 multiplanet trade networks
 
-
-
-2. FOUNDATIONAL PRINCIPLES
+## 2. Foundational Principles
 
 2.1 Economic Sovereignty
 
@@ -60,7 +59,7 @@ optimize trade routes
 
 predict economic outcomes
 
-2.2 No Autonomous Economic Behavior
+2.2 No Autonomous Economic Behaviour
 
 AI cannot autonomously:
 
@@ -76,7 +75,7 @@ coordinate economic activity
 
 2.3 Deterministic Economic Governance
 
-All AI behavior must be:
+All AI behaviour must be:
 
 predictable
 
@@ -112,9 +111,7 @@ legally independent
 
 AI must not merge economic logic across settlements.
 
-
-
-3. ECONOMIC GOVERNANCE FILES
+## 3. Economic Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -146,9 +143,7 @@ emergency protocols
 
 AI cannot modify these files.
 
-
-
-4. RESOURCE GOVERNANCE
+## 4. Resource Governance
 
 Resources include:
 
@@ -200,9 +195,7 @@ coordinate resource sharing
 
 Only humans may authorize resource movement.
 
-
-
-5. PRODUCTION GOVERNANCE
+## 5. Production Governance
 
 Production includes:
 
@@ -242,9 +235,7 @@ reconfigure production lines
 
 initiate manufacturing autonomously
 
-
-
-6. TRADE GOVERNANCE
+## 6. Trade Governance
 
 Trade includes:
 
@@ -280,9 +271,7 @@ influence pricing
 
 coordinate trade networks
 
-
-
-7. MINING & EXTRACTION GOVERNANCE
+## 7. Mining & Extraction Governance
 
 Mining includes:
 
@@ -316,9 +305,7 @@ optimize mining operations
 
 alter mining plans
 
-
-
-8. INTERSETTLEMENT ECONOMIC RELATIONS
+## 8. Intersettlement Economic Relations
 
 8.1 No Autonomous Coordination
 
@@ -358,9 +345,7 @@ its own override authority
 
 AI must respect jurisdiction tags.
 
-
-
-9. EMERGENCY ECONOMIC GOVERNANCE
+## 9. Emergency Economic Governance
 
 Emergencies include:
 
@@ -396,9 +381,7 @@ initiate trade
 
 override economic law
 
-
-
-10. DRIFT DETECTION
+## 10. Drift Detection
 
 UniCORE AI must detect:
 
@@ -414,7 +397,7 @@ governance drift
 
 communication drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Economic Safe Mode
 
@@ -424,9 +407,7 @@ log event
 
 escalate to human authority
 
-
-
-11. BLACKOUT & DELAY GOVERNANCE
+## 11. Blackout & Delay Governance
 
 During communication delays:
 
@@ -444,9 +425,7 @@ log events
 
 await human instruction
 
-
-
-12. INTERGENERATIONAL ECONOMIC GOVERNANCE
+## 12. Intergenerational Economic Governance
 
 For multidecade settlements:
 
@@ -474,9 +453,7 @@ generate new rules
 
 adapt thresholds
 
-
-
-13. HUMAN OVERRIDE
+## 13. Human Override
 
 Humans may override:
 

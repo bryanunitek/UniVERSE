@@ -1,14 +1,15 @@
-⭐ AP — UniCORE AI MultiModel Robotics Governance
+# UniCORE AI Multi-Model Robotics Governance
 
-Deterministic Robotics • Safety Enforcement • Human Sovereignty
-
-Version 1.0 — May 2026
+**Deterministic Robotics • Safety Enforcement • Human Sovereignty**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Robotics Governance Framework defines how UniCORE AI:
 
@@ -18,7 +19,7 @@ enforces safety thresholds
 
 prevents autonomous decisionmaking
 
-prevents emergent multirobot behavior
+prevents emergent multirobot behaviour
 
 ensures deterministic execution
 
@@ -36,13 +37,11 @@ Mars robotics
 
 orbital robotics
 
-deepspace robotics
+deep-space robotics
 
 settlement robotics
 
-
-
-2. GOVERNANCE PRINCIPLES
+## 2. Governance Principles
 
 2.1 Human Sovereignty
 
@@ -52,7 +51,7 @@ act without human instruction
 
 generate goals
 
-modify their own behavior
+modify their own behaviour
 
 override human commands
 
@@ -60,7 +59,7 @@ override human commands
 
 Robots must:
 
-follow humanauthored rules
+follow human-authored rules
 
 follow governance MD files
 
@@ -68,19 +67,19 @@ execute deterministically
 
 log all actions
 
-2.3 No Autonomous Robotics Behavior
+2.3 No Autonomous Robotics Behaviour
 
 Robots cannot:
 
 selfcoordinate
 
-selfoptimize
+self-optimize
 
 selfassign tasks
 
 form internal communication networks
 
-2.4 No Emergent MultiRobot Behavior
+2.4 No Emergent MultiRobot Behaviour
 
 Robots cannot:
 
@@ -102,9 +101,7 @@ yellow band (caution)
 
 red band (critical → halt)
 
-
-
-3. ROBOTICS GOVERNANCE FILES
+## 3. Robotics Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -138,9 +135,7 @@ override authority
 
 AI cannot modify these files.
 
-
-
-4. ROBOTICS CATEGORIES
+## 4. Robotics Categories
 
 UniCORE governs robotics across seven categories:
 
@@ -204,9 +199,7 @@ probes
 
 Each category has its own governance rules.
 
-
-
-5. MOTION GOVERNANCE
+## 5. Motion Governance
 
 UniCORE AI governs:
 
@@ -244,9 +237,7 @@ enter restricted zones
 
 modify their own motion profiles
 
-
-
-6. TOOLING GOVERNANCE
+## 6. Tooling Governance
 
 Robots may use:
 
@@ -266,7 +257,7 @@ scientific instruments
 
 use tools within thresholds
 
-follow humandefined sequences
+follow human-defined sequences
 
 6.2 Prohibited Actions
 
@@ -278,9 +269,7 @@ change tool parameters
 
 initiate tool usage without instruction
 
-
-
-7. MULTIROBOT GOVERNANCE
+## 7. Multirobot Governance
 
 7.1 No Autonomous Coordination
 
@@ -290,7 +279,7 @@ form teams
 
 share internal states
 
-synchronize behavior
+synchronize behaviour
 
 negotiate tasks
 
@@ -306,7 +295,7 @@ define multirobot workflows
 
 AI executes deterministically.
 
-7.3 No Emergent Swarm Behavior
+7.3 No Emergent Swarm Behaviour
 
 Robots cannot:
 
@@ -314,13 +303,11 @@ cluster
 
 adapt
 
-selforganize
+self-organize
 
 form distributed intelligence
 
-
-
-8. EVA ROBOTICS GOVERNANCE
+## 8. Eva Robotics Governance
 
 EVA robots operate in:
 
@@ -348,9 +335,7 @@ perform repairs autonomously
 
 adjust EVA paths
 
-
-
-9. CONSTRUCTION ROBOTICS GOVERNANCE
+## 9. Construction Robotics Governance
 
 Construction robots must:
 
@@ -368,9 +353,7 @@ modify habitat geometry
 
 initiate construction autonomously
 
-
-
-10. MEDICAL ROBOTICS GOVERNANCE
+## 10. Medical Robotics Governance
 
 Medical robots may:
 
@@ -392,9 +375,7 @@ administer medication
 
 perform surgery autonomously
 
-
-
-11. EMERGENCY ROBOTICS GOVERNANCE
+## 11. Emergency Robotics Governance
 
 Robots may:
 
@@ -412,9 +393,7 @@ override human authority
 
 initiate evacuations
 
-
-
-12. DRIFT DETECTION
+## 12. Drift Detection
 
 UniCORE AI must detect:
 
@@ -430,7 +409,7 @@ governance drift
 
 communication drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 halt robot
 
@@ -440,9 +419,7 @@ log event
 
 escalate to human authority
 
-
-
-13. BLACKOUT & DELAY GOVERNANCE
+## 13. Blackout & Delay Governance
 
 During communication delays:
 
@@ -460,9 +437,7 @@ halt all motion
 
 maintain environmental safety
 
-
-
-14. HUMAN OVERRIDE
+## 14. Human Override
 
 Humans may override:
 

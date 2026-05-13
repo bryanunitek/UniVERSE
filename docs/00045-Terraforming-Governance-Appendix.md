@@ -1,14 +1,15 @@
-⭐ AQ — UniCORE AI Terraforming Governance Appendix
+# UniCORE AI Terraforming Governance Appendix
 
-Planetary Safety • Environmental Thresholds • Human Sovereignty
-
-Version 1.0 — May 2026
+**Planetary Safety • Environmental Thresholds • Human Sovereignty**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Terraforming Governance Appendix defines how UniCORE AI:
 
@@ -18,7 +19,7 @@ enforces terraforming safety thresholds
 
 prevents autonomous terraforming actions
 
-ensures deterministic behavior across centuries
+ensures deterministic behaviour across centuries
 
 maintains human sovereignty over planetary engineering
 
@@ -36,13 +37,11 @@ asteroid habitat environmentalization
 
 orbital greenhouse ecosystems
 
-longduration terraforming experiments
+long-duration terraforming experiments
 
 future multiplanet ecological engineering
 
-
-
-2. FOUNDATIONAL PRINCIPLES
+## 2. Foundational Principles
 
 2.1 Terraforming Is HumanSovereign
 
@@ -78,7 +77,7 @@ initiate biological seeding
 
 2.3 Deterministic Environmental Governance
 
-All AI behavior must be:
+All AI behaviour must be:
 
 predictable
 
@@ -90,7 +89,7 @@ thresholdbound
 
 governed by MD files
 
-2.4 No Emergent Planetary Behavior
+2.4 No Emergent Planetary Behaviour
 
 AI cannot:
 
@@ -102,7 +101,7 @@ coordinate across ecosystems
 
 generate terraforming logic
 
-2.5 MultiCentury Stability
+2.5 Multi-Century Stability
 
 Terraforming is a 100–500 year process.UniCORE AI must remain stable across:
 
@@ -116,9 +115,7 @@ settlements
 
 planetary environments
 
-
-
-3. TERRAFORMING GOVERNANCE FILES
+## 3. Terraforming Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -150,17 +147,13 @@ safety thresholds
 
 emergency protocols
 
-multicentury governance continuity
+multi-century governance continuity
 
 AI cannot modify these files.
 
-
-
-4. TERRAFORMING PHASE GOVERNANCE
+## 4. Terraforming Phase Governance
 
 Terraforming is divided into five phases, each with strict governance.
-
-
 
 Phase 1 — Observation & Mapping
 
@@ -168,7 +161,7 @@ AI may:
 
 map terrain
 
-analyze soil
+analyse soil
 
 measure radiation
 
@@ -181,8 +174,6 @@ alter environment
 adjust thresholds
 
 initiate experiments
-
-
 
 Phase 2 — MicroScale Experiments
 
@@ -202,8 +193,6 @@ replicate experiments
 
 optimize outcomes
 
-
-
 Phase 3 — Controlled Environmental Modification
 
 AI may:
@@ -221,8 +210,6 @@ adjust rates
 initiate changes
 
 accelerate processes
-
-
 
 Phase 4 — MacroScale Terraforming
 
@@ -242,8 +229,6 @@ coordinate across ecosystems
 
 initiate biological seeding
 
-
-
 Phase 5 — Ecological Stabilization
 
 AI may:
@@ -262,9 +247,7 @@ modify ecosystems
 
 adjust ecological balance
 
-
-
-5. ATMOSPHERIC GOVERNANCE
+## 5. Atmospheric Governance
 
 UniCORE AI must monitor:
 
@@ -298,9 +281,7 @@ adjust atmospheric composition
 
 alter pressure targets
 
-
-
-6. HYDROLOGICAL GOVERNANCE
+## 6. Hydrological Governance
 
 AI must monitor:
 
@@ -328,9 +309,7 @@ initiate melt
 
 alter hydrological cycles
 
-
-
-7. SOIL CHEMISTRY GOVERNANCE
+## 7. Soil Chemistry Governance
 
 AI must monitor:
 
@@ -358,9 +337,7 @@ introduce nutrients
 
 modify regolith
 
-
-
-8. RADIATION GOVERNANCE
+## 8. Radiation Governance
 
 AI must:
 
@@ -376,9 +353,7 @@ adjust shielding autonomously
 
 alter planetary radiation profiles
 
-
-
-9. BIOLOGICAL SEEDING GOVERNANCE
+## 9. Biological Seeding Governance
 
 AI must:
 
@@ -396,9 +371,7 @@ modify genomes
 
 propagate biological systems
 
-
-
-10. EMERGENCY TERRAFORMING GOVERNANCE
+## 10. Emergency Terraforming Governance
 
 Emergencies include:
 
@@ -432,9 +405,7 @@ accelerate terraforming
 
 alter environmental targets
 
-
-
-11. DRIFT DETECTION
+## 11. Drift Detection
 
 UniCORE AI must detect:
 
@@ -450,7 +421,7 @@ ecological drift
 
 governance drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Terraforming Safe Mode
 
@@ -460,9 +431,7 @@ log event
 
 escalate to human authority
 
-
-
-12. MULTICENTURY GOVERNANCE CONTINUITY
+## 12. Multi-Century Governance Continuity
 
 UniCORE AI must preserve:
 
@@ -488,9 +457,7 @@ generate new rules
 
 adapt thresholds
 
-
-
-13. HUMAN OVERRIDE
+## 13. Human Override
 
 Humans may override:
 

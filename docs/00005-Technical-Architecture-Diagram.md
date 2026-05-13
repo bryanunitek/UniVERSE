@@ -1,12 +1,19 @@
-⭐ E — UniCORE AI Technical Architecture Diagram (TextBased)
+# UniCORE AI Technical Architecture Diagram (Text-Based)
 
-(This is the canonical diagram for your whitepaper and GitHub repo.)
+**(This is the canonical diagram for your whitepaper and GitHub repo.)**
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
+
+---
 
                           ┌──────────────────────────────────────────┐
 
                           │          TRUEAI FOUNDATION               │
 
-                          │  (Immutable, HumanAuthored, NonAI)     │
+                          │  (Immutable, Human-Authored, NonAI)     │
 
                           ├──────────────────────────────────────────┤
 
@@ -14,7 +21,7 @@
 
                           │  • NoFabrication Rule                   │
 
-                          │  • NoSelfCreation Rule                 │
+                          │  • NoSelf-Creation Rule                 │
 
                           │  • NoInternalHeartbeat Rule            │
 
@@ -34,7 +41,7 @@
 
 │                           UNICORE AI — 12 LEVEL STACK                           │
 
-│                     (Governed, Deterministic, NonSelfModifying)               │
+│                     (Governed, Deterministic, Non-Self-Modifying)               │
 
 ├────────────────────────────────────────────────────────────────────────────────┤
 
@@ -166,7 +173,7 @@
 
 ┌────────────────────────────────────────────────────────────────────────────────┐
 
-│                     HUMANAUTHORED GOVERNANCE MD FILES                          │
+│                     HUMAN-AUTHORED GOVERNANCE MD FILES                          │
 
 ├────────────────────────────────────────────────────────────────────────────────┤
 
@@ -234,8 +241,6 @@
 
 └────────────────────────────────────────────────────────────────────────────────┘
 
-
-
 ⭐ What This Diagram Communicates
 
 This architecture diagram makes the following clear to any AI company:
@@ -248,11 +253,11 @@ This architecture diagram makes the following clear to any AI company:
 
 ✔ Level 12 (Human) is sovereign
 
-✔ Governance MD files are humanauthored only
+✔ Governance MD files are human-authored only
 
-✔ No selfcreation, no selfextension, no internal heartbeat
+✔ No self-creation, no selfextension, no internal heartbeat
 
-✔ The system is suitable for enterprise, government, and deepspace missions
+✔ The system is suitable for enterprise, government, and deep-space missions
 
 ✔ The implementation is real, not theoretical
 

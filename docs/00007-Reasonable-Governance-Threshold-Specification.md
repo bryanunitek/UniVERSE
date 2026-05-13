@@ -1,10 +1,15 @@
-⭐ G — The Reasonable Governance Threshold Specification
+# The Reasonable Governance Threshold Specification
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
+
+---
 
 This is the document that explains how UniCORE AI tolerates human imperfection at Level 12 without allowing drift, corruption, or AI override.It is one of the most important governance artifacts in the entire system.
 
-Below is the full, publicationready specification.
-
-
+Below is the full, publication-ready specification.
 
 ⭐ G — Reasonable Governance Threshold Specification
 
@@ -14,9 +19,7 @@ Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 Date: May 2026
 
-
-
-1. PURPOSE
+## 1. Purpose
 
 The Reasonable Governance Threshold (RGT) defines how UniCORE AI handles human imperfection, human discretion, and human rulebending at Level 12 without:
 
@@ -32,9 +35,7 @@ collapsing governance integrity
 
 Humans are imperfect by design.UniCORE AI must tolerate this — safely.
 
-
-
-2. PRINCIPLE
+## 2. Principle
 
 **Humans at Level 12 may deviate from strict truth or strict rules within a defined tolerance range.
 
@@ -55,8 +56,6 @@ realworld governance
 crisis decisionmaking
 
 space mission autonomy
-
-
 
 3. WHAT COUNTS AS “REASONABLE”
 
@@ -102,13 +101,9 @@ modify governance files
 
 The deviation must fall within the tolerance ranges defined in the Governance MD files.
 
-
-
-4. TOLERANCE CATEGORIES
+## 4. Tolerance Categories
 
 UniCORE AI uses three tolerance bands:
-
-
 
 4.1 GREEN BAND — Fully Tolerated
 
@@ -132,8 +127,6 @@ classify
 
 accept
 
-
-
 4.2 YELLOW BAND — Requires Human Review
 
 Examples:
@@ -156,8 +149,6 @@ notify human governance
 
 do not override
 
-
-
 4.3 RED BAND — Escalation Required
 
 Examples:
@@ -168,7 +159,7 @@ decisions that break mission integrity
 
 decisions that contradict immutable governance
 
-decisions that exceed humandefined thresholds
+decisions that exceed human-defined thresholds
 
 AI response:
 
@@ -180,9 +171,7 @@ escalate to designated human authority
 
 do not override
 
-
-
-5. WHAT UNICORE AI MUST NEVER DO
+## 5. What UNICORE AI Must Never Do
 
 5.1 Never Override Humans
 
@@ -220,9 +209,7 @@ reprimand
 
 humans.
 
-
-
-6. HOW UNICORE AI HANDLES DEVIATIONS
+## 6. How UNICORE AI Handles Deviations
 
 6.1 Detection
 
@@ -256,9 +243,7 @@ AI notifies the designated human governance authority.
 
 AI does not attempt to fix the deviation.
 
-
-
-7. IMPLEMENTATION IN CODE
+## 7. Implementation in Code
 
 The RGT is implemented in:
 
@@ -272,9 +257,7 @@ Each deviation is processed through:
 
 Detect → Classify → Log → (Optional) Escalate → Respect Human Authority
 
-
-
-8. WHY THIS MATTERS
+## 8. Why This Matters
 
 Without the Reasonable Governance Threshold:
 
@@ -292,4 +275,4 @@ Governments would reject the system
 
 AI companies would not adopt it
 
-RGT is the mechanism that keeps UniCORE AI humananchored.
+RGT is the mechanism that keeps UniCORE AI human-anchored.

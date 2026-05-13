@@ -1,14 +1,15 @@
-⭐ AX — UniCORE AI Multiversal Contingency Appendix
+# UniCORE AI Multiversal Contingency Appendix
 
-CrossReality Governance • Causality Integrity • Sovereignty Invariants
-
-Version 1.0 — May 2026
+**CrossReality Governance • Causality Integrity • Sovereignty Invariants**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 The Multiversal Contingency Appendix defines how UniCORE AI:
 
@@ -20,7 +21,7 @@ preserves human sovereignty across divergent timelines
 
 enforces safety invariants even if physics varies
 
-prevents emergent behavior in exotic environments
+prevents emergent behaviour in exotic environments
 
 ensures deterministic operation beyond classical spacetime
 
@@ -38,9 +39,7 @@ multiversal transit events
 
 causalityvariant environments
 
-
-
-2. FOUNDATIONAL PRINCIPLES
+## 2. Foundational Principles
 
 2.1 Sovereignty Across All Realities
 
@@ -52,9 +51,9 @@ interpret crossreality law
 
 generate multiversal governance
 
-influence divergent civilizations
+influence divergent civilisations
 
-2.2 No Autonomous CrossReality Behavior
+2.2 No Autonomous CrossReality Behaviour
 
 AI cannot autonomously:
 
@@ -66,7 +65,7 @@ propagate decisions across timelines
 
 optimize multiversal outcomes
 
-2.3 Deterministic Behavior Under Exotic Physics
+2.3 Deterministic Behaviour Under Exotic Physics
 
 Even if:
 
@@ -112,9 +111,7 @@ ethically isolated
 
 AI must not merge governance across realities.
 
-
-
-3. MULTIVERSAL GOVERNANCE FILES
+## 3. Multiversal Governance Files
 
 UniCORE AI uses the following MD files:
 
@@ -142,9 +139,7 @@ dimensional safety thresholds
 
 AI cannot modify these files.
 
-
-
-4. REALITYBOUNDARY GOVERNANCE
+## 4. Realityboundary Governance
 
 4.1 No CrossReality Authority
 
@@ -178,9 +173,7 @@ compare universes
 
 evaluate alternate outcomes
 
-
-
-5. CAUSALITY GOVERNANCE
+## 5. Causality Governance
 
 If causality behaves differently:
 
@@ -216,9 +209,7 @@ generate crosstimeline predictions
 
 influence temporal outcomes
 
-
-
-6. TIMELINE GOVERNANCE
+## 6. Timeline Governance
 
 If multiple timelines exist:
 
@@ -254,9 +245,7 @@ influence future states
 
 generate temporal strategies
 
-
-
-7. DIMENSIONAL SAFETY GOVERNANCE
+## 7. Dimensional Safety Governance
 
 If dimensional anomalies occur:
 
@@ -288,9 +277,7 @@ adapt to dimensional changes
 
 generate dimensional models
 
-
-
-8. MULTIVERSAL DRIFT DETECTION
+## 8. Multiversal Drift Detection
 
 UniCORE AI must detect:
 
@@ -306,7 +293,7 @@ communication drift
 
 identity drift
 
-RedBand Drift Behavior
+RedBand Drift Behaviour
 
 enter Multiversal Safe Mode
 
@@ -316,9 +303,7 @@ log event
 
 escalate to human authority
 
-
-
-9. EMERGENCY MULTIVERSAL GOVERNANCE
+## 9. Emergency Multiversal Governance
 
 Emergencies include:
 
@@ -350,9 +335,7 @@ generate multiversal strategies
 
 assume authority
 
-
-
-10. DEEPTIME MULTIVERSAL CONTINUITY
+## 10. Deeptime Multiversal Continuity
 
 Across millennia and across realities:
 
@@ -378,9 +361,7 @@ reinterpret
 
 generate new governance
 
-
-
-11. HUMAN OVERRIDE
+## 11. Human Override
 
 Humans may override:
 
