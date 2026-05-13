@@ -78,6 +78,8 @@ There is no expiry mechanism. Certificates do not lapse with time and there is n
 
 A certificate may be revoked **only** for violation of the [programme licence](LICENSE.md).
 
+**This rule binds Bryan Fred, any future named successor, and Unitek Systems Limited itself.** None of them, acting individually or jointly, may revoke a certificate for any reason other than violation of the programme licence. The certifying authority is the first party constrained by the rule. A certificate that could be revoked at the certifying authority's discretion would carry only the authority's continuing willingness, not a real commitment, and would not survive a change of leadership or institutional pressure; the self-binding here is what gives a certified expert a credential they can rely on across decades, not just across the goodwill of the current office-holders.
+
 No other ground is sufficient. Disagreement, inactivity, commercial competition, personal dispute, or change of opinion does not constitute grounds for revocation. The certificate, once given, follows the gift principle: it is not subject to withdrawal except where the recipient has violated the terms under which the gift was made.
 
 The default-held certificate (Bryan Fred and successors) cannot be revoked because the certifying authority and the certificate-holder are the same originating identity; revocation would mean the authority withdrawing authorisation from itself. If the Author/Creator role itself ceases (succession process exhausted, no named successor accepted), the default-held certificate ceases with it.
