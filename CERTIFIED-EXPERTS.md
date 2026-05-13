@@ -60,13 +60,13 @@ When the full Solution Review certification scheme is published, the issuance pa
 
 ### 3.1 Currently certified
 
-| # | Practitioner | Authority basis | Certified from | L3 Scope-Domain CORE(s) authorised |
-|---|---|---|---|---|
-| 1 | **Bryan Fred** (Unitek Systems Limited, Bedford, United Kingdom) | Default-held, by virtue of being Author and Creator of UniVERSE, TrueAI, and UniCORE-AI | 2026-05-13 | All L3 Scope-Domain COREs in the programme |
+| # | Practitioner | Status | Authority basis | Certified from | L3 Scope-Domain CORE(s) authorised |
+|---|---|---|---|---|---|
+| 1 | **Bryan Fred** (Unitek Systems Limited, Bedford, United Kingdom) | Active (default-held; not subject to status change, see [§3.4](#34-engagement-status)) | Default-held, by virtue of being Author and Creator of UniVERSE, TrueAI, and UniCORE-AI | 2026-05-13 | All L3 Scope-Domain COREs in the programme |
 
 The register currently has one entry. The default-held certificate is recorded above as line 1; it is recorded in the register, even though no issuance event took place, so that any reader can verify that the Author/Creator's certificate is publicly named and not implicit.
 
-Additional certified experts will be added to §3.1 as Unitek Systems Limited issues their certificates by nomination (or, once the full scheme is published, by the scheme's public process).
+Additional certified experts will be added to §3.1 as Unitek Systems Limited issues their certificates by nomination (or, once the full scheme is published, by the scheme's public process). New entries are added in Active status; the engagement-status mechanism is described in [§3.4](#34-engagement-status).
 
 ### 3.2 Revoked (licence violation only)
 
@@ -88,6 +88,31 @@ For readers who want to confirm a name against the register but do not wish to w
 - **Private verification — via LinkedIn direct message to [Bryan Fred](https://www.linkedin.com/in/bryan-fred-02209753/).** Where the asking party prefers not to put a verification question on the public record (commercial confidentiality, regulatory privacy, client-relationship sensitivity), the same question may be sent privately. The answer is given privately, and references the same register entries that would have been quoted in a public response.
 
 Both channels are authoritative. Neither channel can issue a certificate, change a register entry, or override what is recorded in the file; their role is to make the file's contents queryable for parties who would otherwise have to read raw Git history. Verification by either channel never invents a certification not recorded here — if the file says the practitioner is not certified, that is the answer in either channel.
+
+### 3.4 Engagement status
+
+The certificate is the gift. The **register** also carries an engagement status alongside each entry, so the register stays accurate as a current statement of who is actively part of the programme. The status reflects the practitioner's recent participation; it does not affect the validity of the certificate.
+
+**Status values:**
+
+- **Active** — the practitioner has contributed to programme [Discussions](DISCUSSIONS.md), or to programme work in another visibly recorded form, within the most recent twelve (12) months.
+- **Expired** — the practitioner has not contributed within the most recent twelve (12) months. **The certificate is not revoked.** Only the engagement status has changed. Expired status is not a punishment; it is a register-accuracy statement that the practitioner is currently inactive.
+- **Active (default-held)** applies to the default-held entry (Bryan Fred and any future named successor under the Author/Creator role). The default-held entry is never moved to Expired, because the Author/Creator's authority is a structural property of the role, not a function of recent participation.
+
+**Status is a register property, not a certificate property.** An Expired status:
+
+- does NOT revoke the certificate;
+- does NOT lapse the certificate;
+- does NOT engage the [§4](#4-when-a-certificate-may-be-revoked) revocation rule or its self-binding clause;
+- does NOT invalidate any Solution Review work the practitioner has already completed and signed off as operator-of-record.
+
+The §4 rule that a certificate may be revoked only for licence violation is unaffected by this section. The certificate, once given, remains given.
+
+**Returning to Active.** A practitioner whose status is Expired returns to Active on any new contribution to programme Discussions or programme work. The date of the contribution is recorded as the status-change date. There is no application, no examination, no fee, and no renewal procedure in the certificate sense; the practitioner simply contributes again, and the register reflects it.
+
+**Disputes about status are corrections, not appeals.** If a practitioner believes their contributions in the relevant window were missed, they raise the matter via the [verification channels in §3.3](#33-how-to-verify-a-certificate). If the contributions are confirmed, the register is corrected by signed Git commit, with the original Active status restored. No appeal procedure is engaged, because no revocation has occurred.
+
+**Interim threshold.** The twelve-month value is the interim regime's working threshold. The full certification scheme referenced in [§2.3](#23-issued-under-the-full-certification-scheme-future) may adjust the value, may make the threshold sensitive to the certification level (if levelled certificates are adopted, per the candidate described in §2.3), or may relate the threshold to the Discussion Points mechanism described as a candidate in §2.3. Any change to the threshold is published in this file by signed Git commit.
 
 ---
 
