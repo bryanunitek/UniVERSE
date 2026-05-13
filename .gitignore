@@ -1,2 +1,7 @@
 # Local-only agent instructions — do not publish
 AGENTS.md
+
+# Source materials & scratch — kept locally, not published
+_extracted/
+markdown/
+public-drafts/
