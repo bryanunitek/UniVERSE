@@ -24,6 +24,20 @@ UniVERSE is a civilisational-scale governance programme. It is not a product. It
 
 It is given, not sold. It is irrevocable.
 
+## Scope of this statement — first-use and prior-use
+
+This statement governs the use of the names **UniVERSE**, **TrueAI**, and **UniCORE AI** as they are used by **Unitek Systems Limited** from its first use in commerce on **2026-05-10** and thereafter. It is a forward-looking statement of the boundaries of permitted use.
+
+It does not:
+
+- assert trademark priority over a third party with genuine, dated, prior use of a similar name in commerce in a relevant class and jurisdiction;
+- claim retroactive authority over earlier or unrelated uses of "UniVERSE", "TrueAI", "True AI", "UniCORE", "UniCORE AI", or similar terms by other parties;
+- substitute for the trademark registration and prior-use review that Unitek Systems Limited is conducting separately.
+
+Where this statement refers to **UniVERSE**, **TrueAI**, or **UniCORE AI**, it means the programme as published by Unitek Systems Limited from May 2026 — the work in this repository and its sibling repositories [TrueAI](https://github.com/bryanunitek/TrueAI) and [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI). It does not by itself extend over uses of similar names that pre-date that publication or that operate in unrelated classes.
+
+The binding rules in the sections below apply to that scope.
+
 ## Claims that are not permitted
 
 No person, company, consortium, standards body, regulator, or research group may:
