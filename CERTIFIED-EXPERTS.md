@@ -11,9 +11,9 @@ applies-to: UniVERSE, TrueAI, UniCORE-AI
 
 **Public register of practitioners authorised to provide Solution Review (and other delegated programme services) on behalf of the originating organisation.**
 
-This document is the canonical public register of current and historical holders of the **Solution Review certificate** issued by **Unitek Systems Limited**. The rule that requires a certificate to provide Solution Review as a delegated service is published in [`docs/00059-Solution-Review.md`](docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly). This file is where the names live.
+This document is the canonical public register of current and revoked holders of the **Solution Review certificate** issued by **Unitek Systems Limited**. The rule that requires a certificate to provide Solution Review as a delegated service is published in [`docs/00059-Solution-Review.md`](docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly). This file is where the names live.
 
-The register is public for the same reason the rule is public. Anyone evaluating a Solution Review claimed under the programme name should be able to verify, in one place, that the practitioner who conducted it holds (or held, at the time of the review) a current certificate.
+The register is public for the same reason the rule is public. Anyone evaluating a Solution Review claimed under the programme name should be able to verify, in one place, that the practitioner who conducted it holds a current certificate.
 
 ---
 
@@ -22,7 +22,7 @@ The register is public for the same reason the rule is public. Anyone evaluating
 To make the certification rule verifiable by readers, regulators, customers, and successors:
 
 - A solution owner considering a delegated review can confirm that the practitioner approaching them is in fact certified.
-- A reader of a published Solution Review can confirm the operator-of-record named in the review's attribution couplet was current at the time the review was conducted.
+- A reader of a published Solution Review can confirm the operator-of-record named in the review's attribution couplet was certified at the time the review was conducted.
 - A regulator or auditor can read the public history of who has been authorised to provide programme services and under what scope.
 - A successor inheriting the Author/Creator role can read the register before issuing any new certificates of their own.
 
@@ -46,7 +46,7 @@ Until the full Solution Review certification scheme is published as a separate p
 
 ### 2.3 Issued under the full certification scheme (future)
 
-When the full Solution Review certification scheme is published, the issuance path will change from nomination to a public process (criteria, examination, renewal, revocation). The register will continue to be the canonical public record of who currently holds a certificate, regardless of which path issued it.
+When the full Solution Review certification scheme is published, the issuance path will change from nomination to a public process (criteria, examination, the licence-violation revocation procedure). The register will continue to be the canonical public record of who holds a certificate, regardless of which path issued it.
 
 ---
 
@@ -54,30 +54,33 @@ When the full Solution Review certification scheme is published, the issuance pa
 
 ### 3.1 Currently certified
 
-| # | Practitioner | Authority basis | Current from | Current until | L3 Scope-Domain CORE(s) authorised | Last verification |
-|---|---|---|---|---|---|---|
-| 1 | **Bryan Fred** (Unitek Systems Limited, Bedford, United Kingdom) | Default-held, by virtue of being Author and Creator of UniVERSE, TrueAI, and UniCORE-AI | 2026-05-13 | _(no expiry; default-held)_ | All L3 Scope-Domain COREs in the programme | 2026-05-13 |
+| # | Practitioner | Authority basis | Certified from | L3 Scope-Domain CORE(s) authorised |
+|---|---|---|---|---|
+| 1 | **Bryan Fred** (Unitek Systems Limited, Bedford, United Kingdom) | Default-held, by virtue of being Author and Creator of UniVERSE, TrueAI, and UniCORE-AI | 2026-05-13 | All L3 Scope-Domain COREs in the programme |
 
 The register currently has one entry. The default-held certificate is recorded above as line 1; it is recorded in the register, even though no issuance event took place, so that any reader can verify that the Author/Creator's certificate is publicly named and not implicit.
 
 Additional certified experts will be added to §3.1 as Unitek Systems Limited issues their certificates by nomination (or, once the full scheme is published, by the scheme's public process).
 
-### 3.2 Historical (expired or revoked certificates)
+### 3.2 Revoked (licence violation only)
 
-No historical entries to date.
+No revoked entries to date.
 
-When a certificate expires or is revoked, the corresponding row will be moved from §3.1 to this section with a final status (`expired` or `revoked`), the date the status changed, and a brief reason. Historical rows are not deleted. They remain in the public record because work conducted under a then-current certificate stays valid even after the certificate ceases to be current, and a reader of that work must still be able to verify the operator was authorised at the time.
+**Once issued, a Solution Review certificate cannot be revoked.** This follows the same gift-principle reasoning that applies to the foundation as a whole: what has been given is not subject to withdrawal. The single, narrow exception is **violation of the [programme licence](LICENSE.md)**. Examples of licence violation include treating programme materials as commercial property, removing or falsifying attribution, or using the certificate to misrepresent the programme.
+
+When a certificate is revoked on those grounds, the corresponding row is moved from §3.1 to this section with the date of revocation and the specific licence violation that triggered it. The revocation ends the practitioner's future authorisation to provide delegated Solution Review under the programme name. It does **not** invalidate work already completed, published, and certified under the previously-active certificate.
+
+There is no expiry mechanism. Certificates do not lapse with time and there is no renewal process.
 
 ---
 
-## 4. Status field definitions
+## 4. When a certificate may be revoked
 
-For rows that may appear in §3.2 in future:
+A certificate may be revoked **only** for violation of the [programme licence](LICENSE.md).
 
-- **`expired`** — the certificate's `Current until` date passed without renewal. No action by Unitek Systems Limited is required to mark a certificate expired; the date does the work.
-- **`revoked`** — Unitek Systems Limited withdrew the certificate before its expiry, for cause. Revocation ends the practitioner's future authorisation to provide Solution Review under the programme name. It does **not** invalidate work completed, published, and certified under the previously-current certificate.
+No other ground is sufficient. Disagreement, inactivity, commercial competition, personal dispute, or change of opinion does not constitute grounds for revocation. The certificate, once given, follows the gift principle: it is not subject to withdrawal except where the recipient has violated the terms under which the gift was made.
 
-The default-held certificate (Bryan Fred and successors) is not subject to expiry. Revocation of a default-held certificate is not meaningful while the holder is the Author/Creator or named successor, because revocation would imply the certifying authority withdrawing authorisation from itself. If the Author/Creator role itself ceases (succession process exhausted, no named successor accepted), the default-held certificate ceases with it.
+The default-held certificate (Bryan Fred and successors) cannot be revoked because the certifying authority and the certificate-holder are the same originating identity; revocation would mean the authority withdrawing authorisation from itself. If the Author/Creator role itself ceases (succession process exhausted, no named successor accepted), the default-held certificate ceases with it.
 
 ---
 
@@ -88,24 +91,31 @@ The default-held certificate (Bryan Fred and successors) is not subject to expir
 Under the interim regime (§2.2):
 
 1. Bryan Fred and Unitek Systems Limited identify a practitioner to nominate.
-2. The practitioner is added as a new row in §3.1 of this file by signed Git commit. The commit author is `bryanunitek <bryan.fred@unitek-systems.com>`. The commit message names the practitioner, the L3 Scope-Domain CORE(s) authorised, and the currency period.
+2. The practitioner is added as a new row in §3.1 of this file by signed Git commit. The commit author is `bryanunitek <bryan.fred@unitek-systems.com>`. The commit message names the practitioner and the L3 Scope-Domain CORE(s) authorised.
 3. The commit's date in the public Git history of the UniVERSE repository is the **issuance event** for the certificate. There is no separate paper instrument; the public commit is the certificate.
 
 Under the full certification scheme (§2.3), the addition path will be replaced by the scheme's defined process. The Git commit will remain the public-record step.
 
-### 5.2 Moving a row to historical
+### 5.2 Revoking a certificate (licence violation)
 
-When a certificate expires (`Current until` date reached) or is revoked, the row is **moved** from §3.1 to §3.2 by signed Git commit. The commit message records the reason. The row is not deleted from §3.1's history; it is moved, so the Git log retains the full sequence of state changes.
+When a certificate is revoked for licence violation:
+
+1. The row is **moved** from §3.1 to §3.2 by signed Git commit.
+2. The commit message records the specific licence violation.
+3. The row is not deleted from §3.1's history; it is moved, so the Git log retains the full sequence of state changes.
+
+Revocation is the only way a row leaves §3.1. There is no expiry, no lapsing, and no voluntary surrender mechanism. A practitioner who no longer wishes to provide Solution Review services simply stops providing them; their certificate remains in §3.1 because it was given and is not subject to withdrawal.
 
 ### 5.3 No silent edits
 
-The register is append-or-move-only. Existing rows are not edited in place to change a practitioner's currency period, scope, or status without a corresponding new commit. The Git history is the audit trail.
+The register is append-or-move-only. Existing rows are not edited in place to change a practitioner's scope or status without a corresponding new commit. The Git history is the audit trail.
 
 ---
 
 ## 6. Relationship to other programme documents
 
 - The certification rule itself is published in [`docs/00059-Solution-Review.md`](docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly), in the 'About the certificate' block at the end of that sub-section.
+- The programme licence under which certificates are issued (and the only ground for revocation) is [`LICENSE.md`](LICENSE.md).
 - The Author/Creator role and the succession framework that governs the default-held certificate are published in the [TrueAI whitepaper §8 'Succession and stewardship'](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) and in [`SUCCESSION.md`](SUCCESSION.md) in this repository.
 - The originating-organisation status of Unitek Systems Limited (UK company 04228041) is named in [`STATEMENT-ON-CLAIMS.md`](STATEMENT-ON-CLAIMS.md) and across the programme attribution couplets.
 
@@ -124,7 +134,7 @@ The register is append-or-move-only. Existing rows are not edited in place to ch
 
 This document is the public register. It is binding in the sense that it is the canonical record of who Unitek Systems Limited currently certifies; it is evolving in the sense that the issuance process described in §2.2 will be replaced by the full certification scheme described in §2.3 once that scheme is published.
 
-Public-facing changes to the certification rule itself will continue to be flagged in [`HORIZON.md`](HORIZON.md); changes to the register's contents (new certifications, expirations, revocations) are tracked in this file's Git history.
+Public-facing changes to the certification rule itself will continue to be flagged in [`HORIZON.md`](HORIZON.md); changes to the register's contents (new certifications, revocations) are tracked in this file's Git history.
 
 ---
 
