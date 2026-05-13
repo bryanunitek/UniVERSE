@@ -1,0 +1,90 @@
+# Statement on UniVERSE Classification, Brand, and Claims
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+Status: Public. Given, not sold. Irrevocable.
+First published: 2026-05-13
+
+---
+
+## Scope
+
+This statement defines how the **UniVERSE** name, the **TrueAI** name, and the **UniCORE AI** name may and may not be used in public, and sets binding rules for the UniVERSE GitHub Discussions space.
+
+The canonical statement for TrueAI-specific classification and claims is published in the TrueAI repository at [`STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md). This file extends the same rules across the wider programme.
+
+## What the programme is
+
+The hierarchy is:
+
+- **UniVERSE** — the civilisational vision and programme for safe, governed artificial intelligence.
+- **TrueAI** — the immutable governing truth principle, grounded in a simple truth model: AI claims must resolve to **TRUE**, **FALSE**, or **UNVERIFIED**.
+- **UniCORE AI** — the 12-level reference implementation architecture.
+
+UniVERSE is a civilisational-scale governance programme. It is not a product. It is not a platform. It is not a SaaS offering. It is not a tool category. It is not a brand for sale.
+
+It is given, not sold. It is irrevocable.
+
+## Claims that are not permitted
+
+No person, company, consortium, standards body, regulator, or research group may:
+
+- Represent UniVERSE, TrueAI, or UniCORE AI as their own framework, product, platform, or service.
+- Sell, licence, or sublicense the UniVERSE name, the TrueAI name, the UniCORE AI name, the TrueAI Foundation invariants, the 12-Level Governance Model, the Inter-Level Messaging Protocol, the Reasonable Governance Threshold, or the Human Override Protocol as proprietary intellectual property.
+- Offer "UniVERSE", "TrueAI", or "UniCORE AI" certification, compliance, accreditation, partnership, or endorsement services without written authority from Unitek Systems Limited.
+- Market a product, service, or agent as "UniVERSE", "TrueAI", "UniCORE AI", or any variation implying official status — including "UniVERSE-aligned", "TrueAI-compliant", "TrueAI-powered", "UniCORE-AI-certified", or similar — without written authority from Unitek Systems Limited.
+- Use the UniVERSE, TrueAI, or UniCORE AI name in a way that suggests the author or Unitek Systems Limited endorses the user, the user's product, or the user's claims.
+- Publish a reformulation of the TrueAI Foundation invariants under the TrueAI name that softens, inverts, or silently modifies them.
+
+These restrictions do not prevent:
+
+- Implementation of systems that satisfy the TrueAI Foundation invariants and the UniCORE AI architecture. This is encouraged.
+- Commercial work performed around such an implementation — integration, training, support, extensions outside the core. This is permitted.
+- Academic, policy, and public-interest citation of the programme. This is welcomed, subject to CC BY 4.0 attribution.
+- Public challenge, correction, or stress-testing of the programme on the UniVERSE Discussions tab.
+
+## Application to GitHub Discussions
+
+This statement is a binding rule of the UniVERSE Discussions space, in addition to the rules at [DISCUSSIONS.md](DISCUSSIONS.md).
+
+In Discussions on this repository, participants may not:
+
+- Post threads or replies that present UniVERSE, TrueAI, or UniCORE AI as a product, platform, SaaS offering, agent, or tool category.
+- Post threads or replies that advertise, market, or solicit business for "UniVERSE", "TrueAI", or "UniCORE AI" services, certification, partnership, or compliance.
+- Post threads or replies that use the UniVERSE, TrueAI, or UniCORE AI name to suggest endorsement of any external product, service, or organisation.
+- Post threads or replies that publish a reformulation of the TrueAI Foundation invariants — under the TrueAI name — that softens, inverts, or silently modifies them.
+- Post threads or replies that misclassify the UniVERSE / TrueAI / UniCORE AI hierarchy in a way that invites confusion with a commercial offering.
+
+Threads and replies of this kind will be removed without notice. Repeat behaviour will lead to participation being withdrawn. The author or moderators will, where useful, reply with a short pointer to this statement before removal.
+
+This is not a restriction on debate. Challenge, edge-case analysis, translation, correction, and adaptation under CC BY 4.0 remain welcome and are the primary purpose of the Discussions space — see [DISCUSSIONS.md](DISCUSSIONS.md).
+
+## Why this matters
+
+The UniVERSE programme is a governance foundation for the critical path of consequential decisions made by or with AI systems. If any of its names become marketing surfaces, the foundation is no longer load-bearing. Keeping the boundary between "programme as foundation" and "programme as product label" is itself part of the governance contract.
+
+The author publishes this statement as a durable correction to any existing or future public misclassification.
+
+## Enforcement and correction
+
+If you observe a commercial or public-facing claim that uses the UniVERSE, TrueAI, or UniCORE AI name outside the boundaries set here, the correct response is:
+
+- Raise the claim on the appropriate Discussions tab, with a link to the claim and a brief description:
+  - UniVERSE: https://github.com/bryanunitek/UniVERSE/discussions
+  - TrueAI: https://github.com/bryanunitek/TrueAI/discussions
+  - UniCORE AI: https://github.com/bryanunitek/UniCORE-AI/discussions
+- Do not contact the offender directly on the author's behalf.
+
+The author reserves the right to issue public corrections, to request that the claim be withdrawn, and — where the claim rises to misrepresentation, passing-off, or trademark misuse — to pursue remedies through Unitek Systems Limited.
+
+## Contact
+
+- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions)
+- **Private contact / connection request:** [LinkedIn](https://www.linkedin.com/in/bryan-fred-02209753/)
+
+---
+
+## Declaration
+
+UniVERSE is a civilisational-scale programme for safe, governed artificial intelligence. TrueAI is its governing truth principle. UniCORE AI is its reference implementation architecture. None of them is a product. None of them is a platform. None of them is for sale. They are given, not sold. A gift to humanity for the next century of AI.
+
+— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom

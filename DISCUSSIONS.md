@@ -17,6 +17,7 @@ Discussions on this repository are the right place for:
 ## What Discussions are not for
 
 - **Commercial solicitation.** This is a gift. It is not a sales channel. Please do not pitch products, services, or partnerships here. Use the private contact route instead.
+- **Claims that reclassify UniVERSE, TrueAI, or UniCORE AI as a product, platform, SaaS offering, tool category, certification scheme, or brand for sale.** These are governance work, not commercial offerings. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) for the binding rules on how the names may and may not be used here.
 - **Personal support for unrelated software.** UniVERSE is a public framework. If you need paid consultancy on an unrelated project, contact Unitek Systems directly.
 - **Private or confidential material.** Anything you write here is public, permanent, and indexed. Keep confidential matters off the public thread — use the private contact route.
 - **Bug reports against unrelated tooling.** This repository does not ship executable software. If you find a problem with a tool that happens to reference the framework, report it in that tool's own repository.

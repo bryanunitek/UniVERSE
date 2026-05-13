@@ -142,6 +142,10 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 Programme-level debate, adoption questions, translation, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
 
+## Classification, brand, and claims
+
+UniVERSE, TrueAI, and UniCORE AI are governance work, not products, platforms, SaaS offerings, tool categories, or brands for sale. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) for the binding rules on how these names may and may not be used, including in GitHub Discussions. The canonical TrueAI-specific statement is published at [`TrueAI/STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md).
+
 ## AI authorship
 
 This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](AI-AUTHORSHIP.md).
