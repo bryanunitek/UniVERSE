@@ -5,7 +5,7 @@
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: May 2026
 Status: Public. Given, not sold. Irrevocable.
-Version: 1.0 — May 2026
+Version: 1.1 — May 2026
 
 ---
 
@@ -82,6 +82,44 @@ attribute its CORE origins (see §4).
 
 The Solutions tier is where commercial value lives. The CORE tiers
 above it are explicitly outside the commercial layer.
+
+#### Time horizon of a Solution
+
+The time horizon of an Enterprise Solution built on this stack is
+**not** today's ten-to-twenty year enterprise software lifecycle.
+That is the beginning. An Enterprise Solution produced by a
+Generation IT pair, on Foundation-aligned CORE, is meant to last
+**one hundred years, one thousand years.**
+
+This is a deliberate break from the replace-every-decade pattern of
+today's enterprise software. Foundation-aligned Solutions are
+expected to carry the same critical decision work across many human
+generations. The CORE tiers above (L1, L2, L3) are themselves
+gifted and perpetual; the Solution built on them is expected to
+sustain the same time horizon as the CORE it rests on.
+
+#### How the time horizon is sustained
+
+A Solution with a hundred-year or thousand-year horizon outlasts
+its original producer pair by many human generations. Two mechanisms
+carry it forward.
+
+The **Generation IT Succession charter**
+([TrueAI 10003](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
+is the producer hand-off mechanism. It is not only a quality floor
+for initial production; it is the explicit path by which producer
+authority transfers from one generation of Generation IT producers
+to the next, without breaking continuity of the Solution.
+
+**Harmony, mutual respect, and peace** are the relational substrate
+on which the Solution rests. At a timespan of ten-plus human
+generations, no volume of compliance, authority, or coercion can
+sustain a working system. Only genuine harmony scales that far. At
+this horizon harmony is not aspirational language; it is the
+material out of which the Solution is built. The Foundation's
+commitment to harmony is therefore a structural requirement of
+Solutions built on it, not a values statement bolted on to a
+technical project.
 
 ---
 
