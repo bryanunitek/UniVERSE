@@ -82,6 +82,7 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 | 00054 | UniCORE AI Final Sovereignty Charter |
 | 00055 | UniCORE AI End-of-Universe Continuity Protocols |
 | 00056 | UniCORE AI Absolute Safety Invariants |
+| 00057 | Layered CORE Model |
 | 10001 | Singular Pairing Principle (mastered in TrueAI — mirror) |
 | 10002 | Certification Before Layered Governance (mastered in TrueAI — mirror) |
 | 10003 | Generation IT Succession (mastered in TrueAI — mirror) |
