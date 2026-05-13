@@ -146,6 +146,10 @@ Programme-level debate, adoption questions, translation, and corrections belong 
 
 UniVERSE, TrueAI, and UniCORE AI are governance work, not products, platforms, SaaS offerings, tool categories, or brands for sale. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) for the binding rules on how these names may and may not be used, including in GitHub Discussions. The canonical TrueAI-specific statement is published at [`TrueAI/STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md).
 
+## Horizon
+
+The UniVERSE programme materials are ready to cite, challenge, and build against today. Full civilisational-scale adoption is a 10–20 year horizon, possibly longer. See [HORIZON.md](HORIZON.md) for the author's time-horizon statement. The canonical statement is published at [`TrueAI/HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md).
+
 ## AI authorship
 
 This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](AI-AUTHORSHIP.md).
