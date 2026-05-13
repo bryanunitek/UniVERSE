@@ -83,6 +83,8 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 | 00055 | UniCORE AI End-of-Universe Continuity Protocols |
 | 00056 | UniCORE AI Absolute Safety Invariants |
 | 00057 | Layered CORE Model |
+| 00058 | Claw (programme vocabulary) |
+| 00059 | Solution Review |
 | 10001 | Singular Pairing Principle (mastered in TrueAI — mirror) |
 | 10002 | Certification Before Layered Governance (mastered in TrueAI — mirror) |
 | 10003 | Generation IT Succession (mastered in TrueAI — mirror) |
