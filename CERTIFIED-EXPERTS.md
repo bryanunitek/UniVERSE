@@ -124,6 +124,8 @@ The §4 rule that a certificate may be revoked only for licence violation is una
 
 **Revoking and expiring are two different things.** This section governs revocation, which acts on the certificate itself; engagement status (Active / Expired) is a separate register-accuracy mechanism described in [§3.4](#34-engagement-status) and does not engage this section.
 
+### 4.1 Grounds
+
 A certificate may be revoked **only** for violation of the [programme licence](LICENSE.md).
 
 **This rule binds Bryan Fred, any future named successor, and Unitek Systems Limited itself.** None of them, acting individually or jointly, may revoke a certificate for any reason other than violation of the programme licence. The certifying authority is the first party constrained by the rule. A certificate that could be revoked at the certifying authority's discretion would carry only the authority's continuing willingness, not a real commitment, and would not survive a change of leadership or institutional pressure; the self-binding here is what gives a certified expert a credential they can rely on across decades, not just across the goodwill of the current office-holders.
@@ -131,6 +133,14 @@ A certificate may be revoked **only** for violation of the [programme licence](L
 No other ground is sufficient. Disagreement, inactivity, commercial competition, personal dispute, or change of opinion does not constitute grounds for revocation. The certificate, once given, follows the gift principle: it is not subject to withdrawal except where the recipient has violated the terms under which the gift was made.
 
 The default-held certificate (Bryan Fred and successors) cannot be revoked because the certifying authority and the certificate-holder are the same originating identity; revocation would mean the authority withdrawing authorisation from itself. If the Author/Creator role itself ceases (succession process exhausted, no named successor accepted), the default-held certificate ceases with it.
+
+### 4.2 Process before revocation
+
+**Candidate mechanism under consideration: warnings and training before revocation.** The certifying body is considering a process layer that would apply between the recognition of a possible licence violation and any move to revoke under §4.1. Under this model, a certificate-holder whose conduct may constitute a licence violation receives **a couple of warnings** in writing, with the substance of each warning recorded against the practitioner's row in the register's signed Git history. Each warning is paired with **training** on the specific point at issue, so that the warning carries remediation rather than acting only as a step toward revocation. Revocation under §4.1 is engaged only on **continuous violations**, meaning a pattern of conduct rather than a single incident, and only after the warning and training stages have been worked through. The number of warnings, the timeline between stages, the form and provider of the training, and who bears its cost are deliberately not defined in this register; they belong in the separate scheme document referenced in [§2.3](#23-issued-under-the-full-certification-scheme-future). This paragraph names the candidate mechanism so that the procedural shape is on the public record while the specifics are still being designed.
+
+### 4.3 Appeals
+
+**Candidate mechanism under consideration: appeals.** The certifying body is considering an appeals mechanism that would allow a certificate-holder facing revocation under §4.1 to contest the decision before the move is final. Under this model, the appeal would be heard by a forum independent of the original revocation decision, with the holder given the opportunity to present evidence and respond to the specific licence-violation grounds being relied on. The appeal would also be available where Unitek Systems Limited proposes to withdraw the [programme licence](LICENSE.md) on the basis of the [monopoly clause](LICENSE.md#the-monopoly-clause-and-its-exemption), so that the same procedural protection extends to the activity-based test in that clause. The forum's composition, the procedure for raising and hearing an appeal, time limits, and the standard of review are deliberately not defined in this register; they belong in the separate scheme document referenced in [§2.3](#23-issued-under-the-full-certification-scheme-future). This paragraph names the candidate mechanism so that the right of appeal is on the public record while the specifics are still being designed.
 
 ---
 
