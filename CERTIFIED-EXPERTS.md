@@ -91,6 +91,8 @@ Both channels are authoritative. Neither channel can issue a certificate, change
 
 ### 3.4 Engagement status
 
+**Revoking and expiring are two different things.** [Revocation (§4)](#4-when-a-certificate-may-be-revoked) acts on the certificate itself and is available only on a finding of licence violation. Expiry, in this section, acts on the register row about the certificate, and reflects only that the practitioner has not contributed within a defined window. The two rules are independent: a certificate that has not been revoked remains a valid certificate, even if its register entry is currently marked Expired, and a register entry that is Active confers no protection against revocation if a licence violation has occurred.
+
 The certificate is the gift. The **register** also carries an engagement status alongside each entry, so the register stays accurate as a current statement of who is actively part of the programme. The status reflects the practitioner's recent participation; it does not affect the validity of the certificate.
 
 **Status values:**
@@ -117,6 +119,8 @@ The §4 rule that a certificate may be revoked only for licence violation is una
 ---
 
 ## 4. When a certificate may be revoked
+
+**Revoking and expiring are two different things.** This section governs revocation, which acts on the certificate itself; engagement status (Active / Expired) is a separate register-accuracy mechanism described in [§3.4](#34-engagement-status) and does not engage this section.
 
 A certificate may be revoked **only** for violation of the [programme licence](LICENSE.md).
 
