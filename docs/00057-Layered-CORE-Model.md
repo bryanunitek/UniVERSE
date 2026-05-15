@@ -69,6 +69,26 @@ for the Law sector, produced by Unitek.
 
 Gift. Not sellable. Not licensable beyond CC BY 4.0.
 
+#### When a Vertical CORE prototype is required to be public
+
+A Vertical CORE prototype — any L3 Scope-Domain CORE under
+development, intended for use by more than one client, or intended
+as a reusable reference library for a sector — is required to be
+published publicly **at the point it qualifies to display the
+attribution couplet defined in [§4](#4-attribution).** Until it
+qualifies, it may remain private; private during prototype phase is
+the correct posture, because the prototype has not yet demonstrated
+conformance to the Foundation and to UniCORE AI.
+
+This applies to any producer, not only to Unitek. The trigger is
+**scope** (multi-client / reusable-vertical intent), not identity.
+
+A single-client deliverable, by contrast, sits in the Solutions tier
+below. It is not a Vertical CORE, regardless of who builds it. It
+may remain private indefinitely. The line that separates a Vertical
+CORE from a Solution is the line that separates mandatory-public
+from optional-private.
+
 ### Solutions tier (not CORE)
 
 A specific client's working implementation, built by a
@@ -206,7 +226,18 @@ through that copying and itself becomes CORE.
 ## 4. Attribution
 
 All work that depends on the Foundation, whether CORE or Solution,
-must attribute its origins. Three forms cover the cases:
+must attribute its origins. Three forms cover the cases.
+
+For a Vertical CORE, the right to display this attribution is also
+the public quality gate. A Vertical CORE earns the right to display
+the couplet by demonstrating conformance to everything published
+in the TrueAI and UniCORE AI repositories, by mutual agreement
+between its producer pair and the Foundation stewards. The Solutions
+tier inherits the right by deriving from a Vertical CORE that
+already holds it, or by building directly on TrueAI + UniCORE AI
+without L3 CORE content.
+
+Three forms cover the cases:
 
 ### 4.1 Solution built on TrueAI + UniCORE AI, no L3 CORE used
 
