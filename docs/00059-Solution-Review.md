@@ -64,7 +64,7 @@ The upload is the input the Claw works against in step E. The size and shape of 
 
 ### E. Ask the Claw to review and advise
 
-The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Claw — see [00057 §2](00057-Layered-CORE-Model.md#2-the-four-tiers)).
+The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Law-Claw — see [00057 §2](00057-Layered-CORE-Model.md#2-the-four-tiers)).
 
 The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output ([§7](#7-what-the-review-produces)) inside that framing, on their own working rhythm.
 
