@@ -121,6 +121,32 @@ commitment to harmony is therefore a structural requirement of
 Solutions built on it, not a values statement bolted on to a
 technical project.
 
+#### How model-window saturation is handled at this horizon
+
+A Solution with a hundred-year or thousand-year horizon will run
+through many generations of model technology. No model's context
+window survives that span. The mechanism that lets governance
+survive the gap is that the model's context window is not the
+governed context.
+
+The **governed substrate** — the active corpus references, the
+principal identity surface, the pending decision graph, the
+attestation snapshot, the audit trail — lives in durable storage,
+independent of any model's window. When a window saturates, the
+deployment compacts according to a fixed rule: a documented pinned
+set stays in the active window, everything else is summarised with
+hash-anchored references back to the durable record. Compaction
+itself is a recorded governed event.
+
+A future model with a different window size reads the same governed
+substrate that today's model reads. This is the system-side analogue
+of Generation IT Succession: the producer side carries forward across
+human generations, the substrate side carries forward across model
+generations. Both are required for the time horizon to hold.
+
+Full treatment in
+[UniCORE-AI 20002 — Compaction and Durable Continuity](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20002-Compaction-And-Durable-Continuity.md).
+
 ---
 
 ## 3. The derivation rule
