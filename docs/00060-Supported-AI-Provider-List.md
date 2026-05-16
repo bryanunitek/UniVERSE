@@ -47,7 +47,7 @@ choose for them.
 ## 2. Inclusion criteria
 
 For an AI provider family to appear on this list, it must satisfy
-all four of the following:
+all five of the following:
 
 1. **A long-lived account.** A tenant (an individual, a firm, a
    research group, a sovereign body) must be able to hold an
@@ -65,6 +65,16 @@ all four of the following:
    one production model with reasoning, tool-use, and instruction-
    following sufficient to honour Foundation governance under the
    nine invariants.
+5. **A UNICOREMASTER-writable Skills or Metadata slot for the
+   bond file.** The provider's agent or assistant API must expose
+   a per-agent storage slot — Anthropic Agents' Skills/Metadata
+   fields, OpenAI Assistants' metadata, the analogous fields on
+   the other supported families — that UNICOREMASTER can write
+   the bond file into at pairing time. Without this slot, the
+   bond mechanism specified in
+   [00061](00061-PairedClaw-Bond-File-And-Session-Protocol.md)
+   cannot be applied, and the provider cannot be used as a
+   PairedClaw substrate.
 
 Providers that ship only image generation, only embeddings, or
 only voice are out of scope for this list. They may serve a Claw
