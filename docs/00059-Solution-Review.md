@@ -37,8 +37,8 @@ The person on the human side of the pairing is the one with the most experience 
 ### B. One Claw
 
 The AI side of the pairing is one **Claw** — a governed human-AI channel as defined in
-[00058 §2.1](00058-Claw.md#21-claw). Not a **MyClaw**
-([00058 §2.3](00058-Claw.md#23-myclaw)) — a personal, ungoverned AI connection cannot carry the governance the review output needs to inherit. One Claw, one Solution, one review.
+[00058 §2.1](00058-Claw.md#21-claw), bonded into the Solution as a **PairedClaw**
+([00058 §2.4](00058-Claw.md#24-pairedclaw)) for the duration of the review. The bond is what brings the Claw into the Solution's audit and policy envelope; without an active PairedClaw, output cannot carry the Solution-side governance the review needs to inherit. One PairedClaw, one Solution, one review.
 
 ### C. Give the Claw access to the three programme repositories
 
@@ -99,7 +99,7 @@ The expert is a conduit, not a substitute. The institutional memory the review d
 
 - Operate as a Solution Review provider without a current Unitek Systems Limited certificate. The certificate is the marker that distinguishes a programme-recognised expert from a practitioner who has merely read the public repositories.
 - Invent institutional memory the solution owner has not supplied. If the owner has not answered a question, the answer is *unknown to this review*; it is not the expert's guess.
-- Operate the pairing as a MyClaw ([00058 §2.3](00058-Claw.md#23-myclaw)). The Claw used in a delegated review is still a governed Claw, bound by the same governance the direct case is bound by.
+- Operate the pairing through an ExternalClaw without an active PairedClaw bond ([00058 §2.3](00058-Claw.md#23-externalclaw)). The Claw used in a delegated review is still a governed Claw and must be bonded into the Solution as a PairedClaw ([00058 §2.4](00058-Claw.md#24-pairedclaw)) for the duration of the review, so it inherits the same governance the direct case is bound by.
 - Claim the review as their own work. The output is the solution owner's review of their solution, conducted with expert assistance. The attribution couplet ([§7](#7-what-the-review-produces)) reflects that.
 
 A delegated review honours [§6](#6-why-the-most-experienced-human) — the principle that the most experienced human matters — rather than working around it. It says: when the most experienced human cannot also be the most available one, the programme provides a way to bring their knowledge into the pairing through an expert who carries the governance in on their behalf.
@@ -163,13 +163,15 @@ needs to happen *inside* that governance envelope, because the
 output of the review will be claimed as Foundation-aligned work and
 will be audited as such.
 
-A MyClaw is the wrong tool for this work
-([00058 §2.3](00058-Claw.md#23-myclaw)). A MyClaw carries no governance, no
-attribution couplet, no audit trail against programme rules. Output
-from a MyClaw cannot be claimed as Foundation-aligned. Using a
-MyClaw to review an existing solution that the owner intends to
-bring onto a CORE creates a provenance break at the most important
-moment.
+An ExternalClaw operating without a PairedClaw bond is the wrong
+tool for this work ([00058 §2.3](00058-Claw.md#23-externalclaw),
+[§2.4](00058-Claw.md#24-pairedclaw)). Without an active PairedClaw
+the Claw is Foundation-governed but not Solution-governed: no
+Solution-side attribution couplet, no L3 CORE audit trail against
+Solution rules. Output from a Foundation-only ExternalClaw cannot be
+claimed as Solution-aligned. Using such a Claw to review an existing
+solution that the owner intends to bring onto a CORE creates a
+provenance break at the most important moment.
 
 A separate Claw should be used for each distinct Solution being
 reviewed ([TrueAI 10001](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)).
@@ -297,8 +299,10 @@ way, the review output is what is handed over.
   and the COREs the Solution may attribute against.
 - **Claw vocabulary**
   ([00058](00058-Claw.md))
-  defines the channel the human pairs with and distinguishes a Claw
-  from a MyClaw.
+  defines the channel the human pairs with, names the PairedClaw
+  bond that brings an ExternalClaw into a Solution's governance
+  envelope, and distinguishes a bonded Claw from a Foundation-only
+  ExternalClaw.
 - **Generation IT Succession**
   ([TrueAI 10003](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
   governs the human side of the pairing across the Solution's
