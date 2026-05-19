@@ -52,7 +52,6 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 | 00006 | The Governance Constitution for TrueAI |
 | 00007 | The Reasonable Governance Threshold Specification |
 | 00008 | Human Override Protocol |
-| 00009 | UniCORE AI Licensing Model (Gift-Based, Non-Commercial) |
 | 00010 | Collaboration Invitation Letters |
 | 00011 | UniCORE AI Website Structure |
 | 00012 | UniCORE AI Launch Video Script |
