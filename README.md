@@ -124,6 +124,18 @@ An AI system aligned with the TrueAI Foundation must satisfy these nine invarian
 
 ---
 
+## UniCORE Positioning Principle
+
+The programme is positioned as **Harmony, Peace, Space Exploration, for Humanity**.
+
+Industries and uses that align with this positioning are welcome. Those that do not are not. **Military uses are intentionally absent** from the programme and will not be added.
+
+**The "Powered by UniCORE AI" and "built on TrueAI Foundation" certifications must not appear on any military use.** The badge is part of the gift, and the gift is meant for Harmony, Peace, Space Exploration, for Humanity — using the badge to brand weapons-class systems would invert the gift principle. The positioning closes that route.
+
+This is a structural choice, not a marketing choice. The programme exists to keep critical decision systems available to humanity as gift.
+
+---
+
 ## Related Repositories
 
 - [`TrueAI`](https://github.com/bryanunitek/TrueAI) — The immutable Foundation. Small. Stable. Never commercial.
