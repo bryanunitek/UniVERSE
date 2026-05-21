@@ -140,6 +140,8 @@ This is a structural choice, not a marketing choice. The programme exists to kee
 
 - [`TrueAI`](https://github.com/bryanunitek/TrueAI) — The immutable Foundation. Small. Stable. Never commercial.
 - [`UniCORE-AI`](https://github.com/bryanunitek/UniCORE-AI) — A governed AI reference implementation with a 12-Level vertical stack, reference specifications, and implementation.
+- [`UniCORE`](https://github.com/bryanunitek/UniCORE) — The UniCORE name and the open list of `UniCORE.<Industry>` classified names. CC BY 4.0 gift surface.
+- [`UniCORE.GVB`](https://github.com/bryanunitek/UniCORE.GVB) — The substrate-services layer of the programme (Global Virtual Bridge): production-grade infrastructure that any Vertical Solution may run on top of. CC BY 4.0 gift surface.
 
 ---
 
