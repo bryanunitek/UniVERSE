@@ -61,7 +61,7 @@ These restrictions do not prevent:
 
 The UniCORE Positioning Principle is **Harmony, Peace, Space Exploration, for Humanity**. It is not a marketing posture — it is a programme-level commitment recorded across the canonical material (the `Positioning Principle` block in this repository's README, and identically in the READMEs of the sibling public repositories).
 
-**Military uses do not align with the Positioning Principle, by structural choice.** Any attempt to publish, market, or otherwise circulate `UniVERSE.Military`, `TrueAI.Military`, `UniCORE-AI.Military`, `UniCORE.Military`, or any similarly framed name including `Defence`, `Defense`, `Weapons` variants — by anyone, including Unitek Systems Limited and its group subsidiaries — is **outside the scope of this statement** and does not carry programme authorisation. Such names cannot be presented as official UniVERSE, TrueAI, or UniCORE AI names or framings.
+**Military uses do not align with the Positioning Principle, by structural choice.** Any attempt to publish, market, or otherwise circulate `UniVERSE.Military`, `TrueAI.Military`, `UniCORE-AI.Military`, `UniCORE.Military`, `UniCORE.GVB.Military`, or any similarly framed name including `Defence`, `Defense`, `Weapons` variants — by anyone, including Unitek Systems Limited and its group subsidiaries — is **outside the scope of this statement** and does not carry programme authorisation. Such names cannot be presented as official UniVERSE, TrueAI, or UniCORE AI names or framings.
 
 The legal vehicle for this rule is `BRAND-AND-TRADEMARK-USE-POLICY.md` §4.5 (badge-denial-on-military-uses) and §8 (two-mechanism structure). This section in the present document is the declarative form of the same rule.
 

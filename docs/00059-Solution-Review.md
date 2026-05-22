@@ -40,15 +40,22 @@ The AI side of the pairing is one **Claw** — a governed human-AI channel as de
 [00058 §2.1](00058-Claw.md#21-claw), bonded into the Solution as a **PairedClaw**
 ([00058 §2.4](00058-Claw.md#24-pairedclaw)) for the duration of the review. The bond is what brings the Claw into the Solution's audit and policy envelope; without an active PairedClaw, output cannot carry the Solution-side governance the review needs to inherit. One PairedClaw, one Solution, one review.
 
-### C. Give the Claw access to the three programme repositories
+### C. Give the Claw access to the five public repositories
 
-Give the Claw read access to the three public repositories that together publish the Foundation, the architecture, and the programme:
+Give the Claw read access to the five public repositories that together publish the Foundation, the architecture, the programme, and the implementation reference:
+
+**Foundation triad:**
 
 - [https://github.com/bryanunitek/UniVERSE](https://github.com/bryanunitek/UniVERSE)
 - [https://github.com/bryanunitek/TrueAI](https://github.com/bryanunitek/TrueAI)
 - [https://github.com/bryanunitek/UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI)
 
-These three repositories are the source-of-truth set the Claw needs in order to evaluate the solution against the Foundation, the Layered CORE Model, and the programme's published commitments. All three are public and all three are gifted under CC BY 4.0; the Claw needs no special permission to read them.
+**Gift-layer extension** (added 2026-05-21):
+
+- [https://github.com/bryanunitek/UniCORE](https://github.com/bryanunitek/UniCORE)
+- [https://github.com/bryanunitek/UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB)
+
+These five repositories are the source-of-truth set the Claw needs in order to evaluate the solution against the Foundation, the Layered CORE Model, the programme's published commitments, and the implementation-reference substrate. All five are public and all five are gifted under CC BY 4.0; the Claw needs no special permission to read them.
 
 ### D. Upload a trimmed archive of the solution
 
@@ -64,7 +71,7 @@ The upload is the input the Claw works against in step E. The size and shape of 
 
 ### E. Ask the Claw to review and advise
 
-The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE-Law-Claw — see [00057 §2](00057-Layered-CORE-Model.md#2-the-four-tiers)).
+The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE.Law-Claw — see [00057 §2](00057-Layered-CORE-Model.md#2-the-four-tiers)).
 
 The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output ([§7](#7-what-the-review-produces)) inside that framing, on their own working rhythm.
 

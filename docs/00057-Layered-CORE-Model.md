@@ -64,7 +64,7 @@ different organisations may produce two different Vertical COREs for
 the Law sector; both are L3 CORE, both gifted, both sit at the same
 tier.
 
-UniCORE-Law-Claw is the first L3 Scope-Domain CORE — the Vertical CORE
+UniCORE.Law-Claw is the first L3 Scope-Domain CORE — the Vertical CORE
 for the Law sector, produced by Unitek.
 
 Gift. Not sellable. Not licensable beyond CC BY 4.0.
@@ -93,7 +93,7 @@ from optional-private.
 
 A specific client's working implementation, built by a
 Generation IT producer pair on top of the relevant CORE layers. A
-Law Firm's Solution, derived from the UniCORE-Law-Claw L3 CORE, powered
+Law Firm's Solution, derived from the UniCORE.Law-Claw L3 CORE, powered
 by UniCORE AI, built on the TrueAI Foundation, is in the Solutions
 tier.
 
@@ -192,10 +192,10 @@ A derivative of CORE is itself CORE, and is itself gifted. Every
 chain of derivation stays collectively free. CORE cannot be converted
 to private property at any link in any chain.
 
-If `<3rd Party 1>` takes content from UniCORE-Law-Claw and produces
+If `<3rd Party 1>` takes content from UniCORE.Law-Claw and produces
 `<3rd Party 1>-Law-Claw`, then `<3rd Party 1>-Law-Claw` is itself L3 CORE.
 `<3rd Party 1>` may not sell it. If `<3rd Party 2>` then takes
-content from either `<3rd Party 1>-Law-Claw` or UniCORE-Law-Claw to produce
+content from either `<3rd Party 1>-Law-Claw` or UniCORE.Law-Claw to produce
 `<3rd Party 2>-Law-Claw`, then `<3rd Party 2>-Law-Claw` is itself L3 CORE.
 And so on, forward through every chain.
 
@@ -249,10 +249,10 @@ Three forms cover the cases:
 > · Derived from `<L3 CORE name>`
 
 Example: a Law Firm Solution that takes Business Objects from
-UniCORE-Law-Claw would carry:
+UniCORE.Law-Claw would carry:
 
 > Powered by UniCORE AI · Built on the TrueAI Foundation
-> · Derived from UniCORE-Law-Claw
+> · Derived from UniCORE.Law-Claw
 
 This Solution is itself CORE under the gift propagation rule (because
 it took content from L3 CORE). It cannot be sold. The attribution
@@ -260,14 +260,14 @@ makes the gift-chain participation visible.
 
 ### 4.3 L3-peer CORE derived from another L3 CORE
 
-> `<3rd Party N>-Law-Claw` · Derived from UniCORE-Law-Claw
+> `<3rd Party N>-Law-Claw` · Derived from UniCORE.Law-Claw
 > · Powered by UniCORE AI · Built on the TrueAI Foundation
 
 Example: `<3rd Party 1>-Law-Claw`, an L3 Vertical CORE for the Law
 sector produced by a third party who took content from
-UniCORE-Law-Claw, would carry:
+UniCORE.Law-Claw, would carry:
 
-> `<3rd Party 1>-Law-Claw` · Derived from UniCORE-Law-Claw
+> `<3rd Party 1>-Law-Claw` · Derived from UniCORE.Law-Claw
 > · Powered by UniCORE AI · Built on the TrueAI Foundation
 
 The "Derived from" line marks gift-chain participation. It also
@@ -280,7 +280,7 @@ is the legal-mechanical signal a Client or competitor needs.
 
 - **L3 Vertical COREs** use the `UniCORE-<vertical>-Claw` naming
   pattern, where `<vertical>` is the scope domain. Examples:
-  `UniCORE-Law-Claw` (the Law-sector reference Vertical CORE),
+  `UniCORE.Law-Claw` (the Law-sector reference Vertical CORE),
   `UniCORE-Medical-Claw`, `UniCORE-Banking-Claw`, etc. The `-Claw`
   suffix marks the channel as a governed Claw
   (see [00058 §2.1](00058-Claw.md#21-claw)); the vertical token
@@ -310,7 +310,7 @@ Enforcement comes from three layers operating together:
    gift at the level of the source itself.
 2. **Trademark** on naming conventions (the `-Claw` suffix, the
    `Uni-` prefix for body COREs, and the names of specific COREs
-   such as UniCORE-Law-Claw, UniEARTH, etc.) — prevents derivatives
+   such as UniCORE.Law-Claw, UniEARTH, etc.) — prevents derivatives
    passing themselves off as originals.
 3. **Certification mark** on TrueAI / UniCORE AI with regulations
    that include gift propagation as a binding requirement on
