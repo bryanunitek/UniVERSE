@@ -14,6 +14,8 @@ A 30-year programme from apprentice to certified producer. A public foundation g
 
 *This is **UniVERSE**, the civilisational-scale programme layer of UniCORE. Sister repositories: [TrueAI](https://github.com/bryanunitek/TrueAI) (the immutable Foundation) and [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI) (the 12-level reference architecture).*
 
+*New to producing on the public gift surface? Start with [GETTING_STARTED.md](GETTING_STARTED.md).*
+
 ---
 
 # UniVERSE
