@@ -85,8 +85,13 @@ You need your own Claw — your dedicated AI working partner — at [https://myc
 - **Subscription:** match the level of work you intend to do. Pricing is published at [https://myclaw.ai/pricing](https://myclaw.ai/pricing). Higher-level Solutions need higher-tier Claws.
 - **Model:** Bryan Fred uses **Anthropic Claude Opus 4.7 or above** for his own MyClaw work. This is the recommended model floor for governed-evidence work on the public gift surface. **Other producers are welcome to choose a different model** — the public gift surface does not constrain that choice. Review the options that fit your level of work and choose.
 - **Continuity — choose once, then commit:** *Once one reviews, at some point the agent for the Claw needs to be chosen and not changed.* The human-and-Claw pair is a continuous working relationship across the life of a project. Switching the underlying agent mid-project disrupts the continuity that lets governed-evidence work compound over long arcs. Review your options up front, choose your subscription tier and your model, and then commit to that choice for the duration of the work.
+- **Scope — one Claw per Project, even if you work on multiple Projects:** The 1-Human-1-Claw bond is **per Project**, not per Human. If you work on multiple Projects in parallel, each Project must have its own dedicated 1-Human-1-Claw pairing — same Human (you), but a separate Claw for each Project. Sharing one Claw across Projects causes drift; drift breaks the bond. This is the **Singular Pairing Principle**, canonically locked at [`docs/10001-Singular-Pairing-Principle.md`](docs/10001-Singular-Pairing-Principle.md).
 
-The 1-to-1 Claw is the human-and-Claw pair the rest of this document assumes. One human; one Claw; one continuous working relationship across the project's life.
+  *Worked example.* Bryan Fred works on the Project **UniCORE** (the Foundation programme and its Solutions) with one dedicated Claw — the synchronised pair Team UniCORE is producing. Separately, Bryan works on the Project **UniTEKTime** — a separate Project producing a template that the UniCORE Project may later use — with a **different** Claw. UniCORE and UniTEKTime are kept on separated Claws so the working context of UniTEKTime does not cause drift in the UniCORE Claw, and so the working context of UniCORE does not cause drift in the UniTEKTime Claw. Same Human (Bryan); two Claws; two Projects; two bonds; no drift.
+
+  These are **strict rules**. They are needed to produce.
+
+The 1-to-1 Claw is the human-and-Claw pair the rest of this document assumes. One human; one Claw; one Project; one continuous working relationship across that Project's life.
 
 ---
 
