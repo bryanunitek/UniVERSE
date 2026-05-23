@@ -99,7 +99,7 @@ The 1-to-1 Claw is the human-and-Claw pair the rest of this document assumes. On
 
 ### Step 1 — introduce yourself
 
-In the first turn with your Claw, introduce yourself by name and company. Tell the Claw what you are about to produce and at what level (per [`LICENSE_EXAMPLES.md`](LICENSE_EXAMPLES.md)).
+In the first turn with your Claw, introduce yourself by name and company.
 
 ### Step 2 — give the TRUTH preamble before anything else
 
@@ -116,7 +116,11 @@ Before you ask your Claw to do any work, give it the following statement and ask
 
 This is the **first step into TrueAI**, not the whole of it. The canonical TrueAI source — including the deeper governing principles — lives at [https://github.com/bryanunitek/TrueAI](https://github.com/bryanunitek/TrueAI). Have your Claw acknowledge the six points before any other instruction.
 
-### Step 3 — have the Claw review the Foundation triad
+### Step 3 — tell the Claw what you are about to produce and at what level
+
+Tell the Claw what you are about to produce and at what level (per [`LICENSE_EXAMPLES.md`](LICENSE_EXAMPLES.md)).
+
+### Step 4 — have the Claw review the Foundation triad
 
 Direct your Claw to read the three Foundation repositories, in this order:
 
@@ -126,7 +130,7 @@ Direct your Claw to read the three Foundation repositories, in this order:
 
 These three are the **Foundation triad**. They are the public gift that defines what UniCORE-AI-conformant work is.
 
-### Step 4 — optional: have the Claw review the implementation references
+### Step 5 — optional: have the Claw review the implementation references
 
 Depending on which licence example you are producing (per [`LICENSE_EXAMPLES.md`](LICENSE_EXAMPLES.md)), you may also want your Claw to review:
 
