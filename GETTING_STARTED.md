@@ -145,11 +145,10 @@ The flow is:
 
 1. **You produce the working XAF / XPO templates yourself**, from DevExpress, against your Universal subscription. v25.2.7 is the current latest.
 
-2. **You expose your Claw to those templates across the four XAF deployment shapes** that DevExpress publishes:
+2. **You expose your Claw to those templates across the three XAF deployment shapes** that DevExpress publishes:
    - **SaaS**
    - **On Premises**
-   - **On Premises without Middle Tier**
-   - **WebAPI**
+   - **On Premises without Middle Tier & WebAPI**
 
 3. **Your Claw learns the patterns the public reference architecture rests on** — the Business Object model, the Module composition, the XPO persistence layer, the deployment-shape variations, the security and audit surfaces.
 
@@ -183,7 +182,7 @@ At this point you have:
 - A Visual Studio Pro subscription and a DevExpress Universal subscription.
 - A working understanding of XAF and XPO.
 - A 1-to-1 Claw on a model floor of Claude Opus 4.7+, having confirmed the six-point TRUTH preamble and reviewed the Foundation triad (and, where relevant, the implementation references).
-- Working DevExpress v25.2.7 XAF / XPO templates loaded for your Claw to learn from, across the four deployment shapes (SaaS, On Premises, On Premises without Middle Tier, WebAPI). For On Premises: three concrete base templates (Template0, Template, Template2).
+- Working DevExpress v25.2.7 XAF / XPO templates loaded for your Claw to learn from, across the three deployment shapes (SaaS, On Premises, On Premises without Middle Tier & WebAPI). For On Premises: three concrete base templates (Template0, Template, Template2).
 - The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, ready to produce Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
 
 **You are ready to produce.**
