@@ -171,6 +171,8 @@ The point of the XAF / XPO learning surface is **not** to lock your Claw into XA
 
 The XAF / XPO learning surface is the **door**. What you produce beyond it — in which language, on which platform, in which vertical — is whatever your Solution requires.
 
+For producers bringing a platform onto the Foundation at the **machine level** — C++ firmware, C / Rust embedded controllers, Ada / SPARK avionics, FPGA / ASIC enforcement, RTOS, robotic control loops, spacecraft flight software — the canonical reference is [`docs/00029-Machine-Level-Integration.md`](docs/00029-Machine-Level-Integration.md). The procedural flow for bringing a platform that uses AI onto *Powered by UniCORE AI, built on TrueAI Foundation* is summarised at [§7.5](docs/00029-Machine-Level-Integration.md#75-bringing-a-platform-that-uses-ai-onto-powered-by-unicore-ai-built-on-trueai-foundation) of that document.
+
 ---
 
 ## 5. From here

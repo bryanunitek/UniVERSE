@@ -182,6 +182,79 @@ Machine-level integration **increases** the reach of governance, not the reach o
 - Document S (Enterprise Deployment): machine-level integration extends the air-gapped and defense deployment models.
 - Document Y (Multi-Model Integration): the model wrapper has a machine-level twin (UMW-M).
 
+## 7.5 Bringing a Platform That Uses AI onto Powered by UniCORE AI, built on TrueAI Foundation
+
+The sections above define **what** machine-level integration is, **why** it matters, **which targets** it supports, **which rules** it must preserve, and **what it looks like** in concrete form (libtrueai, UMW-M, optional hardware enforcement).
+
+This section answers the **procedural** question: **how** does a producer bring a platform that currently uses AI — firmware, embedded controller, RTOS, robotic stack, spacecraft avionics, hardware accelerator scheduler, or any other machine-level target — onto the *Powered by UniCORE AI, built on TrueAI foundation* architecture?
+
+The path is the same path every Powered-by-UniCORE-AI Solution walks. The machine-level target does not bypass it. The machine-level target is one of the deepest applications of it.
+
+### 7.5.1 Form the 1-Human-1-Claw bond
+
+The producer-onboarding entry point is [`GETTING_STARTED.md`](../GETTING_STARTED.md) at the repository root.
+
+`GETTING_STARTED.md` is where a producer:
+
+- Chooses the Project level they are producing for (per [`LICENSE_EXAMPLES.md`](../LICENSE_EXAMPLES.md)).
+- Stands up the working tools (Visual Studio Pro, DevExpress Universal, a 1-to-1 Claw at [https://myclaw.ai](https://myclaw.ai)).
+- Sets up their Claw — introduces themselves, gives the six-point TRUTH preamble, has the Claw review the Foundation triad (UniVERSE / TrueAI / UniCORE AI), and (where relevant) the implementation references (UniCORE / UniCORE.GVB).
+- Uses the **DevExpress XAF / XPO learning surface** to teach the Claw the patterns the public reference architecture rests on (governed Business Objects, principled Module boundaries, evidence-bearing persistence, deployment-shape awareness, security and audit surfaces).
+- Forms the **1-Human-1-Claw bond** through that learning.
+
+The XAF / XPO learning surface is the **door**, not the destination. Once the bond is formed, the Claw can produce Solutions in **any language and on any platform** — including the machine-level languages this document is about (C++, C, Rust, Ada / SPARK, Assembly, Verilog / VHDL).
+
+### 7.5.2 Work under the Singular Pairing Principle
+
+The 1-Human-1-Claw bond is **per Project**, not per Human. A producer working on multiple Projects in parallel must run a separate dedicated Claw for each Project. This is the **Singular Pairing Principle**, canonically locked at [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md).
+
+For a producer bringing a machine-level platform onto the Foundation, this means: **that machine-level target is its own Project, with its own dedicated 1-Human-1-Claw pairing.** Mixing a firmware Project's working context into a separate Solutions Project's Claw — or vice versa — causes drift; drift breaks the bond; the work cannot honestly compound across the long arc machine-level governance requires.
+
+### 7.5.3 Pass the Certification gate before layered governance applies
+
+No Solution — software-level or machine-level — may claim *Powered by UniCORE AI, built on TrueAI Foundation* status, and no layered governance (the 12-Level Model, ILMP, Inter-Level Messaging, Mission Governance) applies, until the producer’s work has passed the **Certification gate**.
+
+The Certification gate is canonically defined at [`10002-Certification-Before-Layered-Governance.md`](10002-Certification-Before-Layered-Governance.md).
+
+For machine-level integration this gate is especially important: machine-level governance reaches into firmware, hardware enforcement paths, override pins, and silicon-level execution. Layered governance applied to an uncertified machine-level implementation is governance applied to an unvalidated foundation — which is exactly the failure mode this document exists to prevent.
+
+### 7.5.4 Satisfy the architectural rules at the machine level
+
+Once the 1-Human-1-Claw bond is formed, the Project is operating under Singular Pairing, and the work has passed the Certification gate, the producer can begin satisfying the **machine-level architectural rules** in [§4 of this document](#4-architectural-rules-for-machine-level-implementations):
+
+- **§4.1** Preserve the TrueAI Foundation (no fabrication, no self-modification, no autonomous authority, no internal heartbeat, no emergent behaviour, human sovereignty at Level 12).
+- **§4.2** Preserve the 12-Level Model (truth flows upward; governance flows downward; no level may bypass another).
+- **§4.3** Preserve the Inter-Level Messaging Protocol (ILMP) — transport may differ at the machine level (shared-memory queues, hardware mailboxes, bus-level channels, memory-mapped registers), but direction, adjacency, and non-autonomy rules are identical.
+- **§4.4** Preserve governance MD files (read from human-authored MD files or signed binary derivations; never generate, mutate, or reinterpret rules).
+- **§4.5** Preserve determinism (no probabilistic scheduling, no autonomous timers, no emergent control loops).
+- **§4.6** Preserve auditability (every action produces an audit record, even via ring buffer, telemetry packet, or black-box recorder).
+- **§4.7** Preserve human override (immediate; no challenge, no delay, no reinterpretation; hardware-reachable where possible).
+
+The form the implementation takes — a `libtrueai` C/C++ library, a UniCORE Machine Wrapper (UMW-M) around a robotic or life-support controller, FPGA-based ILMP routing, signed-rule ROM regions — is governed by [§5](#5-what-machine-level-unicore-looks-like) of this document.
+
+### 7.5.5 Summary of the flow
+
+```
+  1-Human-1-Claw bond formed (GETTING_STARTED.md)
+           |
+           v
+  Working under Singular Pairing per Project (10001-Singular-Pairing-Principle.md)
+           |
+           v
+  Certification gate passed (10002-Certification-Before-Layered-Governance.md)
+           |
+           v
+  Machine-level architectural rules satisfied (§4 of this document)
+           |
+           v
+  Machine-level implementation chosen (§5: libtrueai / UMW-M / optional hardware enforcement)
+           |
+           v
+  Powered by UniCORE AI, built on TrueAI Foundation — at the machine level
+```
+
+Nothing on the path is optional. The path is the same path every Powered-by-UniCORE-AI Solution walks; machine-level targets walk it deeper into the substrate.
+
 ## 8. Why This Must Be Recorded Now
 
 The current generation of AI systems lives almost entirely at the software layer. The next generation — robotics, autonomous vehicles, spacecraft, embedded LLM accelerators, hibernation systems — will live at the machine layer.
