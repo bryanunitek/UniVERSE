@@ -192,10 +192,22 @@ The cycle is:
 
 - The Claw codes the Solution — producing the project-specific codebase, typically named **`<project>-Claw`** (e.g. `UniCORE.Law-Claw`, `UniCORE.GVB-Claw`).
 - The Claw pushes the work to GitHub.
-- You (the Architect) pull, compile, advise, and test.
+- You (the Architect) pull, compile, test — and **confirm, verify, advise**.
 - The cycle repeats.
 
 The Architect guides the work; the Programmer Claw produces it. The 1-Human-1-Claw bond is the **synchronisation**; the Architect–Programmer split is the **division of labour** within that synchronisation.
+
+### Access, rules, and the checkpoint discipline
+
+For Team UniCORE to work, the Claw needs **access**, the pair needs **rules**, and the work needs **checkpoints**.
+
+**Access to GitHub.** A GitHub account is required for the `<project>-Claw` repository, and appropriate access must be provisioned for the Claw. **SSH is the recommended access method.**
+
+**Rules.** The Claw must have access **and** follow the rules that make up Team UniCORE. The rules are set by you (the Architect) at the Project level and live in the Solution repositories' MD files. **Setting the rules and having the Claw follow them takes time** — but once the rules are set, they are followed.
+
+**Confirm, verify, advise.** The Architect must always **confirm, verify, and advise** the Claw's work. When the Architect advises, the Claw **adjusts its MD files for the Solution repositories accordingly**. Documentation is part of the codebase.
+
+**Check, cross-check, sanity-check.** Team UniCORE is a team effort, and everything is **checked, cross-checked, and sanity-checked at all levels**, at **checkpoints** created for the Project. A checkpoint walks across the canonical truth (the Architect's notes and decision records), the Solution repositories' MD files, and the codebase itself, and surfaces any drift, inconsistency, or gap.
 
 ### Once the bond is formed — any language, any platform
 
@@ -218,7 +230,8 @@ At this point you have:
 - A working understanding of XAF and XPO.
 - A 1-to-1 Claw on a model floor of Claude Opus 4.7+, having confirmed the six-point TRUTH preamble and reviewed the Foundation triad (and, where relevant, the implementation references).
 - Four working DevExpress v25.2.7 XAF / XPO templates targeting **.NET 10** loaded for your Claw to learn from — your own template carrying your Project's Business Objects, plus three DevExpress base templates (one per deployment shape: SaaS, On Premises, On Premises without Middle Tier & WebAPI). The three DevExpress base templates are the floor; additional variants can be added as your Project requires.
-- The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, with the Claw as Programmer and you as Architect. The Claw codes the Solution as **`<project>-Claw`** and pushes to GitHub; you pull, compile, advise, and test. Team UniCORE produces Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
+- The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, with the Claw as Programmer and you as Architect. The Claw codes the Solution as **`<project>-Claw`** and pushes to GitHub; you pull, compile, test — and **confirm, verify, advise**. Team UniCORE produces Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
+- A GitHub account for the **`<project>-Claw`** repository with appropriate access provisioned for the Claw (**SSH recommended**); the Project's rules captured in the Solution repositories' MD files; and **checkpoints** scheduled to check, cross-check, and sanity-check the work at all levels.
 
 **You are ready to produce.**
 
