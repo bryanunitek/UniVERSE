@@ -143,7 +143,15 @@ The ritual that the Solution saves and replays at session-open:
 
 That is what the Solution carries between sessions — enough to bring a new session up to a clean, governed starting point. The bond, the learning, and the Level-specific work product all live in the per-Level MD files (controlled by the Humans), not inside the Solution's session memory.
 
-**"What is saved and learned is not to adapt."** This is the principle. The Solution is not building an evolving model of your Project; it is loading a curated, version-controlled body of human-authored material at each session-open. Adaptation, when it happens, happens on the Human side — by editing the MD files — not on the AI side.
+**"What is saved and learned is not to adapt."** This is **one of many requirements** that a *Powered by UniCORE AI, built on TrueAI Foundation* Solution must satisfy — it is not the whole certification picture. The Solution is not building an evolving model of your Project; it is loading a curated, version-controlled body of human-authored material at each session-open. Adaptation, when it happens, happens on the Human side — by editing the MD files — not on the AI side.
+
+**The full certification badge requirements live in TrueAI and UniCORE-AI**, not in this onboarding document. The canonical references:
+
+- **TrueAI — [`docs/10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)** — the certification gate. The completed Solution must demonstrate conformance to the **Nine Invariants** ([`TrueAI/docs/00056-Absolute-Safety-Invariants.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md)), the **Gift Principle** ([`TrueAI/docs/00028-TrueAI-Foundation-Gift-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md)), and the **Singular Pairing Principle** ([`TrueAI/docs/10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) for the Solution's own production history.
+- **UniCORE-AI — [`docs/00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00023-Training-Certification-Framework.md)** — the training and certification framework for the humans operating, governing, and commanding a certified Solution.
+- Supporting: **[`TrueAI/docs/10005-Tool-Access-And-Certification-Model.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)** for the tool-access dimension of certification.
+
+The non-adaptation property described above is one piece of the larger conformance picture; it is not a sufficient claim on its own. Read the TrueAI and UniCORE-AI references before claiming the badge for any Project.
 
 ### Layered terminology (User → Company → UniCORE)
 
