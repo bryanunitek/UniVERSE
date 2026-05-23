@@ -93,6 +93,16 @@ You need your own Claw — your dedicated AI working partner — at [https://myc
 
 The 1-to-1 Claw is the human-and-Claw pair the rest of this document assumes. One human; one Claw; one Project; one continuous working relationship across that Project's life.
 
+### The cost reality
+
+**AI is not free for this type of development.** A MyClaw subscription, the AI usage that powers it, a Visual Studio Professional subscription, a DevExpress Universal subscription, and the underlying hardware you run the work on are all real recurring costs that the producer pays.
+
+Each dedicated Claw — the per-Project rule in the **Scope** bullet above — is its own MyClaw subscription and its own AI-usage cost. A producer working on multiple Projects pays for multiple Claws, because each Project requires its own dedicated 1-Human-1-Claw bond.
+
+Producing under *Powered by UniCORE AI, built on TrueAI Foundation* is a multi-decade investment. Today's Development / Prototype / Testing / UAT work is for Production in 10, 20, 30 years' time. The canonical time-horizon statement lives at [`HORIZON.md`](HORIZON.md) in this repository and at [`TrueAI/HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md).
+
+The public gift surface is open to everyone, and the licences cost nothing. The **work of producing on it is not free** — and is not expected to be. Plan accordingly.
+
 ---
 
 ## 3. Set up your Claw
