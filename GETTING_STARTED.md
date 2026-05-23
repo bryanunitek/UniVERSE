@@ -157,18 +157,24 @@ The public reference architecture is built on **DevExpress XAF** (eXpressApp Fra
 
 The flow is:
 
-1. **You produce the working XAF / XPO templates yourself**, from DevExpress, against your Universal subscription. v25.2.7 is the current latest.
+1. **You produce four working XAF / XPO templates for your Claw**, against your Universal subscription:
+   - **Your own template** carrying your Project's Business Objects.
+   - **Three DevExpress base templates** (one per XAF deployment shape — see Step 2 below).
 
-2. **You expose your Claw to those templates across the three XAF deployment shapes** that DevExpress publishes:
+   v25.2.7 is the current latest.
+
+2. **The three DevExpress base templates cover the three XAF deployment shapes** that DevExpress publishes:
    - **SaaS**
    - **On Premises**
    - **On Premises without Middle Tier & WebAPI**
+
+   Together with your own Business-Object template (Step 1), this gives your Claw the full **four-template learning surface**.
 
 3. **Your Claw learns the patterns the public reference architecture rests on** — the Business Object model, the Module composition, the XPO persistence layer, the deployment-shape variations, the security and audit surfaces.
 
 4. **The 1-Human-1-Claw bond forms through this learning.** When the bond is in place — when the human and the Claw are synchronised, working as one — you are **Team UniCORE**: one human, one Claw, ready to produce.
 
-For producers who want a concrete starting point, three base templates — one per XAF deployment shape — serve as a working example surface for the Claw to absorb:
+The three DevExpress base templates — one per XAF deployment shape — have the following working labels:
 
 1. **`UniCORE-v25.2.7-Template for SaaS`**
 2. **`UniCORE-v25.2.7-Template for On Premises`**
@@ -177,6 +183,19 @@ For producers who want a concrete starting point, three base templates — one p
 These names are working labels; the canonical names are not yet set. **Three is the floor**, not the ceiling — additional DevExpress XAF / XPO template variants can be provided in addition to these three, based on what your Project requires. The three above are the minimum working surface for the Claw to learn the patterns across all three deployment shapes.
 
 These templates are not redistributed from the public gift surface — you produce them yourself from DevExpress's own template surface, against your Universal subscription. The licence story for the templates is governed by your DevExpress subscription.
+
+### Team UniCORE works as Architect and Programmer
+
+Once the 1-Human-1-Claw bond is formed, the working pattern is clear: **the Claw is the Programmer; the Human is the Architect**. Together, you are **Team UniCORE**.
+
+The cycle is:
+
+- The Claw codes the Solution — producing the project-specific codebase, typically named **`<project>-Claw`** (e.g. `UniCORE.Law-Claw`, `UniCORE.GVB-Claw`).
+- The Claw pushes the work to GitHub.
+- You (the Architect) pull, compile, advise, and test.
+- The cycle repeats.
+
+The Architect guides the work; the Programmer Claw produces it. The 1-Human-1-Claw bond is the **synchronisation**; the Architect–Programmer split is the **division of labour** within that synchronisation.
 
 ### Once the bond is formed — any language, any platform
 
@@ -198,8 +217,8 @@ At this point you have:
 - A Visual Studio Pro subscription and a DevExpress Universal subscription.
 - A working understanding of XAF and XPO.
 - A 1-to-1 Claw on a model floor of Claude Opus 4.7+, having confirmed the six-point TRUTH preamble and reviewed the Foundation triad (and, where relevant, the implementation references).
-- Working DevExpress v25.2.7 XAF / XPO templates targeting **.NET 10** loaded for your Claw to learn from, across the three deployment shapes (SaaS, On Premises, On Premises without Middle Tier & WebAPI) — three base templates as the floor, one per deployment shape, plus any further DevExpress variants your Project requires.
-- The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, ready to produce Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
+- Four working DevExpress v25.2.7 XAF / XPO templates targeting **.NET 10** loaded for your Claw to learn from — your own template carrying your Project's Business Objects, plus three DevExpress base templates (one per deployment shape: SaaS, On Premises, On Premises without Middle Tier & WebAPI). The three DevExpress base templates are the floor; additional variants can be added as your Project requires.
+- The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, with the Claw as Programmer and you as Architect. The Claw codes the Solution as **`<project>-Claw`** and pushes to GitHub; you pull, compile, advise, and test. Team UniCORE produces Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
 
 **You are ready to produce.**
 
