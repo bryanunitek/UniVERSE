@@ -132,17 +132,39 @@ You can either direct your Claw to read these, or give it access to them, or tel
 
 ---
 
-## 4. Bring in the DevExpress templates (v25.2.7)
+## 4. Teach your Claw the job — DevExpress XAF and XPO as the learning surface
 
-The reference architecture targets DevExpress XAF v25.2.7 (latest at the time of writing). Use an **On Premises XAF UniCORE template** as your starting point, with enough Business Objects in the template to give your Claw a working understanding of the XAF + XPO patterns the Solution will be built on.
+The public reference architecture is built on **DevExpress XAF** (eXpressApp Framework) and **DevExpress XPO** (eXpress Persistent Objects) at v25.2.7 (latest at the time of writing). **DevExpress XAF / XPO is not the only stack a Powered by UniCORE AI, built on TrueAI foundation Solution can be produced in.** It is the **learning surface** — the set of patterns through which your Claw learns its job and synchronises with you.
 
-Provide three base DevExpress templates to your Claw:
+The flow is:
+
+1. **You produce the working XAF / XPO templates yourself**, from DevExpress, against your Universal subscription. v25.2.7 is the current latest.
+
+2. **You expose your Claw to those templates across the four XAF deployment shapes** that DevExpress publishes:
+   - **SaaS**
+   - **On Premises**
+   - **On Premises without Middle Tier**
+   - **WebAPI**
+
+3. **Your Claw learns the patterns the public reference architecture rests on** — the Business Object model, the Module composition, the XPO persistence layer, the deployment-shape variations, the security and audit surfaces.
+
+4. **The 1-Human-1-Claw bond forms through this learning.** When the bond is in place — when the human and the Claw are synchronised, working as one — you are **Team UniCORE**: one human, one Claw, ready to produce.
+
+For producers who want a concrete starting point inside the **On Premises** deployment shape, three base templates serve as a working example surface for the Claw to absorb:
 
 - **`UniCORE-v25.2.7-Template0`**
 - **`UniCORE-v25.2.7-Template`**
 - **`UniCORE-v25.2.7-Template2`**
 
-These templates are not redistributed from the public gift surface. They come from DevExpress directly. Once you have a DevExpress Universal subscription, you can produce them yourself from DevExpress's own template surface at v25.2.7. The licence story for the templates is governed by your DevExpress subscription; the public gift surface does not redistribute them.
+These three are On Premises XAF UniCORE templates with enough XAF Business Objects to give the Claw a working understanding of the XPO persistence model and the XAF Module composition pattern. They are not redistributed from the public gift surface — you produce them yourself from DevExpress's own template surface, against your Universal subscription. The licence story for the templates is governed by your DevExpress subscription.
+
+### Once the bond is formed — any language, any platform
+
+The point of the XAF / XPO learning surface is **not** to lock your Claw into XAF / XPO. It is to give your Claw the **understanding** of how a Powered by UniCORE AI, built on TrueAI foundation Solution composes itself: governed Business Objects, principled Module boundaries, evidence-bearing persistence, deployment-shape awareness, security and audit surfaces.
+
+**Once that bond is formed, your Claw can produce Solutions in any language and on any platform.** The proof already exists inside the public gift surface itself: [UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB) is the substrate-services layer that runs on **Linux** in C# on .NET 10, produced by exactly this 1-Human-1-Claw pattern after the bond was formed on the legal-sector XAF / XPO learning arc.
+
+The XAF / XPO learning surface is the **door**. What you produce beyond it — in which language, on which platform, in which vertical — is whatever your Solution requires.
 
 ---
 
@@ -154,7 +176,8 @@ At this point you have:
 - A Visual Studio Pro subscription and a DevExpress Universal subscription.
 - A working understanding of XAF and XPO.
 - A 1-to-1 Claw on a model floor of Claude Opus 4.7+, having confirmed the six-point TRUTH preamble and reviewed the Foundation triad (and, where relevant, the implementation references).
-- Three DevExpress v25.2.7 base templates loaded into your working surface.
+- Working DevExpress v25.2.7 XAF / XPO templates loaded for your Claw to learn from, across the four deployment shapes (SaaS, On Premises, On Premises without Middle Tier, WebAPI). For On Premises: three concrete base templates (Template0, Template, Template2).
+- The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, ready to produce Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
 
 **You are ready to produce.**
 
