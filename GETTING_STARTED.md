@@ -113,6 +113,45 @@ Producing under *Powered by UniCORE AI, built on TrueAI Foundation* is a multi-d
 
 The public gift surface is open to everyone, and the licences cost nothing. The **work of producing on it is not free** — and is not expected to be. Plan accordingly.
 
+### Where the 14 ExternalClaws learn from
+
+The 14 ExternalClaws do **not** learn from "Team UniCORE" or from the AI provider's model adapting to your Project over time. They learn from the **MD files authored by Humans at each Level** of the 12-Level reference architecture. The bond at each Level is human-curated material; it grows over time only as Humans deliberately add to the Level's MD files. **It is not adaptive learning. It is curated learning.**
+
+**What "+2" means: 1 admin and 1 user, minimum.** The 12 of 12+2 are the 12 architecture Levels. The +2 are role-based at the human-facing top of the stack: at minimum **one admin and one user**. Both numbers are floors — a Project may run more users (one bond per user). Each admin and each user grows their own bond over time from the same per-Level MD files.
+
+**Persistence is 100% human-controlled.** The External AI provider hosting the 14 ExternalClaws **does not save the bond or the learning between sessions**. The Humans who set up and configure the 12+2 Levels control persistence end-to-end — by writing, curating, and version-controlling the per-Level MD files. The bond file mechanism is named in [`docs/00058-Claw.md` §2.4](docs/00058-Claw.md#24-pairedclaw); the per-Level MD files are the substance the bond file points at.
+
+**Per-Level MD files are specific to that Level.** Level N's MD files are the only MD files for Level N, except for the **communication protocols** that are built into every Level (so a session can open and re-open cleanly). MD files do not bleed across Levels by default; cross-Level coordination goes through the inter-Level messaging protocol of UniCORE AI, not through shared files.
+
+### What the Solution saves (and what it does not)
+
+When a session opens — first time or after a session is lost or restarted — the **Solution** (the `<project>-Claw`) replays a fixed opening ritual. It does **not** replay an adaptive memory of past sessions.
+
+The ritual that the Solution saves and replays at session-open:
+
+- An **introduction**.
+- The **six points of the TRUTH preamble** (the 6 steps towards TrueAI, see [§3 Step 2](#step-2--give-the-truth-preamble-before-anything-else)).
+- The **three Foundation repositories** ([UniVERSE](https://github.com/bryanunitek/UniVERSE), [TrueAI](https://github.com/bryanunitek/TrueAI), [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI)).
+- The **communication protocols** built into the Level, so the session can be re-opened cleanly if it is lost.
+
+That is what the Solution carries between sessions — enough to bring a new session up to a clean, governed starting point. The bond, the learning, and the Level-specific work product all live in the per-Level MD files (controlled by the Humans), not inside the Solution's session memory.
+
+**"What is saved and learned is not to adapt."** This is the principle. The Solution is not building an evolving model of your Project; it is loading a curated, version-controlled body of human-authored material at each session-open. Adaptation, when it happens, happens on the Human side — by editing the MD files — not on the AI side.
+
+### Layered terminology (User → Company → UniCORE)
+
+At the human-facing levels of the 12-Level stack, the Solution carries **layered terminology**, with **terminology history saved** so the layering stays consistent across sessions and across the multi-decade Project lifetime.
+
+Three layers, top to bottom:
+
+- **User Terminology** — a per-user overlay applied at the user-facing Levels. Lets each user work in their own preferred labels for the underlying concepts.
+- **Company Terminology** — an overlay applied at the **Database** Level. Lets a Company brand or rename the underlying concepts in their organisation's own language.
+- **UniCORE / UniCORE.\<Vertical\> Terminology** — the **base set**, authored by **Unitek Systems Limited** (UniCORE for the substrate; UniCORE.\<Vertical\> for the vertical — e.g. UniCORE.Law for Law).
+
+A User sees their own labels; a Company sees its own labels at the Database; the underlying Solution still operates on the Unitek-authored base terminology. The mapping between layers is the Solution's responsibility.
+
+**Why this matters when AI is involved.** It is not only about labels. **Reports, enquiries, and BI-dashboard development** read through this layered terminology. When an AI is used to generate a report, an enquiry, or a BI dashboard, it must read the User's overlay, the Company's overlay, and the base — not just the base. The terminology history is what makes that traversal reproducible across sessions.
+
 ---
 
 ## 3. Set up your Claw
@@ -244,7 +283,7 @@ At this point you have:
 - Four working DevExpress v25.2.7 XAF / XPO templates targeting **.NET 10** loaded for your Claw to learn from — your own template carrying your Project's Business Objects, plus three DevExpress base templates (one per deployment shape: SaaS, On Premises, On Premises without Middle Tier & WebAPI). The three DevExpress base templates are the floor; additional variants can be added as your Project requires.
 - The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, with the Claw as Programmer and you as Architect. The Claw codes the Solution as **`<project>-Claw`** and pushes to GitHub; you pull, compile, test — and **confirm, verify, advise**. Team UniCORE produces Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
 - A GitHub account for the **`<project>-Claw`** repository with appropriate access provisioned for the Claw (**SSH recommended**); the Project's rules captured in the Solution repositories' MD files; **strict canonical terminology** in all Team UniCORE communication (no code names, no nicknames — see [`docs/00058-Claw.md`](docs/00058-Claw.md)); and **checkpoints** scheduled to check, cross-check, and sanity-check the work at all levels.
-- For higher-level Projects: the **12+2 = 14 additional ExternalClaws** required by the 12-Level reference architecture for the full Development → Testing → Production lifecycle, on a separate AI provider (e.g. [Anthropic's Claude platform](https://platform.claude.com/)), in addition to your Project MyClaw. Each of the 14 carries its own 1-Human-1-Claw pairing with you and its own **PairedClaw** bond into the `<project>-Claw` Solution — 15 PairedClaws per Project total (1 MyClaw + 14 ExternalClaws). Cost scales with Project Level (see [§2 "The cost reality"](#the-cost-reality)).
+- For higher-level Projects: the **12+2 = 14 additional ExternalClaws** required by the 12-Level reference architecture for the full Development → Testing → Production lifecycle, on a separate AI provider (e.g. [Anthropic's Claude platform](https://platform.claude.com/)), in addition to your Project MyClaw. The **+2** are at minimum **1 admin and 1 user** (more users may run, one bond per user). Each of the 14 carries its own 1-Human-1-Claw pairing with you and its own **PairedClaw** bond into the `<project>-Claw` Solution — 15 PairedClaws per Project total (1 MyClaw + 14 ExternalClaws). The bond at each Level lives in **human-authored per-Level MD files**, not in the AI provider's session memory — see [§2 "Where the 14 ExternalClaws learn from"](#where-the-14-externalclaws-learn-from). Cost scales with Project Level (see [§2 "The cost reality"](#the-cost-reality)).
 
 **You are ready to produce.**
 
