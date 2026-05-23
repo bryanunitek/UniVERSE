@@ -153,7 +153,7 @@ You can either direct your Claw to read these, or give it access to them, or tel
 
 ## 4. Teach your Claw the job — DevExpress XAF and XPO as the learning surface
 
-The public reference architecture is built on **DevExpress XAF** (eXpressApp Framework) and **DevExpress XPO** (eXpress Persistent Objects) at v25.2.7 (latest at the time of writing). **DevExpress XAF / XPO is not the only stack a Powered by UniCORE AI, built on TrueAI foundation Solution can be produced in.** It is the **learning surface** — the set of patterns through which your Claw learns its job and synchronises with you.
+The public reference architecture is built on **DevExpress XAF** (eXpressApp Framework) and **DevExpress XPO** (eXpress Persistent Objects) at v25.2.7 (latest at the time of writing), targeting **.NET 10**. **DevExpress XAF / XPO is not the only stack a Powered by UniCORE AI, built on TrueAI foundation Solution can be produced in.** It is the **learning surface** — the set of patterns through which your Claw learns its job and synchronises with you.
 
 The flow is:
 
@@ -198,7 +198,7 @@ At this point you have:
 - A Visual Studio Pro subscription and a DevExpress Universal subscription.
 - A working understanding of XAF and XPO.
 - A 1-to-1 Claw on a model floor of Claude Opus 4.7+, having confirmed the six-point TRUTH preamble and reviewed the Foundation triad (and, where relevant, the implementation references).
-- Working DevExpress v25.2.7 XAF / XPO templates loaded for your Claw to learn from, across the three deployment shapes (SaaS, On Premises, On Premises without Middle Tier & WebAPI) — three base templates as the floor, one per deployment shape, plus any further DevExpress variants your Project requires.
+- Working DevExpress v25.2.7 XAF / XPO templates targeting **.NET 10** loaded for your Claw to learn from, across the three deployment shapes (SaaS, On Premises, On Premises without Middle Tier & WebAPI) — three base templates as the floor, one per deployment shape, plus any further DevExpress variants your Project requires.
 - The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, ready to produce Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
 
 **You are ready to produce.**
