@@ -99,6 +99,12 @@ The 1-to-1 Claw is the human-and-Claw pair the rest of this document assumes. On
 
 Each dedicated Claw — the per-Project rule in the **Scope** bullet above — is its own MyClaw subscription and its own AI-usage cost. A producer working on multiple Projects pays for multiple Claws, because each Project requires its own dedicated 1-Human-1-Claw bond.
 
+**The 12+2 agents on top of the MyClaw.** The MyClaw is the Architect's pair — the 1-Human-1-Claw bond at the heart of Team UniCORE. The Solution itself, at higher Project levels, requires a **second AI cost stream on top of the MyClaw**: the **12-Level reference architecture requires 12+2 = 14 AI agents per Project**, covering the full **Development → Testing → Production** lifecycle. These 14 agents run on a separate AI platform from your MyClaw — Bryan Fred uses [Anthropic's Claude platform](https://platform.claude.com/) for this. **The MyClaw used for the Project Solution cannot be one of these 14 agents** — it is a dedicated, separate role.
+
+Concrete example. For the **`UniCORE.Law-Claw`** Project, Bryan Fred runs **14 Claude agents** on `platform.claude.com` in addition to his Project MyClaw. For the **`UniCORE.GVB-Claw`** Project, another **14 Claude agents**. Two Projects; two MyClaws (one per Project, per the **Scope** bullet above); 28 additional Claude agents on the Anthropic platform; one Human — Bryan Fred, the Architect.
+
+**Cost mushrooms with Project Level.** A Lower-level Project may need only the MyClaw. A **Level 12 first-in-vertical Project** carries the full 14-agent stack on top of the MyClaw, across Development, Testing, and Production. The total AI cost for a Level 12 Project is materially larger than for a Lower-level Project. **Plan your Project's AI cost against the Level you are producing for.**
+
 Producing under *Powered by UniCORE AI, built on TrueAI Foundation* is a multi-decade investment. Today's Development / Prototype / Testing / UAT work is for Production in 10, 20, 30 years' time. The canonical time-horizon statement lives at [`HORIZON.md`](HORIZON.md) in this repository and at [`TrueAI/HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md).
 
 The public gift surface is open to everyone, and the licences cost nothing. The **work of producing on it is not free** — and is not expected to be. Plan accordingly.
@@ -232,6 +238,7 @@ At this point you have:
 - Four working DevExpress v25.2.7 XAF / XPO templates targeting **.NET 10** loaded for your Claw to learn from — your own template carrying your Project's Business Objects, plus three DevExpress base templates (one per deployment shape: SaaS, On Premises, On Premises without Middle Tier & WebAPI). The three DevExpress base templates are the floor; additional variants can be added as your Project requires.
 - The 1-Human-1-Claw bond — you and your Claw working as **Team UniCORE**, with the Claw as Programmer and you as Architect. The Claw codes the Solution as **`<project>-Claw`** and pushes to GitHub; you pull, compile, test — and **confirm, verify, advise**. Team UniCORE produces Powered by UniCORE AI, built on TrueAI foundation Solutions in any language and on any platform.
 - A GitHub account for the **`<project>-Claw`** repository with appropriate access provisioned for the Claw (**SSH recommended**); the Project's rules captured in the Solution repositories' MD files; and **checkpoints** scheduled to check, cross-check, and sanity-check the work at all levels.
+- For higher-level Projects: the **12+2 = 14 additional AI agents** required by the 12-Level reference architecture for the full Development → Testing → Production lifecycle, on a separate AI platform (e.g. [Anthropic's Claude platform](https://platform.claude.com/)), in addition to your MyClaw. Cost scales with Project Level (see [§2 "The cost reality"](#the-cost-reality)).
 
 **You are ready to produce.**
 
