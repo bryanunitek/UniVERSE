@@ -197,7 +197,7 @@ The producer-onboarding entry point is [`GETTING_STARTED.md`](../GETTING_STARTED
 `GETTING_STARTED.md` is where a producer:
 
 - Chooses the Project level they are producing for (per [`LICENSE_EXAMPLES.md`](../LICENSE_EXAMPLES.md)).
-- Stands up the working tools (Visual Studio Pro, DevExpress Universal, a 1-to-1 Claw at [https://myclaw.ai](https://myclaw.ai)).
+- Stands up the working tools (Visual Studio Pro, DevExpress Universal, a 1-to-1 Claw at [https://myclaw.ai?via=bryan](https://myclaw.ai?via=bryan)).
 - Sets up their Claw — introduces themselves, gives the six-point TRUTH preamble, has the Claw review the Foundation triad (UniVERSE / TrueAI / UniCORE AI), and (where relevant) the implementation references (UniCORE / UniCORE.GVB).
 - Uses the **DevExpress XAF / XPO learning surface** to teach the Claw the patterns the public reference architecture rests on (governed Business Objects, principled Module boundaries, evidence-bearing persistence, deployment-shape awareness, security and audit surfaces).
 - Forms the **1-Human-1-Claw bond** through that learning.

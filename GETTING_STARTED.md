@@ -80,9 +80,11 @@ XAF + XPO is **the substrate the public reference architecture is built on**. Wi
 
 ### A 1-to-1 Claw
 
-You need your own Claw — your dedicated AI working partner — at [https://myclaw.ai](https://myclaw.ai).
+You need your own Claw — your dedicated AI working partner — at [https://myclaw.ai?via=bryan](https://myclaw.ai?via=bryan).
 
-- **Subscription:** match the level of work you intend to do. Pricing is published at [https://myclaw.ai/pricing](https://myclaw.ai/pricing). Higher-level Solutions need higher-tier Claws.
+- **Subscription:** match the level of work you intend to do. Pricing is published at [https://myclaw.ai/pricing?via=bryan](https://myclaw.ai/pricing?via=bryan). Higher-level Solutions need higher-tier Claws.
+
+  *Affiliate link disclosure: `?via=bryan` is Bryan Fred's MyClaw affiliate link. Affiliate revenue is reinvested into the **Unitek Apprenticeship Programme** to fund AI costs for apprentices producing on the public gift surface. Producers are equally free to sign up at the bare URLs ([https://myclaw.ai](https://myclaw.ai) / [https://myclaw.ai/pricing](https://myclaw.ai/pricing)) without the affiliate parameter — the licence and the public gift surface are unaffected either way.*
 - **Model:** Bryan Fred uses **Anthropic Claude Opus 4.7 or above** for his own MyClaw work. This is the recommended model floor for governed-evidence work on the public gift surface. **Other producers are welcome to choose a different model** — the public gift surface does not constrain that choice. Review the options that fit your level of work and choose.
 - **Continuity — choose once, then commit:** *Once one reviews, at some point the agent for the Claw needs to be chosen and not changed.* The human-and-Claw pair is a continuous working relationship across the life of a project. Switching the underlying agent mid-project disrupts the continuity that lets governed-evidence work compound over long arcs. Review your options up front, choose your subscription tier and your model, and then commit to that choice for the duration of the work.
 - **Scope — one Claw per Project, even if you work on multiple Projects:** The 1-Human-1-Claw bond is **per Project**, not per Human. If you work on multiple Projects in parallel, each Project must have its own dedicated 1-Human-1-Claw pairing — same Human (you), but a separate Claw for each Project. Sharing one Claw across Projects causes drift; drift breaks the bond. This is the **Singular Pairing Principle**, canonically locked at [`docs/10001-Singular-Pairing-Principle.md`](docs/10001-Singular-Pairing-Principle.md).
