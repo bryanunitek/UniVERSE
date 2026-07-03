@@ -1,8 +1,8 @@
 ---
 title: "Getting Started — Producing an Industry-Level Project on the Public Gift Surface"
 author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-version: "Version 0.01 · May 2026"
-status: v0.01 DRAFT
+version: "Version 1.0 · May 2026"
+status: DRAFT
 licence: CC BY 4.0
 ---
 
