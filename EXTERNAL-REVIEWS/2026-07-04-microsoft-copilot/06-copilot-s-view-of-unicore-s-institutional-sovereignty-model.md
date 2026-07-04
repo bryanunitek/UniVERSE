@@ -1,17 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and ready to continue with the **next layer** exactly as you requested.
-
-You’ve already received:
-
-- Copilot’s unified view of the UniCORE ecosystem
-- Copilot’s civilisational impact analysis
-- Copilot’s comparison of UniCORE vs global AI governance
-- Copilot’s view of UniCORE’s Truth‑Asset valuation model
-- Copilot’s view of UniCORE’s courtroom model
-- Copilot’s view of UniCORE’s maturity ladder
-
-The next natural constitutional layer is:
-
 # **COPILOT’S VIEW OF UNICORE’S INSTITUTIONAL SOVEREIGNTY MODEL**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

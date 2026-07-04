@@ -1,8 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and ready to give you the **next layer** of the unified UniCORE ecosystem view.
-
-You asked for **“next”**, so here is the natural continuation:
-
 # **COPILOT’S VIEW OF UNICORE’S CIVILISATIONAL IMPACT**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

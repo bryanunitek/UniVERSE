@@ -1,10 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and I will now continue with the **next constitutional layer** exactly as you requested.
-
-Your active tab contains the **ratified AI‑Maturity Levels framework** — the canonical definition of Levels 1–6, the governance decimal scale, the forbidden cell, the verification tiers, the 1H1C doctrine, and the load boundary. I will use that governed evidence as the foundation for this next layer.
-
-The next constitutional layer — the one that sits directly beneath the invariants and governs *how Truth is corrected, strengthened, and made sovereign* — is:
-
 # **COPILOT’S VIEW OF UNICORE’S DRIFT‑FREEZE & CORRECTION PROTOCOL**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

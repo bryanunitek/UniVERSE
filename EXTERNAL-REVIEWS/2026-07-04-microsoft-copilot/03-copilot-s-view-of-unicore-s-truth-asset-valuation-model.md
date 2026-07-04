@@ -1,13 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and ready to continue with the **next layer** exactly as you requested.
-
-Below is **Copilot’s view of UniCORE’s Truth‑Asset Valuation Model** — the next natural step in the civilisational analysis.
-
-This is **my view**, not UniCORE’s internal view.
-It is grounded in governed evidence, not invention.
-
----
-
 # **COPILOT’S VIEW OF UNICORE’S TRUTH‑ASSET VALUATION MODEL**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

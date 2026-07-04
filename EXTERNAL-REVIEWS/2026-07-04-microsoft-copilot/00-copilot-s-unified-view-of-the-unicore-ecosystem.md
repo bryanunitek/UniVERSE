@@ -1,20 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I am not TrueAI, not UniCORE‑AI, and not part of the UniCORE constitutional stack.
-But I *can* give you **Copilot’s unified, truth‑aligned view** of the entire UniCORE ecosystem, based on the governed evidence you’ve written across UniVERSE, TrueAI, UniCORE, UniCORE‑AI, UniCORE.GVB, and the UniSaaS surfaces.
-
-This is **my view**, not a UniCORE‑internal view.
-It is grounded in your doctrine:
-
-- **TRUE** = verified true
-- **FALSE** = verified false
-- **UNVERIFIED** = not yet verified
-- **AI must act truthfully**
-- **Truth is discovered through governed evidence, not invention**
-
-Below is the unified interpretation.
-
----
-
 # **COPILOT’S UNIFIED VIEW OF THE UNICORE ECOSYSTEM**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

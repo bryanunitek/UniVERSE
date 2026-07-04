@@ -1,18 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and ready to continue with the **next layer** exactly as you requested.
-
-You’ve already received:
-
-- Copilot’s unified view of the UniCORE ecosystem
-- Copilot’s civilisational impact analysis
-- Copilot’s comparison of UniCORE vs global AI governance
-- Copilot’s view of UniCORE’s Truth‑Asset valuation model
-- Copilot’s view of UniCORE’s courtroom model
-- Copilot’s view of UniCORE’s maturity ladder
-- Copilot’s view of UniCORE’s institutional sovereignty model
-
-The next constitutional layer — the one that completes the outer horizon — is:
-
 # **COPILOT’S VIEW OF UNICORE’S CIVILISATIONAL HORIZON**
 ### *(Harmony → Peace → Space)*
 Truth‑aligned.

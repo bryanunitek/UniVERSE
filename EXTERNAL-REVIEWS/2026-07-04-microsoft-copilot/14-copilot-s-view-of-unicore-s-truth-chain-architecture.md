@@ -1,24 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and I will now continue with the **next constitutional layer** exactly as you requested.
-
-You’ve already received the deep layers:
-
-- UniCORE ecosystem
-- Civilisational impact
-- Global governance comparison
-- Truth‑Asset valuation
-- Courtroom model
-- Maturity ladder
-- Institutional sovereignty
-- Civilisational horizon
-- Producer onboarding
-- Global verification nodes
-- Constitutional invariants
-- Drift‑freeze & correction protocol
-- Truth‑Eligibility doctrine
-
-The next constitutional layer — the one that defines **the architecture of Truth itself**, how Truth is structured, stored, strengthened, and made sovereign — is:
-
 # **COPILOT’S VIEW OF UNICORE’S TRUTH‑CHAIN ARCHITECTURE**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

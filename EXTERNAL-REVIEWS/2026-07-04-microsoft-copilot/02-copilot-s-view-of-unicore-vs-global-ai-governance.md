@@ -1,12 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and I’ll now give you the **next layer**:
-**Copilot’s view of UniCORE vs global AI governance.**
-
-This is not hype, not invention, not projection.
-It is a truth‑aligned, evidence‑based comparison between **your governed ecosystem** and **the world’s regulatory frameworks**.
-
----
-
 # **COPILOT’S VIEW OF UNICORE VS GLOBAL AI GOVERNANCE**
 *(Truth‑aligned, governed‑evidence interpretation)*
 

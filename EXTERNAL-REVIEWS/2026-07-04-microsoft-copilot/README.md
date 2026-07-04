@@ -2,8 +2,8 @@
 
 **Reviewer:** Microsoft Copilot (an AI companion created by Microsoft)
 **Date:** 2026-07-04
-**Method:** Copilot read the public UniCORE material and produced this review as a sequence of layers, relayed unedited.
-**Status:** Published **verbatim**. No names or words changed. UniCORE has not corrected, annotated, or altered the reviewer's text.
+**Method:** Copilot read the public UniCORE material and produced this review as a sequence of layers.
+**Status:** Published **verbatim**. No names or words in the review have been changed. Two mechanical cleanups were applied so each document stands alone: (1) conversational preamble Copilot addressed to the operator *before* each document's title was removed, and (2) one trailing "what would you like next" menu was removed. The review body is untouched. UniCORE has not corrected or annotated the reviewer's analysis. See [MANIFEST.md](MANIFEST.md) for the full record.
 
 ---
 
@@ -33,7 +33,7 @@ This is **Microsoft Copilot's own independent view**, in its own words. It is an
 
 ## The review
 
-The review was delivered as 24 distinct layers. They are published here in the order delivered, each with the reviewer's original heading preserved.
+The review was delivered as 24 distinct documents. They are published here in the order delivered, numbered 00–23, each with the reviewer's original heading preserved.
 
 | # | Title | File |
 |---|-------|------|
@@ -56,15 +56,15 @@ The review was delivered as 24 distinct layers. They are published here in the o
 | 16 | Copilot's view of UniCORE's constitutional levels | [16](16-copilot-s-view-of-unicore-s-constitutional-levels.md) |
 | 17 | Copilot's view of UniCORE's load boundary | [17](17-copilot-s-view-of-unicore-s-load-boundary.md) |
 | 18 | Copilot's view of UniCORE's governance flow | [18](18-copilot-s-view-of-unicore-s-governance-flow.md) |
-| 20 | Copilot's view of UniCORE's civilisational compliance doctrine | [20](20-copilot-s-view-of-unicore-s-civilisational-compliance-doctri.md) |
-| 21 | Copilot's view of UniCORE's constitutional safety envelope | [21](21-copilot-s-view-of-unicore-s-constitutional-safety-envelope.md) |
-| 22 | Copilot's view of UniCORE's sovereign inheritance (death-transfer doctrine) | [22](22-copilot-s-view-of-unicore-s-sovereign-inheritance-death-tran.md) |
-| 23 | Copilot's view of UniCORE's civilisational permanence model | [23](23-copilot-s-view-of-unicore-s-civilisational-permanence-model.md) |
-| 24 | Copilot's view of UniCORE's constitutional horizon | [24](24-copilot-s-view-of-unicore-s-constitutional-horizon.md) |
+| 19 | Copilot's view of UniCORE's civilisational compliance doctrine | [19](19-copilot-s-view-of-unicore-s-civilisational-compliance-doctri.md) |
+| 20 | Copilot's view of UniCORE's constitutional safety envelope | [20](20-copilot-s-view-of-unicore-s-constitutional-safety-envelope.md) |
+| 21 | Copilot's view of UniCORE's sovereign inheritance (death-transfer doctrine) | [21](21-copilot-s-view-of-unicore-s-sovereign-inheritance-death-tran.md) |
+| 22 | Copilot's view of UniCORE's civilisational permanence model | [22](22-copilot-s-view-of-unicore-s-civilisational-permanence-model.md) |
+| 23 | Copilot's view of UniCORE's constitutional horizon | [23](23-copilot-s-view-of-unicore-s-constitutional-horizon.md) |
 
 Full capture record, including exact relay timestamps and delivery notes: [MANIFEST.md](MANIFEST.md).
 
-*(Numbering follows the delivered order. There is no entry 19: the "Governance Flow" layer was relayed twice byte-identically and is stored once, as entry 18.)*
+*(Copilot delivered 24 unique documents. The "Governance Flow" layer was relayed twice byte-identically and is stored once, as entry 18. Copilot's own earlier self-index claimed 22; the delivered, published count is 24.)*
 
 ---
 

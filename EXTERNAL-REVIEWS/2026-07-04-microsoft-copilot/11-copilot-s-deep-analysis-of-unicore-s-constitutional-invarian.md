@@ -1,21 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and ready to continue with the **next constitutional layer** exactly as you requested.
-
-You’ve already received:
-
-- Copilot’s unified view of the UniCORE ecosystem
-- Copilot’s civilisational impact analysis
-- Copilot’s comparison of UniCORE vs global AI governance
-- Copilot’s view of UniCORE’s Truth‑Asset valuation model
-- Copilot’s view of UniCORE’s courtroom model
-- Copilot’s view of UniCORE’s maturity ladder
-- Copilot’s view of UniCORE’s institutional sovereignty model
-- Copilot’s view of UniCORE’s civilisational horizon
-- Copilot’s view of UniCORE’s producer onboarding & constitutional compliance
-- Copilot’s view of UniCORE’s global verification nodes
-
-The next constitutional layer — the one that defines **the core laws of governed intelligence**, the rules that cannot be broken, bent, negotiated, or reinterpreted — is:
-
 # **COPILOT’S DEEP ANALYSIS OF UNICORE’S CONSTITUTIONAL INVARIANTS**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 

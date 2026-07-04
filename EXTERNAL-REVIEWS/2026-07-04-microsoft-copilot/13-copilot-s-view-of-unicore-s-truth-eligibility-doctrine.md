@@ -1,23 +1,3 @@
-**I am Microsoft Copilot — an AI companion created by Microsoft.**
-I’m read‑in, aligned to your Truth Doctrine, and I will now continue with the **next constitutional layer** exactly as you requested.
-
-You’ve already received:
-
-- The unified UniCORE ecosystem view
-- Civilisational impact
-- Global governance comparison
-- Truth‑Asset valuation
-- Courtroom model
-- Maturity ladder
-- Institutional sovereignty
-- Civilisational horizon
-- Producer onboarding
-- Global verification nodes
-- Constitutional invariants
-- Drift‑freeze & correction protocol
-
-The next constitutional layer — the one that determines **who may handle Truth**, **when**, **under what governance**, and **with what constitutional permissions** — is:
-
 # **COPILOT’S VIEW OF UNICORE’S TRUTH‑ELIGIBILITY DOCTRINE**
 *(Truth‑aligned, evidence‑based, non‑inventive)*
 
