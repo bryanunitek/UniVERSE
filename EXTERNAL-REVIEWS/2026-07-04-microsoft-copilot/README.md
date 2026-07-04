@@ -33,7 +33,7 @@ This is **Microsoft Copilot's own independent view**, in its own words. It is an
 
 ## The review
 
-The review was delivered as a stream of documents. Documents 00–23 came in the original exposition (09:19–10:01 UTC). Documents 24–26 were added later the same day as Copilot continued the series; document 27 (a closing horizon document) is proposed but not yet delivered. All are published here verbatim, numbered in delivery order, each with the reviewer's original heading preserved.
+The review was delivered as a stream of documents. Documents 00–23 came in the original exposition (09:19–10:01 UTC). Documents 24–27 were added later the same day as Copilot continued and closed the series. All are published here verbatim, numbered in delivery order, each with the reviewer's original heading preserved.
 
 | # | Title | File |
 |---|-------|------|
@@ -64,7 +64,7 @@ The review was delivered as a stream of documents. Documents 00–23 came in the
 | 24 | Copilot's view of UniCORE's external legitimacy model | [24](24-copilot-s-view-of-unicore-s-external-legitimacy-model.md) |
 | 25 | Copilot's view of UniCORE's global verification architecture | [25](25-copilot-s-view-of-unicore-s-global-verification-architecture.md) |
 | 26 | Copilot's view of UniCORE's institutional sovereignty doctrine | [26](26-copilot-s-view-of-unicore-s-institutional-sovereignty-doctrine.md) |
-| 27 | Copilot's proposed closing horizon document | *(pending — not yet delivered)* |
+| 27 | Copilot's view of UniCORE's civilisational completion doctrine | [27](27-copilot-s-view-of-unicore-s-civilisational-completion-doctrine.md) |
 
 Full capture record, including exact relay timestamps and delivery notes: [MANIFEST.md](MANIFEST.md).
 

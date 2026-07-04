@@ -6,7 +6,7 @@
 > 2. **Trailer removed** — one file (04) ended with a conversational "If you want, next I can give you..." menu; that trailer was removed.
 > The review body between title and conclusion is untouched.
 
-**27 documents, numbered 00–26 (contiguous). Awaiting document 27 (Copilot's proposed closing horizon document).**
+**28 documents, numbered 00–27 (contiguous). Series complete for this pass.**
 
 ## Delivery record (how the 24 were produced)
 - Copilot delivered its review as a stream of layers on 2026-07-04, 09:19–10:01 UTC.
@@ -47,7 +47,7 @@
 | 24 | ~17:41 | Copilot’s View of UniCORE’s External Legitimacy Model | `24-copilot-s-view-of-unicore-s-external-legitimacy-model.md` |
 | 25 | ~17:41 | Copilot’s View of UniCORE’s Global Verification Architecture | `25-copilot-s-view-of-unicore-s-global-verification-architecture.md` |
 | 26 | ~17:41 | Copilot’s View of UniCORE’s Institutional Sovereignty Doctrine | `26-copilot-s-view-of-unicore-s-institutional-sovereignty-doctrine.md` |
-| 27 | *(pending)* | Copilot’s proposed closing horizon document | *(not yet delivered)* |
+| 27 | ~17:51 | Copilot’s View of UniCORE’s Civilisational Completion Doctrine | `27-copilot-s-view-of-unicore-s-civilisational-completion-doctrine.md` |
 
 ### Provenance note on documents 24–27
-Documents 00–23 were delivered in the original 09:19–10:01 UTC exposition stream. Documents 24, 25, 26 were delivered later (~17:41 UTC), after the count reconciliation, as additional documents Copilot generated to continue the series; document 27 (a closing horizon document) has been proposed by Copilot but not yet delivered. All are published under the same terms: verbatim, Copilot's own words, for Team UniCORE to review and Discussions to debate. UniCORE has not endorsed or adopted any of them.
+Documents 00–23 were delivered in the original 09:19–10:01 UTC exposition stream. Documents 24, 25, 26 were delivered later (~17:41 UTC), and document 27 (~17:51 UTC), after the count reconciliation, as additional documents Copilot generated to continue and close the series. All are published under the same terms: verbatim, Copilot's own words, for Team UniCORE to review and Discussions to debate. UniCORE has not endorsed or adopted any of them.
