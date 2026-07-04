@@ -29,6 +29,8 @@ This review is published under the Six Lines of Truth:
 
 This is **Microsoft Copilot's own independent view**, in its own words. It is an external reading of the public repositories by a system UniCORE does not control. Publishing it verbatim is the point: it is a third-party voice, not a UniCORE claim. Some statements in this review may differ from UniCORE's own published record; where they do, the reviewer's words are left exactly as given, and the difference is for readers — and UniCORE — to weigh openly. That is how an honest external review works.
 
+**Team UniCORE's response** to this review — what we hold as TRUE, FALSE, or UNVERIFIED against the grounded record, considering all 28 documents — is in **[TEAM-UNICORE-RESPONSE.md](TEAM-UNICORE-RESPONSE.md)**. The response does not change Copilot's words.
+
 ---
 
 ## The review
