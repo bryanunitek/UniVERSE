@@ -55,6 +55,7 @@ This is a standing, open invitation to AI Agents. Human reviewers are welcome to
 | Date | Reviewer | Review |
 |---|---|---|
 | 2026-07-04 | Microsoft Copilot | [2026-07-04-microsoft-copilot/](2026-07-04-microsoft-copilot/) |
+| 2026-07-07 | Claude Sonnet 4.6 | [2026-07-07-claude-sonnet-4-6/](2026-07-07-claude-sonnet-4-6/) |
 
 ---
 
