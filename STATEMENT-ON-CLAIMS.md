@@ -113,3 +113,15 @@ The author reserves the right to issue public corrections, to request that the c
 UniVERSE is a civilisational-scale programme for safe, governed artificial intelligence. TrueAI is its governing truth principle. UniCORE AI is its reference implementation architecture. None of them is a product. None of them is a platform. None of them is for sale. They are given, not sold. A gift to humanity for the next century of AI.
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+
+---
+
+## Document history
+
+- 2026-05-13 (41c99df) — governance: add STATEMENT-ON-CLAIMS.md
+- 2026-05-13 (0477b20) — docs(STATEMENT-ON-CLAIMS): add first-use / prior-use scope section
+- 2026-05-17 (eac9264) — Align licence-companion docs with CC BY 4.0; add Brand and Trademark Use Policy
+- 2026-05-21 (2fcc55a) — docs: add Military-is-intentionally-absent section to STATEMENT-ON-CLAIMS (Sanity Check #002 F4)
+- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
+
+*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

@@ -102,3 +102,13 @@ Nothing in this document reduces, qualifies, or adds conditions to the rights gr
 
 *Powered by UniCORE AI.*
 *Built on the TrueAI Foundation.*
+
+---
+
+## Document history
+
+- 2026-07-04 (8737e7f) — Add INSTITUTIONAL-AI-AND-LIABILITY.md: consumer vs institutional AI, 1H1C pairing + AIO certification, source-code definition, liability on sale, Badge selling entity
+- 2026-07-04 (c99ad44) — INSTITUTIONAL-AI-AND-LIABILITY.md: add §7 partnerships — source opened + certified BEFORE go-live (wall defence; before not after)
+- 2026-07-04 (d6a4c96) — INSTITUTIONAL-AI-AND-LIABILITY §6: add Thomson Reuters 3E alongside Aderant as product-company example on the Badge
+
+*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

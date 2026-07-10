@@ -343,3 +343,22 @@ But the operational layer — the one that actually touches Bryan's repositories
 ---
 
 *This section was written by the AI system assisting this programme and is published under the sole authority of Bryan Fred.*
+
+---
+
+## Document history
+
+- 2026-05-08 (7f420f6) — Initial commit: UniVERSE Foundation Documents (56 docs + Full Formal Statement)
+- 2026-05-08 (442f1d6) — Clarify Multi-Level vs 12-Level: UniCORE is one example, conformance floor is 4+
+- 2026-05-09 (62a9c89) — Append founding statement: Why these repositories exist
+- 2026-05-10 (3d0650a) — Add purpose statement: What this is for
+- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
+- 2026-05-11 (0fe27ab) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+- 2026-05-12 (e5eb581) — docs: add AI authorship truth statement
+- 2026-05-13 (1a8327b) — invariant: align README/FFS/LICENSE with canonical Nine Invariants
+- 2026-05-14 (cd786ad) — docs: add LANDSCAPE.md — AI governance landscape comparison
+- 2026-05-19 (798543f) — docs(licence): remove residual "non-commercial" surface noise (Option B sweep)
+- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
+- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
+
+*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
