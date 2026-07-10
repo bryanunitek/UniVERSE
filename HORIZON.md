@@ -159,21 +159,3 @@ Second, this is the author's considered view of where humanity will need to be i
 The programme is the author's considered view of where humanity will be in 10–20 years in its relationship with artificial intelligence, and of the governance foundation that will be needed by the time it arrives. The 10–20 year horizon is not pessimism. It is the respect due to work that is intended to hold up under the weight of real consequence.
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-13 (3617a7a) — governance: add HORIZON.md
-- 2026-05-13 (de8a64b) — docs: collate HORIZON into single programme-wide statement (master)
-- 2026-05-13 (a0991ab) — docs(HORIZON): add evolution and versioning section
-- 2026-05-13 (f87909f) — HORIZON: add Long horizon section (Layered CORE, civilisational/inter-body scope, sovereignty by physics)
-- 2026-05-13 (7eeb124) — HORIZON: align Evolution section with Layered CORE model
-- 2026-05-13 (6bd9ba1) — docs: Solution time horizon is 100/1000 years, not 10-20
-- 2026-05-13 (ece9c77) — docs: lock versioning at 1.0 until first GitHub Discussion
-- 2026-05-15 (b499909) — docs: HORIZON.md — announce the new substrate documents
-- 2026-05-15 (0d4bfaa) — HORIZON.md: rename UniCORE-Claw → UniCORE-Law-Claw
-- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

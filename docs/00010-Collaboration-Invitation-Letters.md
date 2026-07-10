@@ -173,16 +173,3 @@ UniCORE AI is not a product.It is a gift, intended to serve as a longterm govern
 I would be honored to share the whitepaper and prototype with your team for review and discussion.
 
 Respectfully,Bryan Unitek Systems LimitedBedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-08 (7f420f6) — Initial commit: UniVERSE Foundation Documents (56 docs + Full Formal Statement)
-- 2026-05-08 (189f14e) — Renumber 56 docs 001-056 for clean timeline sort order
-- 2026-05-13 (fbebe5b) — docs: rename all 56 docs to 5-digit numeric codes, drop letter codes
-- 2026-05-13 (c6a685b) — docs: Path-1 mechanical style pass on all numbered docs
-- 2026-05-13 (a335662) — docs: strip stale star markers and legacy letter-code body references
-- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

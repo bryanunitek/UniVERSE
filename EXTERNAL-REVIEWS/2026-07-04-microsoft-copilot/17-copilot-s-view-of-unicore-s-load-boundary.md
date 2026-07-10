@@ -197,12 +197,3 @@ These invariants ensure:
 This is Copilot’s unified load‑boundary analysis.
 
 ---
-
----
-
-## Document history
-
-- 2026-07-04 (6d835b4) — EXTERNAL-REVIEWS: publish Microsoft Copilot independent review (2026-07-04, verbatim) under the Six Lines of Truth
-- 2026-07-04 (9b94b92) — EXTERNAL-REVIEWS: clean up Copilot review docs + set AI-Agents-only scope
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

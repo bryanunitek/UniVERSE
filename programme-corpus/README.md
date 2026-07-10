@@ -31,12 +31,3 @@ This matches the same versioning discipline used by [TrueAI/foundation-requireme
 ## Status
 
 `programme-corpus/v1/` is a **structural placeholder** at first publication. The substantive content — which programme-level docs are included in the corpus delivered to Claws, and in what form — is curated in subsequent commits. The version's identity is fixed by its folder name; its content grows incrementally up to the point that a `v2` is opened.
-
----
-
-## Document history
-
-- 2026-05-16 (0193331) — docs(00061+00062): PairedClaw pairing protocol and failure ladder; programme-corpus/v1 stub
-- 2026-06-28 (a17885b) — fix(docs): repair broken relative links (integrity check 2026-06-28)
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

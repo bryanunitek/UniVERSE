@@ -74,14 +74,3 @@ The full framework is set out in: Fred, B. (2026). *Governed Intelligence: A fra
 ---
 
 *This submission is offered in the author's personal and professional capacity as a practitioner. It does not represent the position of any government, intergovernmental body, or standards organisation.*
-
----
-
-## Document history
-
-- 2026-05-11 (e693a31) — docs: add Governed Intelligence whitepaper set v1.0
-- 2026-05-11 (f15cd84) — docs: route all contact through GitHub Discussions
-- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
-- 2026-05-11 (0fe27ab) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

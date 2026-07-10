@@ -256,13 +256,3 @@ This document specifies the failure ladder, PAUSE state, and EMERGENCY mechanism
 - [00056 Absolute Safety Invariants](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md) — the Nine Invariants whose runtime expression PAUSE and EMERGENCY embody.
 
 Revisions to this document are recorded in git history per the [HORIZON.md versioning discipline](../HORIZON.md#versioning-is-not-yet-enabled). The `Version: 1.0` line is a programme-document placeholder. Read changes from the git log.
-
----
-
-## Document history
-
-- 2026-05-16 (0193331) — docs(00061+00062): PairedClaw pairing protocol and failure ladder; programme-corpus/v1 stub
-- 2026-05-16 (3aba6b6) — docs(00061): Step 2 is two-part -- truth contract verbatim, then full Foundation requirements corpus
-- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

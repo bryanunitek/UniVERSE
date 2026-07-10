@@ -200,21 +200,3 @@ Public-facing changes to the certification rule itself will continue to be flagg
 ---
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-13 (c167a76) — docs: add public register of Unitek Systems Limited certified experts
-- 2026-05-13 (5faef73) — docs: certificates follow the gift principle — irrevocable once given
-- 2026-05-13 (2e2e74e) — docs: name the parties bound by the no-revocation rule
-- 2026-05-13 (89ad342) — docs: certification begins in Discussions and is open to all career stages
-- 2026-05-13 (a0aa1dc) — docs(CERTIFIED): name Discussion Points as candidate mechanism for future scheme
-- 2026-05-13 (fba464d) — docs(CERTIFIED): publish how to verify a certificate (Discussions + LinkedIn DM)
-- 2026-05-13 (f634f2b) — docs: engagement status (Active / Expired) is a register property, not a certificate property
-- 2026-05-14 (b127a45) — docs(CERTIFIED): lead sections 3.4 and 4 with 'revoking and expiring are two different things'
-- 2026-05-14 (4ebf1f1) — docs: apprenticeships are an explicit entry point; CORE users encouraged to offer them
-- 2026-05-14 (54a9132) — docs: apprenticeships should be paid and provide a liveable wage; CORE cost savings fund the wage over time
-- 2026-05-14 (fdf2f46) — docs(CERTIFIED): publish appeals process candidate (§4.2 + §4.3); anchor LICENSE.md cross-link
-
-*Back-filled from git log on 2026-07-10 21:33 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

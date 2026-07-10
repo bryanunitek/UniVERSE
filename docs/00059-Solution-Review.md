@@ -330,27 +330,3 @@ flagged in [HORIZON.md](../HORIZON.md).
 ---
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-13 (a36cff1) — docs: add 00058 Claw vocabulary and 00059 Solution Review
-- 2026-05-13 (5234972) — docs(00059): add five-step process at the top of Solution Review
-- 2026-05-13 (8201f00) — docs: wrap every section sign (§) reference inside a markdown link
-- 2026-05-13 (75b8166) — docs: deepen 11 cross-document § links to anchor-level targets
-- 2026-05-13 (08231f0) — docs(00059): add delegated-review variant for time-poor solution owners
-- 2026-05-13 (2c9fc39) — docs(00059): require Unitek Systems Limited certificate for delegated reviews
-- 2026-05-13 (14c0b34) — docs(00059): record default-held certificate for Author/Creator and successors
-- 2026-05-13 (c167a76) — docs: add public register of Unitek Systems Limited certified experts
-- 2026-05-13 (5faef73) — docs: certificates follow the gift principle — irrevocable once given
-- 2026-05-13 (2e2e74e) — docs: name the parties bound by the no-revocation rule
-- 2026-05-13 (89ad342) — docs: certification begins in Discussions and is open to all career stages
-- 2026-05-13 (d28d506) — docs(00059): certified juniors can assist if paired with solution owner
-- 2026-05-13 (f634f2b) — docs: engagement status (Active / Expired) is a register property, not a certificate property
-- 2026-05-15 (51903df) — docs(rename): UniCORE-Claw → UniCORE-Law-Claw under new naming pattern
-- 2026-05-16 (d800607) — docs(00059): re-anchor MyClaw references to v1.1 Claw vocabulary
-- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

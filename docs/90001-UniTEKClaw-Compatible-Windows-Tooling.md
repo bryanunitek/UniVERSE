@@ -298,12 +298,3 @@ When a Certified Expert works **inside** UniTEKClaw, the paired AgentClaw is the
 | Version | Date | Author | Change |
 |---|---|---|---|
 | 1.0 | 2026-05-16 | Bryan Fred | Initial compatible-tooling list. Enterprise reference track (.NET / C# / XAF / XPO, JavaScript / TypeScript, Python, SQL, PowerShell). Machine-level reference track (C++, C, Rust, Ada / SPARK, Assembly, Verilog / VHDL, plus candidate-language note). Cross-cutting tooling (version control, containers, editors, external AI assistants). |
-
----
-
-## Document history
-
-- 2026-05-16 (712ab5f) — feat(00063): add UniTEKClaw Compatible Windows Tooling companion list
-- 2026-05-16 (d04e131) — refactor(corpus): renumber 00063 to 90001 — UniTEKClaw docs use 90000–99999 range
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

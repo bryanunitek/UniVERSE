@@ -70,11 +70,3 @@ What would "fully solved" require? A deterministic AI substrate — one where th
 For the current generation of LLM-based deployment: the governance layer narrows the inconsistency surface substantially, the human-side pairing constrains it further, and the audit trail makes the residual inconsistency visible when it occurs. That is not "solved" but it is "managed to the structural maximum with honest accounting of the residual."
 
 That is what regulated institutions actually need from an AI governance framework. Not a promise of perfection, but a credible mechanism for managing the known risks with accountability.
-
----
-
-## Document history
-
-- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

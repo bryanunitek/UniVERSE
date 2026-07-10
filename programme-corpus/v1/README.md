@@ -26,12 +26,3 @@ These are the docs a Solution embeds for the programme-corpus delivery. The set 
 The decision of whether a programme-corpus refinement requires a new `v2` (versus a within-`v1` content expansion) is made at the time of refinement, on a case-by-case basis. The discipline is: if a refinement changes what a deployed Solution would surface to a paired Claw, it gets a `v2`. If a refinement only adds new material that older deployments would not have used anyway, it can stay within `v1`.
 
 See the parent [`README.md`](../README.md) for the versioning discipline.
-
----
-
-## Document history
-
-- 2026-05-16 (0193331) — docs(00061+00062): PairedClaw pairing protocol and failure ladder; programme-corpus/v1 stub
-- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

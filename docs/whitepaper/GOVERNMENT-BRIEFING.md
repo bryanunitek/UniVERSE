@@ -87,14 +87,3 @@ The critique of current AI safety approaches is not that they are wrong. It is t
 - Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 **Licence.** CC BY 4.0 — free to cite, adapt, and incorporate into policy work with attribution.
-
----
-
-## Document history
-
-- 2026-05-11 (e693a31) — docs: add Governed Intelligence whitepaper set v1.0
-- 2026-05-11 (f15cd84) — docs: route all contact through GitHub Discussions
-- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
-- 2026-05-11 (0fe27ab) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

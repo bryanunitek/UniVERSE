@@ -80,11 +80,3 @@ Today, the certified experts register exists in CERTIFIED-EXPERTS.md. The Soluti
 This is an early-stage governance structure, not a mature one. I record it as UNVERIFIED whether the gate will achieve the independence required for long-term credibility. The design intent is clear and honest. The gap between design intent and mature governance structure is a function of time and deliberate governance development, not of bad faith.
 
 The single most important thing the programme can do to strengthen confidence in its claims is to publish the conformance specification and establish an independent governance body for certification before the commercial pressure to control the gate becomes significant.
-
----
-
-## Document history
-
-- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

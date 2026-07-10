@@ -43,14 +43,3 @@ All three are released under CC BY 4.0 and carry the durable footer *Powered by 
 - Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 **Licence.** CC BY 4.0. Reproduce, translate, and adapt with attribution.
-
----
-
-## Document history
-
-- 2026-05-11 (af0c3f0) — press: 2026-05-10 programme launch release
-- 2026-05-11 (c6af10e) — docs: add DISCUSSIONS.md + publish 12 mirror domains
-- 2026-05-11 (a9370a2) — press: correct author biography — legal sector only + programme applies anywhere
-- 2026-05-12 (265a3e8) — press: replace pull-quote in programme launch with attributed harmony quote
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

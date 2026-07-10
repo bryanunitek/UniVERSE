@@ -24,12 +24,3 @@ Press material authored by Unitek Systems Limited and released under CC BY 4.0. 
 ## Licence
 
 All press material here is CC BY 4.0. Journalists, editors, and civil-society organisations are free to reproduce, translate, and adapt with attribution.
-
----
-
-## Document history
-
-- 2026-05-11 (c65925c) — docs(press): move press releases to /press/YYYY-MM-DD-slug.md
-- 2026-05-11 (af0c3f0) — press: 2026-05-10 programme launch release
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

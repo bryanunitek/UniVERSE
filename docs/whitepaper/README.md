@@ -26,14 +26,3 @@ The framework is versioned. This is v1.0 (May 2026). Revisions will be tracked i
 
 - Public discussion: https://github.com/bryanunitek/UniVERSE/discussions
 - Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
-
----
-
-## Document history
-
-- 2026-05-11 (e693a31) — docs: add Governed Intelligence whitepaper set v1.0
-- 2026-05-11 (f15cd84) — docs: route all contact through GitHub Discussions
-- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
-- 2026-05-11 (c65925c) — docs(press): move press releases to /press/YYYY-MM-DD-slug.md
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

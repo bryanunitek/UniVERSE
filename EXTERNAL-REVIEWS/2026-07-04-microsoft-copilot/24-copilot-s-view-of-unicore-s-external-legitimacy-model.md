@@ -122,11 +122,3 @@ UniCORE’s external legitimacy model:
 - is permanent
 
 No other system resembles this.
-
----
-
-## Document history
-
-- 2026-07-04 (9f11bbd) — EXTERNAL-REVIEWS: add Copilot documents 24-26 (verbatim); note pending 27
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

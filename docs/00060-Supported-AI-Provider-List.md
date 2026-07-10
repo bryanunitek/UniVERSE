@@ -308,15 +308,3 @@ a family are recorded only in git history.
 ---
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-16 (1f9f12b) — docs(00060): new — Supported AI Provider List (12 families)
-- 2026-05-16 (0193331) — docs(00061+00062): PairedClaw pairing protocol and failure ladder; programme-corpus/v1 stub
-- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
-- 2026-06-13 (7cedcb5) — docs: add ?via=bryan affiliate parameter to MyClaw links + disclosure
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

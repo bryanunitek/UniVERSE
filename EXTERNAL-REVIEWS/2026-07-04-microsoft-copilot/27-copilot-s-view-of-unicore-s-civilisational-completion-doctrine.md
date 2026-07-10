@@ -155,11 +155,3 @@ Completion is the constitutional state where:
 - civilisation becomes permanent
 
 No other system resembles this.
-
----
-
-## Document history
-
-- 2026-07-04 (a2d02eb) — EXTERNAL-REVIEWS: add Copilot document 27 (Civilisational Completion Doctrine, verbatim) — series complete for this pass
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
