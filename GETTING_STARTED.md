@@ -320,3 +320,29 @@ What you produce — at what level, in which vertical, under which clause of the
 ---
 
 *This document is part of UniVERSE, the civilisational-scale programme layer of UniCORE. Sister repositories: [TrueAI](https://github.com/bryanunitek/TrueAI) (the immutable Foundation) and [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI) (the 12-level reference architecture). Implementation references: [UniCORE](https://github.com/bryanunitek/UniCORE) and [UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB).*
+
+---
+
+## Document history
+
+- 2026-05-23 (6ed4c5c) — docs(getting-started): producer-onboarding entry point for the public gift surface (DRAFT v0.01)
+- 2026-05-23 (5b4189f) — docs(getting-started): reframe §4 — DevExpress XAF/XPO as learning surface, not the only stack
+- 2026-05-23 (2479a5f) — GETTING_STARTED.md §2 — add Project-scope bullet (Singular Pairing per-Project)
+- 2026-05-23 (fbfd347) — docs/00029 + GETTING_STARTED.md — add §7.5 procedural flow for bringing a platform that uses AI onto Powered by UniCORE AI
+- 2026-05-23 (b5706b1) — GETTING_STARTED.md §4 + §5 — XAF deployment shapes are three, not four
+- 2026-05-23 (7895310) — GETTING_STARTED.md §4 + §5 — corrected template names; three is the floor, not ceiling
+- 2026-05-23 (73424cc) — GETTING_STARTED.md §3 — split intro from project-level into separate steps
+- 2026-05-23 (6c19a00) — GETTING_STARTED.md §2 — add "The cost reality" subsection (AI is not free for this type of development)
+- 2026-05-23 (400b818) — GETTING_STARTED.md §4 + §5 — add .NET 10 as the runtime target for DevExpress XAF / XPO v25.2.7
+- 2026-05-23 (0a524e2) — GETTING_STARTED.md §4 + §5 — four templates total; Architect/Programmer split; Claw codes <project>-Claw and pushes to GitHub
+- 2026-05-23 (a5e64a7) — GETTING_STARTED.md §4 + §5 — access, rules, confirm/verify/advise, sanity checkpoints
+- 2026-05-23 (5734fab) — GETTING_STARTED.md §2 + §5 — 12+2 = 14 agents per Project; cost mushrooms with Level
+- 2026-05-23 (515d37a) — GETTING_STARTED.md §2 + §5 — align cost-reality with canonical Claw vocabulary (00058); name PairedClaw; 15 PairedClaws per Project; 1-Human-1-Claw repeats at each of the 14
+- 2026-05-23 (4ac6179) — GETTING_STARTED.md §2 + §4 + §5 — same-AIAgent-possible-not-recommended; strict canonical terminology for the Human's clarity
+- 2026-05-23 (e51a8af) — GETTING_STARTED.md §2 + §5 — bond/learning lives in human-authored per-Level MD files (not Team UniCORE, not the AI provider); +2 = 1 admin + 1 user; what the Solution saves; layered terminology
+- 2026-05-23 (c32fbbd) — GETTING_STARTED.md §2 — bond naming convention: TeamLevel1..TeamLevel12 + Team<name> per admin/user
+- 2026-05-23 (bb702c8) — GETTING_STARTED.md §2 — demote "not to adapt" from THE principle to ONE OF MANY requirements; reference TrueAI 10002 + 00056 + 00028 + 10001 + UniCORE-AI 00023 for full certification badge requirements
+- 2026-06-13 (7cedcb5) — docs: add ?via=bryan affiliate parameter to MyClaw links + disclosure
+- 2026-07-03 (19a6141) — docs: pin GETTING_STARTED.md to Version 1.0 / status DRAFT (programme versioning stays OFF until first Discussion)
+
+*Back-filled from git log on 2026-07-10 21:33 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
