@@ -70,3 +70,11 @@ And specifically:
 This is significant. The author is applying the framework to themselves — not exempting their own normative claims from the epistemic standards they are asking AI systems to meet. This is consistent, intellectually honest, and unusual. Most governance frameworks are built on confident normative premises without applying the same evidential scrutiny to those premises that the framework applies to AI outputs.
 
 The self-application of the truth contract to the framework's own foundational beliefs is a genuine strength of the UniCORE approach.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

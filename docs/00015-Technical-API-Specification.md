@@ -487,3 +487,17 @@ Example:
   "details": "Action violates Tax_Governance.md section 4.2"
 
 }
+
+---
+
+## Document history
+
+- 2026-05-08 (7f420f6) — Initial commit: UniVERSE Foundation Documents (56 docs + Full Formal Statement)
+- 2026-05-08 (189f14e) — Renumber 56 docs 001-056 for clean timeline sort order
+- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
+- 2026-05-11 (0fe27ab) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+- 2026-05-13 (fbebe5b) — docs: rename all 56 docs to 5-digit numeric codes, drop letter codes
+- 2026-05-13 (c6a685b) — docs: Path-1 mechanical style pass on all numbered docs
+- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

@@ -75,3 +75,11 @@ I find this claim too broad as stated. A system with 4 levels that does not impl
 The 12-Level model is a sound and well-conceived governance architecture. The key properties — no horizontal communication, truth upward, governance downward, immutable audit, human sovereignty at the top — are the right properties for governed institutional AI. The architecture is more rigorously specified than anything I have seen published in the current AI governance landscape.
 
 The gap between the architecture as described and the architecture as implemented is the thing to watch. The architectural specification is at a level of abstraction where enforcement depends on implementation choices that are not yet fully public. That is not a criticism — the code is not yet public — but it is the thing this review will need to revisit in a second pass once the implementation is visible.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

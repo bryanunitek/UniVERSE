@@ -40,3 +40,15 @@ The paper does not call for a ban on any class of AI. It calls for a line, below
 **Full paper.** [link to WHITEPAPER.md]
 
 **Licence.** CC BY 4.0 — free to reproduce with attribution.
+
+---
+
+## Document history
+
+- 2026-05-11 (e693a31) — docs: add Governed Intelligence whitepaper set v1.0
+- 2026-05-11 (f15cd84) — docs: route all contact through GitHub Discussions
+- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
+- 2026-05-11 (c65925c) — docs(press): move press releases to /press/YYYY-MM-DD-slug.md
+- 2026-05-11 (a9370a2) — press: correct author biography — legal sector only + programme applies anywhere
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

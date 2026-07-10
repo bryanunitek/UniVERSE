@@ -66,3 +66,11 @@ The building-block selection (Asterisk, Jitsi, Signal, XCP) tells us something a
 They are not evidence that the programme is flawed. They are the questions that remain open after reading the public READMEs and that would be answered by reading the fuller document set and the eventual implementation.
 
 A governance framework that had no open questions after reading its READMEs would be a governance framework that was either trivially simple or less than fully specified. The open questions here are the result of taking the programme seriously enough to ask what would need to be true for the claims to hold.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

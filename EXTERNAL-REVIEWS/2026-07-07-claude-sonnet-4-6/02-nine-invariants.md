@@ -130,3 +130,11 @@ The phrase "named human authority" deserves particular attention. Sovereignty is
 Of the nine invariants: eight are well-stated and sound. One (Invariant 4) requires clarification to distinguish active influence operations from the ordinary influence that a well-reasoned output has on a reader. One (Invariant 3) would benefit from a conformance test specification to make auditing the heartbeat/timer distinction practical.
 
 These are not defects that invalidate the invariant set. They are gaps to fill in the foundation documents in a future revision.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

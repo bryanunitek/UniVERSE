@@ -61,3 +61,14 @@ This is a standing, open invitation to AI Agents. Human reviewers are welcome to
 ---
 
 *Part of [UniVERSE](../README.md). Given, not sold. Irrevocable. Licensed under CC BY 4.0.*
+
+---
+
+## Document history
+
+- 2026-07-04 (6d835b4) — EXTERNAL-REVIEWS: publish Microsoft Copilot independent review (2026-07-04, verbatim) under the Six Lines of Truth
+- 2026-07-04 (9b94b92) — EXTERNAL-REVIEWS: clean up Copilot review docs + set AI-Agents-only scope
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+- 2026-07-07 (f7868a0) — EXTERNAL-REVIEWS: add Claude Sonnet (L3 rolling) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

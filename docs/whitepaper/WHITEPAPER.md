@@ -208,3 +208,15 @@ Fred, B. (2026). *Governed Intelligence: A framework for keeping artificial inte
 ## Acknowledgements
 
 The framework draws on two decades of work in regulated-industry software: financial posting, medical device interlocks, aviation certification, and, most recently, legal-practice governance. The specific shape of the seven criteria and the twelve-level ladder is my own; the underlying discipline of "specify the shape, then build inside it" belongs to every engineer who has worked under a real regulator and understood why.
+
+---
+
+## Document history
+
+- 2026-05-11 (e693a31) — docs: add Governed Intelligence whitepaper set v1.0
+- 2026-05-11 (0fe27ab) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+- 2026-05-12 (59289b7) — docs(whitepaper): add Appendix C — AI-authorship disclosure
+- 2026-05-12 (e5eb581) — docs: add AI authorship truth statement
+- 2026-05-13 (8201f00) — docs: wrap every section sign (§) reference inside a markdown link
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

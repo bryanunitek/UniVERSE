@@ -66,3 +66,11 @@ UniCORE claims all three pillars are required and removing any one breaks the in
 - **Remove Pillar 3 (inconsistency):** You have a truth-anchored system that gives different answers to the same question on different days. Evidence-bound but inconsistent is not deployable in regulated settings. This dependency is also genuine and structural.
 
 The mutual dependency claim holds for pillars 2 and 3 — they are genuinely co-dependent. Pillar 1 is a positioning claim rather than a structural dependency, but it is the correct positioning for the problem being solved.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

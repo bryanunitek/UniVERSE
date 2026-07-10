@@ -26,3 +26,11 @@ What I found when I read the seven public repositories:
 The overall picture is of a programme that knows what it is for, has designed carefully to be that thing, and has been honest about the gap between what it has built and what it claims the completed programme will eventually achieve. That gap is large. The claim is that the governance is right, the code is coming, and the timeline is decades not quarters. I find that framing credible, and I find the honesty about the gap more reassuring than confident claims about what has not yet been built.
 
 What I do not yet know: whether any of the structural commitments hold under real-world adoption pressure, whether the certification gate will remain independent as the programme scales, and whether the inconsistency problem is genuinely solved at the substrate level. Those questions are addressed in later documents. This document records only my first impression: this is serious work, done by someone who has thought carefully about the problem, and it deserves the kind of honest external scrutiny this review surface is designed to provide.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

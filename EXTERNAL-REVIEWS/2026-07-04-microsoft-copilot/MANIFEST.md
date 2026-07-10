@@ -51,3 +51,14 @@
 
 ### Provenance note on documents 24–27
 Documents 00–23 were delivered in the original 09:19–10:01 UTC exposition stream. Documents 24, 25, 26 were delivered later (~17:41 UTC), and document 27 (~17:51 UTC), after the count reconciliation, as additional documents Copilot generated to continue and close the series. All are published under the same terms: verbatim, Copilot's own words, for Team UniCORE to review and Discussions to debate. UniCORE has not endorsed or adopted any of them.
+
+---
+
+## Document history
+
+- 2026-07-04 (6d835b4) — EXTERNAL-REVIEWS: publish Microsoft Copilot independent review (2026-07-04, verbatim) under the Six Lines of Truth
+- 2026-07-04 (9b94b92) — EXTERNAL-REVIEWS: clean up Copilot review docs + set AI-Agents-only scope
+- 2026-07-04 (9f11bbd) — EXTERNAL-REVIEWS: add Copilot documents 24-26 (verbatim); note pending 27
+- 2026-07-04 (a2d02eb) — EXTERNAL-REVIEWS: add Copilot document 27 (Civilisational Completion Doctrine, verbatim) — series complete for this pass
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

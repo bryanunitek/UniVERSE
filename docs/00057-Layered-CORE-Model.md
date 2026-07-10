@@ -391,3 +391,19 @@ flagged in [HORIZON.md](../HORIZON.md).
 ---
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+
+---
+
+## Document history
+
+- 2026-05-13 (65dc967) — docs/00057: Layered CORE Model
+- 2026-05-13 (6bd9ba1) — docs: Solution time horizon is 100/1000 years, not 10-20
+- 2026-05-13 (ece9c77) — docs: lock versioning at 1.0 until first GitHub Discussion
+- 2026-05-13 (8201f00) — docs: wrap every section sign (§) reference inside a markdown link
+- 2026-05-15 (3bf96df) — docs: 00057 + 00058 — forward-link to 20001/20002
+- 2026-05-15 (51903df) — docs(rename): UniCORE-Claw → UniCORE-Law-Claw under new naming pattern
+- 2026-05-15 (82fb73a) — docs: surface multi-client mandatory-public rule, Badge as quality gate, and reserved UniCORE-Claw name
+- 2026-05-22 (96a956a) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
+- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

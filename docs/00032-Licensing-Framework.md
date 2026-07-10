@@ -126,3 +126,19 @@ The TrueAI Foundation and the UniCORE Foundation, once constituted, will be inde
 | Misuse, passing-off, weaponisation | General law + Foundation oversight | Enforced through general law; non-endorsement is the authors' lever |
 
 For the legal terms of the licence, read `LICENSE.md`. For brand and trademark detail, read `BRAND-AND-TRADEMARK-USE-POLICY.md`. For the philosophy behind the licence choice, read `docs/00009-Licensing-Philosophy.md`. For the formal declaration that the licence is irrevocable and may not be changed by any future custodian, read `IRREVOCABLE-LICENCE-DECLARATION.md`.
+
+---
+
+## Document history
+
+- 2026-05-08 (7f420f6) — Initial commit: UniVERSE Foundation Documents (56 docs + Full Formal Statement)
+- 2026-05-08 (189f14e) — Renumber 56 docs 001-056 for clean timeline sort order
+- 2026-05-11 (6c1433f) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
+- 2026-05-11 (0fe27ab) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+- 2026-05-13 (fbebe5b) — docs: rename all 56 docs to 5-digit numeric codes, drop letter codes
+- 2026-05-13 (c6a685b) — docs: Path-1 mechanical style pass on all numbered docs
+- 2026-05-17 (eac9264) — Align licence-companion docs with CC BY 4.0; add Brand and Trademark Use Policy
+- 2026-05-17 (36c11ae) — Add Irrevocable Licence Declaration; cross-reference from licensing framework
+- 2026-05-22 (9bcde37) — docs: complete version-marker sweep across public corpus
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

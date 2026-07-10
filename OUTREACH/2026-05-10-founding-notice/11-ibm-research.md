@@ -47,3 +47,11 @@
 > Bryan Fred
 > Senior Solutions Architect
 > Unitek Systems Limited | Unitek Systems USA Inc
+
+---
+
+## Document history
+
+- 2026-05-10 (b5c69a5) — OUTREACH: founding notice — formal offer to 12 major AI organisations (2026-05-10)
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

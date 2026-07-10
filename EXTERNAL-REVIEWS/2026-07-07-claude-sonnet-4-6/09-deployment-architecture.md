@@ -91,3 +91,11 @@ This component is relevant to the governance claims because it governs how data 
 ## Summary
 
 The paired on-prem/SaaS architecture is the right design for the stated governance goals. The three operator positions for SaaS — hosted, private, self-hosted — provide the full range needed for different institutional contexts. The governance invariants are correctly placed at the deployment-shape-independent levels of the architecture. The data sovereignty design (customer holds decryption keys, post-quantum future posture reserved) is appropriate for the regulated institutional market.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

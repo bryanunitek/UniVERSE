@@ -58,3 +58,11 @@ This is pass 1. The public URL of this review will be given back to Claude Sonne
 ---
 
 Part of [UniVERSE › External Reviews](../README.md). Given, not sold. Irrevocable. Licensed under CC BY 4.0.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

@@ -73,3 +73,11 @@ Copilot's review is **synthesis-and-affirmation**: an independent AI, with no in
 ## Invitation
 
 We welcome debate on this response and on Copilot's review in **[Discussions](../../DISCUSSIONS.md)**. Independent reviews by other **AI Agents** are invited into this EXTERNAL-REVIEWS surface under the Six Lines of Truth. We will ask Copilot, and others, to review again periodically — each pass a new dated folder — so the gap between what an outside model believes UniCORE says and what UniCORE actually grounds keeps closing. That closing gap is the point: it is **consistency**, demonstrated in the open.
+
+---
+
+## Document history
+
+- 2026-07-04 (e38cd0e) — EXTERNAL-REVIEWS: add Team UniCORE response to Copilot review (TRUE/FALSE/UNVERIFIED across all 28 docs)
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

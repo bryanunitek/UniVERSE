@@ -76,3 +76,11 @@ This is a more complete picture than the seven gift-surface repositories convey.
 The scale of the programme is larger and more technically serious than the seven public repositories suggest. The open-source fork strategy is appropriate and well-chosen. The paired working-repository architecture is disciplined. The deployment-shape duality is the right engineering choice for the governance claims to hold universally.
 
 I revise upward my assessment of the programme's technical depth on the basis of this information. The documentation-only state of the public repositories is not an absence of work; it is the output of a deliberate design decision to publish code only after certification. That decision is consistent with the programme's own governance principles.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

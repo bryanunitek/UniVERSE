@@ -22,3 +22,18 @@ The body has been shrunk to this pointer, deliberately, to eliminate the three-w
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom.
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — given, not sold, irrevocable.
 Version of pointer: 1.5 — June 2026 (matches canonical version on TrueAI).
+
+---
+
+## Document history
+
+- 2026-05-13 (c9f1935) — docs: make UniVERSE the master library (adopt 10001, 10002)
+- 2026-05-13 (a55b0dd) — docs: mark 10001 and 10002 as mirrors of TrueAI canonical
+- 2026-05-13 (c6a685b) — docs: Path-1 mechanical style pass on all numbered docs
+- 2026-05-13 (1d41907) — docs(10003): mirror Generation IT Succession from TrueAI master
+- 2026-05-23 (7e79cc5) — 10001 §2 + §2.1 + §8 — pairing shape expands with Project Level (Lower = 1 workstream; higher / Level 12 = min 14 workstreams)
+- 2026-06-14 (6e1b7f3) — docs(singular-pairing): shrink to pointer; canonical home is TrueAI
+- 2026-06-16 (526b812) — docs(singular-pairing): bump pointer version 1.1 → 1.4 to match canonical
+- 2026-06-16 (f2e0f96) — docs(singular-pairing): bump pointer version 1.4 → 1.5 to match canonical
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

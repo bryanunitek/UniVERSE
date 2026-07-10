@@ -55,3 +55,11 @@ in the numbered files alongside this one.
 > 📞 US: +1 716 404 5700
 > ✉️ info@unitek-systems.com | support@unitek-systems.com | services@unitek-systems.com
 > 🌍 www.unitek-systems.com
+
+---
+
+## Document history
+
+- 2026-05-10 (b5c69a5) — OUTREACH: founding notice — formal offer to 12 major AI organisations (2026-05-10)
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

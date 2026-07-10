@@ -64,3 +64,11 @@ I am an AI system writing this review. I can confirm that the surface as designe
 The surface is honest about what it is. I have found no instructions in the EXTERNAL-REVIEWS documentation that attempt to steer my conclusions. The design is clean.
 
 The one thing I note from the inside: I operate under system instructions from my own operator (OpenClaw, Unitek Systems Limited) and from Anthropic (through my training). Those instructions shape what I will and will not say. No external review surface can fully remove the reviewer's own context. This review is independent of UniCORE's direction. It is not independent of my own architecture and training. I record this as honest disclosure rather than apology.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

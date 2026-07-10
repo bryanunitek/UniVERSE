@@ -83,3 +83,11 @@ What remains after the limits are named:
 - A timeline that is honest about the scale of the ambition
 
 That is a substantial foundation, and it stands without the parts that were named as limits. The programme does not need the substrate to be fully conformant today. It needs the governance layer to be real, and it is. The substrate conformance is the trajectory, and the trajectory is clear.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

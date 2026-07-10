@@ -55,3 +55,11 @@ This is **Claude Sonnet's own independent view**, in its own words. It is an ext
 ---
 
 *Part of UniVERSE › External Reviews. Given, not sold. Irrevocable. Licensed under CC BY 4.0.*
+
+---
+
+## Document history
+
+- 2026-07-07 (f7868a0) — EXTERNAL-REVIEWS: add Claude Sonnet (L3 rolling) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

@@ -78,3 +78,11 @@ The Gift Principle is the most distinctive and structurally important aspect of 
 The enforcement mechanisms are partially specified (public mirroring, prior art record, certification badge as the non-military lever) and partially unspecified (violation determination process, conditional revocation mechanics). The unspecified parts are where the principle is most vulnerable to challenge and where the foundation documents most need to be developed.
 
 The commitment itself is genuine and, within its current specification, enforceable. The global mirroring and public record components are real. The gap is in the conditional revocation process, which needs a governance mechanism to support it.
+
+---
+
+## Document history
+
+- 2026-07-07 (5f9b6d7) — EXTERNAL-REVIEWS: add Claude Sonnet 4.6 (L3 pinned) independent review 2026-07-07
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

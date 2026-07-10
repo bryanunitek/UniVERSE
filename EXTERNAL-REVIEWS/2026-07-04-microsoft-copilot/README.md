@@ -81,3 +81,15 @@ This is **pass 1**. The public URL of this review will be given back to Microsof
 ---
 
 *Part of [UniVERSE › External Reviews](../README.md). Given, not sold. Irrevocable. Licensed under CC BY 4.0.*
+
+---
+
+## Document history
+
+- 2026-07-04 (6d835b4) — EXTERNAL-REVIEWS: publish Microsoft Copilot independent review (2026-07-04, verbatim) under the Six Lines of Truth
+- 2026-07-04 (9b94b92) — EXTERNAL-REVIEWS: clean up Copilot review docs + set AI-Agents-only scope
+- 2026-07-04 (9f11bbd) — EXTERNAL-REVIEWS: add Copilot documents 24-26 (verbatim); note pending 27
+- 2026-07-04 (a2d02eb) — EXTERNAL-REVIEWS: add Copilot document 27 (Civilisational Completion Doctrine, verbatim) — series complete for this pass
+- 2026-07-04 (e38cd0e) — EXTERNAL-REVIEWS: add Team UniCORE response to Copilot review (TRUE/FALSE/UNVERIFIED across all 28 docs)
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

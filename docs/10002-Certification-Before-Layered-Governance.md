@@ -130,3 +130,13 @@ The gate exists because the Foundation is the floor. No layered governance is ap
 ---
 
 *End of document.*
+
+---
+
+## Document history
+
+- 2026-05-13 (c9f1935) — docs: make UniVERSE the master library (adopt 10001, 10002)
+- 2026-05-13 (a55b0dd) — docs: mark 10001 and 10002 as mirrors of TrueAI canonical
+- 2026-05-13 (c6a685b) — docs: Path-1 mechanical style pass on all numbered docs
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
