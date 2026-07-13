@@ -13,9 +13,9 @@ Amendment history (in this published text): 2026-05-17 — clarified the living-
 
 The architectural content of UniVERSE, the TrueAI Foundation, and UniCORE AI, as held in the canonical public repositories at:
 
-- `github.com/bryanunitek/UniVERSE`
-- `github.com/bryanunitek/TrueAI`
-- `github.com/bryanunitek/UniCORE-AI`
+- `git.unitek-systems.com/UniCORE/UniVERSE` (mirror: `github.com/bryanunitek/UniVERSE`)
+- `git.unitek-systems.com/UniCORE/TrueAI` (mirror: `github.com/bryanunitek/TrueAI`)
+- `git.unitek-systems.com/UniCORE/UniCORE-AI` (mirror: `github.com/bryanunitek/UniCORE-AI`)
 
 is licensed under the **Creative Commons Attribution 4.0 International licence (CC BY 4.0)**. The operative licence file in the root of each repository is `LICENSE.md`. This declaration sits alongside that licence and reinforces its irrevocability.
 

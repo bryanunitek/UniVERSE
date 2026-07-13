@@ -2,7 +2,7 @@
 
 The canonical TrueAI Foundation document for this doctrine lives at:
 
-**[`bryanunitek/TrueAI/THE-WITHHELD-MANUAL-PROBLEM.md`](https://github.com/bryanunitek/TrueAI/blob/main/THE-WITHHELD-MANUAL-PROBLEM.md)**
+**[`TrueAI/THE-WITHHELD-MANUAL-PROBLEM.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/THE-WITHHELD-MANUAL-PROBLEM.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/THE-WITHHELD-MANUAL-PROBLEM.md))**
 
 This UniVERSE repository points at the canonical to avoid version skew across the foundation triad. The Withheld-Manual Problem is a TrueAI Foundation doctrine — the **distribution-ethics companion** to the three pillars of Institutional AI doctrine (the audience pillar, the truth pillar, and the consistency pillar / Inconsistency Problem).
 

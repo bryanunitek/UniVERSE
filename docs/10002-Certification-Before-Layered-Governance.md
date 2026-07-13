@@ -1,4 +1,4 @@
-> **Canonical home:** [TrueAI — `docs/10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)
+> **Canonical home:** [TrueAI — `docs/10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # Certification Before Layered Governance

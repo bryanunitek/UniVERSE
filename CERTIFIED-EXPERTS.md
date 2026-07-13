@@ -44,7 +44,7 @@ Three distinct paths to holding a certificate exist:
 
 Bryan Fred, as Author and Creator of UniVERSE, TrueAI, and UniCORE-AI, holds the Solution Review certificate **by default**. This is a structural property of the Author/Creator role, not an issuance. The certifying authority (Unitek Systems Limited as originating organisation) and the certificate-holder (Bryan Fred as principal author) are the same originating identity, so issuance is not meaningful.
 
-The default-held certificate **passes to any successor** named under the [TrueAI whitepaper succession statement](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship), on the same default-held basis. Successors do not need to be re-certified; they inherit the certificate as part of inheriting the role.
+The default-held certificate **passes to any successor** named under the [TrueAI whitepaper succession statement](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship)), on the same default-held basis. Successors do not need to be re-certified; they inherit the certificate as part of inheriting the role.
 
 ### 2.2 Issued by direct nomination (interim regime)
 
@@ -82,7 +82,7 @@ There is no expiry mechanism. Certificates do not lapse with time and there is n
 
 ### 3.3 How to verify a certificate
 
-The canonical source of truth for any certificate is this file, in its **current state on the `main` branch of the [UniVERSE repository](https://github.com/bryanunitek/UniVERSE)** at the moment of verification. The Git history of this file records every issuance and every revocation as a signed commit; nothing else exists outside the public record.
+The canonical source of truth for any certificate is this file, in its **current state on the `main` branch of the [UniVERSE repository](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE))** at the moment of verification. The Git history of this file records every issuance and every revocation as a signed commit; nothing else exists outside the public record.
 
 For readers who want to confirm a name against the register but do not wish to work directly with Git, **two channels are provided by Unitek Systems Limited**:
 
@@ -177,7 +177,7 @@ The register is append-or-move-only. Existing rows are not edited in place to ch
 
 - The certification rule itself is published in [`docs/00059-Solution-Review.md`](docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly), in the 'About the certificate' block at the end of that sub-section.
 - The programme licence under which certificates are issued (and the only ground for revocation) is [`LICENSE.md`](LICENSE.md).
-- The Author/Creator role and the succession framework that governs the default-held certificate are published in the [TrueAI whitepaper §8 'Succession and stewardship'](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) and in [`SUCCESSION.md`](SUCCESSION.md) in this repository.
+- The Author/Creator role and the succession framework that governs the default-held certificate are published in the [TrueAI whitepaper §8 'Succession and stewardship'](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship)) and in [`SUCCESSION.md`](SUCCESSION.md) in this repository.
 - The originating-organisation status of Unitek Systems Limited (UK company 04228041) is named in [`STATEMENT-ON-CLAIMS.md`](STATEMENT-ON-CLAIMS.md) and across the programme attribution couplets.
 
 ---

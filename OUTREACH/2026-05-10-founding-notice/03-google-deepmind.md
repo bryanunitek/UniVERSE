@@ -30,9 +30,9 @@ This is the only recipient out of the twelve to confirm receipt with an auto-ack
 > Given, not sold. Irrevocable.
 >
 > Repositories:
->   https://github.com/bryanunitek/UniVERSE
->   https://github.com/bryanunitek/TrueAI
->   https://github.com/bryanunitek/UniCORE-AI
+>   https://git.unitek-systems.com/UniCORE/UniVERSE   (mirror: https://github.com/bryanunitek/UniVERSE)
+>   https://git.unitek-systems.com/UniCORE/TrueAI   (mirror: https://github.com/bryanunitek/TrueAI)
+>   https://git.unitek-systems.com/UniCORE/UniCORE-AI   (mirror: https://github.com/bryanunitek/UniCORE-AI)
 >
 > Mirror URLs (each resolves to the repository above):
 >   https://UnitekUniVERSE.com | .co.uk | .net | .ai

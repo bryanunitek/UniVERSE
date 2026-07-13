@@ -2,7 +2,7 @@
 
 The canonical TrueAI Foundation document for this doctrine lives at:
 
-**[`bryanunitek/TrueAI/THE-INCONSISTENCY-PROBLEM.md`](https://github.com/bryanunitek/TrueAI/blob/main/THE-INCONSISTENCY-PROBLEM.md)**
+**[`TrueAI/THE-INCONSISTENCY-PROBLEM.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/THE-INCONSISTENCY-PROBLEM.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/THE-INCONSISTENCY-PROBLEM.md))**
 
 This UniVERSE repository points at the canonical to avoid version skew across the foundation triad. The Inconsistency Problem is a TrueAI Foundation doctrine — the third pillar of Institutional AI doctrine, sitting alongside the audience pillar (Consumer vs Institutional AI) and the truth pillar (TrueAI truth contract).
 

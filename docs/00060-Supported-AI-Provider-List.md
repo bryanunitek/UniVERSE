@@ -24,7 +24,7 @@ whose models may power a **Claw** as defined in
   ([00058 §2.4](00058-Claw.md#24-pairedclaw)) inside any
   `UniCORE-<vertical>-Claw` Solution
   (for example,
-  [UniCORE.Law-Claw](https://github.com/bryanunitek/UniCORE.Law-Claw)
+  [UniCORE.Law-Claw](https://git.unitek-systems.com/UniCORE/UniCORE.Law-Claw) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.Law-Claw))
   for the Law sector).
 
 The provider is the substrate; the Claw is the governed interface
@@ -262,12 +262,12 @@ operational form.
   without renegotiating governance. New providers added to the
   list join the same governance envelope as the existing ones.
 - **Multi-Model Integration Framework**
-  ([UniVERSE 00025](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00025-Multi-Model-Integration-Framework.md))
+  ([UniVERSE 00025](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00025-Multi-Model-Integration-Framework.md), mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00025-Multi-Model-Integration-Framework.md))
   is the architectural framework for how UniCORE AI governs across
   multiple model families. This document is the **list of
   families** that framework applies to.
 - **Why the rules do not live in the prompt**
-  ([UniCORE-AI 20001](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md))
+  ([UniCORE-AI 20001](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md), mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md))
   is the reasoning for why a provider swap does not weaken
   governance.
 

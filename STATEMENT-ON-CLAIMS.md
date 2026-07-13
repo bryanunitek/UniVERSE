@@ -10,7 +10,7 @@ First published: 2026-05-13
 
 This statement defines how the **UniVERSE** name, the **TrueAI** name, and the **UniCORE AI** name may and may not be used in public, and sets binding rules for the UniVERSE GitHub Discussions space.
 
-The canonical statement for TrueAI-specific classification and claims is published in the TrueAI repository at [`STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md). This file extends the same rules across the wider programme.
+The canonical statement for TrueAI-specific classification and claims is published in the TrueAI repository at [`STATEMENT-ON-CLAIMS.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/STATEMENT-ON-CLAIMS.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md)). This file extends the same rules across the wider programme.
 
 ## What the programme is
 
@@ -34,7 +34,7 @@ It does not:
 - claim retroactive authority over earlier or unrelated uses of "UniVERSE", "TrueAI", "True AI", "UniCORE", "UniCORE AI", or similar terms by other parties;
 - substitute for the trademark registration and prior-use review that Unitek Systems Limited is conducting separately.
 
-Where this statement refers to **UniVERSE**, **TrueAI**, or **UniCORE AI**, it means the programme as published by Unitek Systems Limited from May 2026 — the work in this repository and its sibling repositories [TrueAI](https://github.com/bryanunitek/TrueAI) and [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI). It does not by itself extend over uses of similar names that pre-date that publication or that operate in unrelated classes.
+Where this statement refers to **UniVERSE**, **TrueAI**, or **UniCORE AI**, it means the programme as published by Unitek Systems Limited from May 2026 — the work in this repository and its sibling repositories [TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) and [UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)). It does not by itself extend over uses of similar names that pre-date that publication or that operate in unrelated classes.
 
 The binding rules in the sections below apply to that scope.
 

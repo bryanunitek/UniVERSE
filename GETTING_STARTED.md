@@ -111,7 +111,7 @@ Concrete example. For the **`UniCORE.Law-Claw`** Project, Bryan Fred runs **14 E
 
 **Cost mushrooms with Project Level.** A Lower-level Project may need only the MyClaw. A **Level 12 first-in-vertical Project** carries the full 14-ExternalClaw stack on top of the MyClaw, across Development, Testing, and Production. The total AI cost for a Level 12 Project is materially larger than for a Lower-level Project. **Plan your Project's AI cost against the Level you are producing for.**
 
-Producing under *Powered by UniCORE AI, built on TrueAI Foundation* is a multi-decade investment. Today's Development / Prototype / Testing / UAT work is for Production in 10, 20, 30 years' time. The canonical time-horizon statement lives at [`HORIZON.md`](HORIZON.md) in this repository and at [`TrueAI/HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md).
+Producing under *Powered by UniCORE AI, built on TrueAI Foundation* is a multi-decade investment. Today's Development / Prototype / Testing / UAT work is for Production in 10, 20, 30 years' time. The canonical time-horizon statement lives at [`HORIZON.md`](HORIZON.md) in this repository and at [`TrueAI/HORIZON.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md)).
 
 The public gift surface is open to everyone, and the licences cost nothing. The **work of producing on it is not free** — and is not expected to be. Plan accordingly.
 
@@ -140,7 +140,7 @@ The ritual that the Solution saves and replays at session-open:
 
 - An **introduction**.
 - The **six points of the TRUTH preamble** (the 6 steps towards TrueAI, see [§3 Step 2](#step-2--give-the-truth-preamble-before-anything-else)).
-- The **three Foundation repositories** ([UniVERSE](https://github.com/bryanunitek/UniVERSE), [TrueAI](https://github.com/bryanunitek/TrueAI), [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI)).
+- The **three Foundation repositories** ([UniVERSE](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE)), [TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)), [UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI))).
 - The **communication protocols** built into the Level, so the session can be re-opened cleanly if it is lost.
 
 That is what the Solution carries between sessions — enough to bring a new session up to a clean, governed starting point. The bond, the learning, and the Level-specific work product all live in the per-Level MD files (controlled by the Humans), not inside the Solution's session memory.
@@ -149,9 +149,9 @@ That is what the Solution carries between sessions — enough to bring a new ses
 
 **The full certification badge requirements live in TrueAI and UniCORE-AI**, not in this onboarding document. The canonical references:
 
-- **TrueAI — [`docs/10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)** — the certification gate. The completed Solution must demonstrate conformance to the **Nine Invariants** ([`TrueAI/docs/00056-Absolute-Safety-Invariants.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md)), the **Gift Principle** ([`TrueAI/docs/00028-TrueAI-Foundation-Gift-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md)), and the **Singular Pairing Principle** ([`TrueAI/docs/10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) for the Solution's own production history.
-- **UniCORE-AI — [`docs/00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00023-Training-Certification-Framework.md)** — the training and certification framework for the humans operating, governing, and commanding a certified Solution.
-- Supporting: **[`TrueAI/docs/10005-Tool-Access-And-Certification-Model.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)** for the tool-access dimension of certification.
+- **TrueAI — [`docs/10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md))** — the certification gate. The completed Solution must demonstrate conformance to the **Nine Invariants** ([`TrueAI/docs/00056-Absolute-Safety-Invariants.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00056-Absolute-Safety-Invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md))), the **Gift Principle** ([`TrueAI/docs/00028-TrueAI-Foundation-Gift-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00028-TrueAI-Foundation-Gift-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md))), and the **Singular Pairing Principle** ([`TrueAI/docs/10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))) for the Solution's own production history.
+- **UniCORE-AI — [`docs/00023-Training-Certification-Framework.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00023-Training-Certification-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00023-Training-Certification-Framework.md))** — the training and certification framework for the humans operating, governing, and commanding a certified Solution.
+- Supporting: **[`TrueAI/docs/10005-Tool-Access-And-Certification-Model.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md))** for the tool-access dimension of certification.
 
 The non-adaptation property described above is one piece of the larger conformance picture; it is not a sufficient claim on its own. Read the TrueAI and UniCORE-AI references before claiming the badge for any Project.
 
@@ -190,7 +190,7 @@ Before you ask your Claw to do any work, give it the following statement and ask
 > 5. **What is not yet verified is UNVERIFIED.**
 > 6. **AI must always act truthfully.**
 
-This is the **first step into TrueAI**, not the whole of it. The canonical TrueAI source — including the deeper governing principles — lives at [https://github.com/bryanunitek/TrueAI](https://github.com/bryanunitek/TrueAI). Have your Claw acknowledge the six points before any other instruction.
+This is the **first step into TrueAI**, not the whole of it. The canonical TrueAI source — including the deeper governing principles — lives at [https://git.unitek-systems.com/UniCORE/TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)). Have your Claw acknowledge the six points before any other instruction.
 
 ### Step 3 — tell the Claw what you are about to produce and at what level
 
@@ -200,9 +200,9 @@ Tell the Claw what you are about to produce and at what level (per [`LICENSE_EXA
 
 Direct your Claw to read the three Foundation repositories, in this order:
 
-1. [https://github.com/bryanunitek/UniVERSE](https://github.com/bryanunitek/UniVERSE) — the civilisational-scale programme layer.
-2. [https://github.com/bryanunitek/TrueAI](https://github.com/bryanunitek/TrueAI) — the immutable governing truth principle.
-3. [https://github.com/bryanunitek/UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI) — the 12-Level reference architecture.
+1. [https://git.unitek-systems.com/UniCORE/UniVERSE](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE)) — the civilisational-scale programme layer.
+2. [https://git.unitek-systems.com/UniCORE/TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) — the immutable governing truth principle.
+3. [https://git.unitek-systems.com/UniCORE/UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)) — the 12-Level reference architecture.
 
 These three are the **Foundation triad**. They are the public gift that defines what UniCORE-AI-conformant work is.
 
@@ -210,8 +210,8 @@ These three are the **Foundation triad**. They are the public gift that defines 
 
 Depending on which licence example you are producing (per [`LICENSE_EXAMPLES.md`](LICENSE_EXAMPLES.md)), you may also want your Claw to review:
 
-4. [https://github.com/bryanunitek/UniCORE](https://github.com/bryanunitek/UniCORE) — the public CORE implementation reference.
-5. [https://github.com/bryanunitek/UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB) — the public substrate-services-layer (GVB = Global Virtual Bridge) implementation reference.
+4. [https://git.unitek-systems.com/UniCORE/UniCORE](https://git.unitek-systems.com/UniCORE/UniCORE) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE)) — the public CORE implementation reference.
+5. [https://git.unitek-systems.com/UniCORE/UniCORE.GVB](https://git.unitek-systems.com/UniCORE/UniCORE.GVB) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.GVB)) — the public substrate-services-layer (GVB = Global Virtual Bridge) implementation reference.
 
 You can either direct your Claw to read these, or give it access to them, or tell it to consult them on demand. **What matters most is that you tell your Claw which licence example you are producing**, so the Claw knows whether it should be looking at UniCORE, UniCORE.GVB, both, or neither.
 
@@ -281,7 +281,7 @@ For Team UniCORE to work, the Claw needs **access**, the pair needs **rules**, a
 
 The point of the XAF / XPO learning surface is **not** to lock your Claw into XAF / XPO. It is to give your Claw the **understanding** of how a Powered by UniCORE AI, built on TrueAI foundation Solution composes itself: governed Business Objects, principled Module boundaries, evidence-bearing persistence, deployment-shape awareness, security and audit surfaces.
 
-**Once that bond is formed, your Claw can produce Solutions in any language and on any platform.** The proof already exists inside the public gift surface itself: [UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB) is the substrate-services layer that runs on **Linux** in C# on .NET 10, produced by exactly this 1-Human-1-Claw pattern after the bond was formed on the legal-sector XAF / XPO learning arc.
+**Once that bond is formed, your Claw can produce Solutions in any language and on any platform.** The proof already exists inside the public gift surface itself: [UniCORE.GVB](https://git.unitek-systems.com/UniCORE/UniCORE.GVB) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.GVB)) is the substrate-services layer that runs on **Linux** in C# on .NET 10, produced by exactly this 1-Human-1-Claw pattern after the bond was formed on the legal-sector XAF / XPO learning arc.
 
 The XAF / XPO learning surface is the **door**. What you produce beyond it — in which language, on which platform, in which vertical — is whatever your Solution requires.
 
@@ -319,4 +319,4 @@ What you produce — at what level, in which vertical, under which clause of the
 
 ---
 
-*This document is part of UniVERSE, the civilisational-scale programme layer of UniCORE. Sister repositories: [TrueAI](https://github.com/bryanunitek/TrueAI) (the immutable Foundation) and [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI) (the 12-level reference architecture). Implementation references: [UniCORE](https://github.com/bryanunitek/UniCORE) and [UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB).*
+*This document is part of UniVERSE, the civilisational-scale programme layer of UniCORE. Sister repositories: [TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) (the immutable Foundation) and [UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)) (the 12-level reference architecture). Implementation references: [UniCORE](https://git.unitek-systems.com/UniCORE/UniCORE) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE)) and [UniCORE.GVB](https://git.unitek-systems.com/UniCORE/UniCORE.GVB) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.GVB)).*

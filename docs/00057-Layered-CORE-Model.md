@@ -124,7 +124,7 @@ its original producer pair by many human generations. Two mechanisms
 carry it forward.
 
 The **Generation IT Succession charter**
-([TrueAI 10003](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
+([TrueAI 10003](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
 is the producer hand-off mechanism. It is not only a quality floor
 for initial production; it is the explicit path by which producer
 authority transfers from one generation of Generation IT producers
@@ -164,7 +164,7 @@ human generations, the substrate side carries forward across model
 generations. Both are required for the time horizon to hold.
 
 Full treatment in
-[UniCORE-AI 20002 — Compaction and Durable Continuity](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20002-Compaction-And-Durable-Continuity.md).
+[UniCORE-AI 20002 — Compaction and Durable Continuity](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/20002-Compaction-And-Durable-Continuity.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20002-Compaction-And-Durable-Continuity.md)).
 
 ---
 
@@ -335,19 +335,19 @@ programme. Several programme commitments depend on it:
   gifted. The Layered CORE model is the operational expression of
   that principle across multiple tiers and scope domains.
 - The **Singular Pairing Principle**
-  ([TrueAI 10001](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
+  ([TrueAI 10001](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
   binds production of Solutions and Scope-Domain COREs to one
   human + one AI per workstream. The Layered CORE model names the
   output tiers; Singular Pairing names the production unit.
 - **Certification Before Layered Governance**
-  ([TrueAI 10002](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md))
+  ([TrueAI 10002](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md))
   requires the Foundation to be in place before per-level
   governance documents are applied. This applies to every tier of
   CORE: a Vertical CORE may not have Region/Country/State/
   Organisation governance documents authored against it until that
   CORE itself has passed Certification.
 - **Generation IT Succession**
-  ([TrueAI 10003](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
+  ([TrueAI 10003](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
   binds the human side of the production pair to the Generation IT
   qualification standard. The first Vertical CORE in a vertical
   requires full-vertical-experience Generation IT; subsequent

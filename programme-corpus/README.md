@@ -2,7 +2,7 @@
 
 **The programme-horizon markdown content that Solutions deliver to paired Claws at session-opening time.**
 
-This folder holds the UniVERSE programme-level material that a Foundation-aligned Solution serves to a paired Claw alongside the Foundation requirements (from [TrueAI/foundation-requirements/](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements)) and the per-Level corpus (from [UniCORE-AI/levels/](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels)).
+This folder holds the UniVERSE programme-level material that a Foundation-aligned Solution serves to a paired Claw alongside the Foundation requirements (from [TrueAI/foundation-requirements/](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements)) and the per-Level corpus (from [UniCORE-AI/levels/](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels), mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels)).
 
 UniVERSE content is **not** Level-sliced; the programme view is the same for every Level. What `programme-corpus/` does is give Solutions a versioned, frozen, locally-deployable copy of the programme material so that the same content can be delivered to paired Claws without depending on live `docs/` reads.
 
@@ -24,7 +24,7 @@ Each subfolder (`v1/`, `v2/`, ...) is a **frozen version** of the programme corp
 - When the programme corpus refines, a new `v2/` subfolder is added alongside `v1/`. Previous versions remain readable.
 - Pairing-time version drift between a deployed Solution and the canonical head is surfaced to UNICOREMASTER per the failure ladder in [`docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md`](../docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md).
 
-This matches the same versioning discipline used by [TrueAI/foundation-requirements/](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements) and [UniCORE-AI/levels/](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels).
+This matches the same versioning discipline used by [TrueAI/foundation-requirements/](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements)) and [UniCORE-AI/levels/](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels)).
 
 ---
 

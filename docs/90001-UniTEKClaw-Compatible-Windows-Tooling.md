@@ -10,9 +10,9 @@
 
 ## 1. Purpose
 
-This document is the companion to [`10005-Tool-Access-And-Certification-Model.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md) §6.3. It lists Windows-compatible compilers and IDEs that UniTEKClaw's Claws operate with, beyond the Recommended stack (Visual Studio Professional Subscription, DevExpress Ultimate Subscription).
+This document is the companion to [`10005-Tool-Access-And-Certification-Model.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)) §6.3. It lists Windows-compatible compilers and IDEs that UniTEKClaw's Claws operate with, beyond the Recommended stack (Visual Studio Professional Subscription, DevExpress Ultimate Subscription).
 
-The list is **maintained operational reference**, not a Foundation rule. It updates as new compilers become available, as tooling versions are tested for compatibility, and as the Foundation's language-neutral posture (per [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §1) extends UniTEKClaw into new substrates.
+The list is **maintained operational reference**, not a Foundation rule. It updates as new compilers become available, as tooling versions are tested for compatibility, and as the Foundation's language-neutral posture (per [`00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §1) extends UniTEKClaw into new substrates.
 
 The list is **guidelines, not absolutes** (per `10005` §6 framing). A Certified UniCORE Expert may operate with a combination not listed here; the public Discussion forums on the Foundation repositories are where any questions or proposals are raised.
 
@@ -23,7 +23,7 @@ The list is **guidelines, not absolutes** (per `10005` §6 framing). A Certified
 UniTEKClaw supports development across two tracks, derived from the Foundation:
 
 1. **The enterprise reference track** — .NET 10 / C# / XAF / XPO, plus the ordinary web/data/scripting languages a Certified Expert encounters in normal Solution work.
-2. **The machine-level reference track** — C++ and the other machine-level languages enumerated in [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3, for firmware, embedded systems, real-time operating systems, robotic control, spacecraft avionics, and hardware-description targets (FPGA / ASIC).
+2. **The machine-level reference track** — C++ and the other machine-level languages enumerated in [`00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §3, for firmware, embedded systems, real-time operating systems, robotic control, spacecraft avionics, and hardware-description targets (FPGA / ASIC).
 
 The Claws operate across both tracks because the Foundation does. Governance must extend wherever the Solution operates.
 
@@ -33,7 +33,7 @@ The Claws operate across both tracks because the Foundation does. Governance mus
 
 ### 3.1 .NET / C# / XAF / XPO
 
-**Recommended (from [`10005`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md) §6.2):**
+**Recommended (from [`10005`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)) §6.2):**
 
 - **Visual Studio Professional Subscription** or higher edition (Enterprise). This is the canonical IDE for UniTEKClaw's own development and for producing applications that follow UniTEKClaw's pattern.
 - **DevExpress Ultimate Subscription** — the full XAF (eXpressApp Framework) and XPO (eXpress Persistent Objects) stack, plus the wider DevExpress component library.
@@ -91,7 +91,7 @@ UniTEKClaw users may use Python for data processing, scripting, scientific compu
 
 ### 3.4 SQL
 
-UniTEKClaw requires SQL Server Express at minimum (per [`10005`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md) §6.1). SQL development tooling is essential.
+UniTEKClaw requires SQL Server Express at minimum (per [`10005`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)) §6.1). SQL development tooling is essential.
 
 **Recommended:**
 
@@ -123,7 +123,7 @@ For Windows automation, build scripts, deployment, and operational glue.
 
 ## 4. Machine-level reference track tooling
 
-Per [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3, the Foundation supports C++ (primary machine-level reference), C, Rust, Ada / SPARK, Assembly, Verilog / VHDL, and any other machine-level language adopted by humans for safety-critical domains.
+Per [`00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §3, the Foundation supports C++ (primary machine-level reference), C, Rust, Ada / SPARK, Assembly, Verilog / VHDL, and any other machine-level language adopted by humans for safety-critical domains.
 
 UniTEKClaw operates with the toolchains for these languages on Windows. The Claws can pair with an Expert producing firmware, embedded systems, real-time operating systems, robotic control loops, spacecraft avionics, hibernation life-support controllers, or hardware-description code, the same way they pair on .NET work.
 
@@ -195,7 +195,7 @@ For aerospace, defence, and safety-critical work where SPARK's formal verificati
 
 ### 4.5 Assembly
 
-For low-level work where high-level languages are insufficient, bounded and reviewed per [`00029`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3.
+For low-level work where high-level languages are insufficient, bounded and reviewed per [`00029`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §3.
 
 **Tooling:**
 
@@ -209,7 +209,7 @@ For cross-architecture work (ARM assembly, RISC-V assembly), the same GCC / LLVM
 
 ### 4.6 Verilog / VHDL (hardware description)
 
-For FPGA / ASIC enforcement of governance, per [`00029`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §5.3.
+For FPGA / ASIC enforcement of governance, per [`00029`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §5.3.
 
 **Recommended (vendor-specific, depending on target FPGA):**
 
@@ -227,7 +227,7 @@ For FPGA / ASIC enforcement of governance, per [`00029`](https://github.com/brya
 
 ### 4.7 Other machine-level languages
 
-Per [`00029`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3, the Foundation accepts "any other machine-level language adopted by humans for safety-critical domains." If an Expert is producing Foundation-aligned work in a language not listed above, the Discussion forums on the Foundation repositories are the place to propose its addition to this document.
+Per [`00029`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §3, the Foundation accepts "any other machine-level language adopted by humans for safety-critical domains." If an Expert is producing Foundation-aligned work in a language not listed above, the Discussion forums on the Foundation repositories are the place to propose its addition to this document.
 
 Candidate languages that may be added as use cases arise:
 
@@ -255,7 +255,7 @@ Independent of language, UniTEKClaw users will use:
 - **Docker Desktop for Windows** — for containerised Solutions.
 - **Podman Desktop** — alternative to Docker Desktop.
 - **WSL 2** — Microsoft's Linux subsystem; useful for Linux-targeted Solutions and for running Unix toolchains natively.
-- **Hyper-V** / **VirtualBox** / **VMware Workstation** — for the separate-machine boundary in [`10005`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md) §3.6, or for virtualised test targets. (Note: virtualisation is not a substitute for the physical separate machine required for non-Foundation work; see `10005` §3.6.)
+- **Hyper-V** / **VirtualBox** / **VMware Workstation** — for the separate-machine boundary in [`10005`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)) §3.6, or for virtualised test targets. (Note: virtualisation is not a substitute for the physical separate machine required for non-Foundation work; see `10005` §3.6.)
 
 ### 5.3 Editors that work across all languages
 
@@ -279,7 +279,7 @@ When a Certified Expert works **inside** UniTEKClaw, the paired AgentClaw is the
 - **Cloud provider tooling.** AWS, Azure, GCP, and other cloud SDKs and CLIs are language-agnostic and are not enumerated here.
 - **Test frameworks.** xUnit / NUnit / MSTest / FluentAssertions / Moq / Bogus / Verify and their counterparts in other languages are testing concerns, not compiler / IDE concerns.
 - **Static analysis and linters.** SonarQube, Roslyn analysers, clang-tidy, cppcheck, pylint, rustfmt, and the rest are quality concerns, recommended but not gated here.
-- **The Foundation language-neutral posture itself.** That is locked in [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §1. This document is operational reference, not Foundation policy.
+- **The Foundation language-neutral posture itself.** That is locked in [`00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §1. This document is operational reference, not Foundation policy.
 
 ---
 
@@ -287,9 +287,9 @@ When a Certified Expert works **inside** UniTEKClaw, the paired AgentClaw is the
 
 | Document | Relationship |
 |---|---|
-| [`10005-Tool-Access-And-Certification-Model.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md) | §6.3 references this document as the Alternative tier of the three-tier software prerequisites |
-| [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) | §3 enumerates the machine-level languages this document provides tooling lists for |
-| [`00060-Supported-AI-Provider-List.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00060-Supported-AI-Provider-List.md) | Companion list for AI providers (Anthropic, OpenAI, etc.) the paired AgentClaw inside UniTEKClaw can connect to; this document lists compilers / IDEs the Expert pairs with the AgentClaw to use |
+| [`10005-Tool-Access-And-Certification-Model.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)) | §6.3 references this document as the Alternative tier of the three-tier software prerequisites |
+| [`00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) | §3 enumerates the machine-level languages this document provides tooling lists for |
+| [`00060-Supported-AI-Provider-List.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00060-Supported-AI-Provider-List.md)) | Companion list for AI providers (Anthropic, OpenAI, etc.) the paired AgentClaw inside UniTEKClaw can connect to; this document lists compilers / IDEs the Expert pairs with the AgentClaw to use |
 
 ---
 

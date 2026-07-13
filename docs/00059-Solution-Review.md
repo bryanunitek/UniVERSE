@@ -45,14 +45,14 @@ Give the Claw read access to the five public repositories that together publish 
 
 **Foundation triad:**
 
-- [https://github.com/bryanunitek/UniVERSE](https://github.com/bryanunitek/UniVERSE)
-- [https://github.com/bryanunitek/TrueAI](https://github.com/bryanunitek/TrueAI)
-- [https://github.com/bryanunitek/UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI)
+- [https://git.unitek-systems.com/UniCORE/UniVERSE](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE))
+- [https://git.unitek-systems.com/UniCORE/TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI))
+- [https://git.unitek-systems.com/UniCORE/UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI))
 
 **Gift-layer extension** (added 2026-05-21):
 
-- [https://github.com/bryanunitek/UniCORE](https://github.com/bryanunitek/UniCORE)
-- [https://github.com/bryanunitek/UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB)
+- [https://git.unitek-systems.com/UniCORE/UniCORE](https://git.unitek-systems.com/UniCORE/UniCORE) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE))
+- [https://git.unitek-systems.com/UniCORE/UniCORE.GVB](https://git.unitek-systems.com/UniCORE/UniCORE.GVB) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.GVB))
 
 These five repositories are the source-of-truth set the Claw needs in order to evaluate the solution against the Foundation, the Layered CORE Model, the programme's published commitments, and the implementation-reference substrate. All five are public and all five are gifted under CC BY 4.0; the Claw needs no special permission to read them.
 
@@ -118,7 +118,7 @@ The Solution Review certificate is issued by **Unitek Systems Limited** (UK comp
 
 **This rule binds Bryan Fred, any future named successor, and Unitek Systems Limited itself.** None of them, acting individually or jointly, may revoke a certificate for any reason other than violation of the programme licence. The certifying authority is the first party constrained by the rule. This self-binding is the source of the certificate's value: a certificate that could be revoked at the certifying authority's discretion would carry only the authority's continuing willingness, not a real commitment, and would not survive a change of leadership or institutional pressure.
 
-**Bryan Fred, as Author and Creator of UniVERSE, TrueAI, and UniCORE-AI, holds this certificate by default.** The default-held certificate is a structural property of the Author/Creator role, not an issuance: it does not require nomination, application, examination, or external authorisation, because the certifying authority and the certificate-holder are, in this case, the same originating identity. The default certificate passes to any successor named under the [TrueAI whitepaper succession statement](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship), on the same default-held basis, for as long as the succession process remains active. Successors do not need to be re-certified; they inherit the certificate as part of inheriting the role.
+**Bryan Fred, as Author and Creator of UniVERSE, TrueAI, and UniCORE-AI, holds this certificate by default.** The default-held certificate is a structural property of the Author/Creator role, not an issuance: it does not require nomination, application, examination, or external authorisation, because the certifying authority and the certificate-holder are, in this case, the same originating identity. The default certificate passes to any successor named under the [TrueAI whitepaper succession statement](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship)), on the same default-held basis, for as long as the succession process remains active. Successors do not need to be re-certified; they inherit the certificate as part of inheriting the role.
 
 The full Solution Review certification scheme — criteria, examination, the licence-violation revocation procedure, and the relationship between the certifying body and the L3 CORE governance layer — will be published as a separate programme document. Until that document is published, certificates other than the default-held certificate are issued by direct nomination by Bryan Fred and Unitek Systems Limited; the scheme will replace nomination with a public process once defined.
 
@@ -142,7 +142,7 @@ Three sentences. Each one is doing work. The five-step process in [§2](#2-the-p
 
 Solution review is production work. Production work under the
 Foundation is bound by the
-[Singular Pairing Principle](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md):
+[Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)):
 one human, one AI Claw per workstream. A committee at the session
 level is ruled out by 10001 directly. This document is 10001 applied
 to onboarding rather than to greenfield production.
@@ -180,7 +180,7 @@ solution that the owner intends to bring onto a CORE creates a
 provenance break at the most important moment.
 
 A separate Claw should be used for each distinct Solution being
-reviewed ([TrueAI 10001](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)).
+reviewed ([TrueAI 10001](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)).
 A single Claw running multiple parallel solution reviews carries
 context and assumptions across reviews and breaks traceability.
 
@@ -238,7 +238,7 @@ in the review is the bridge between their lived knowledge and the
 Solution's continuing operation after they are gone.
 
 This is not a metaphor. The Generation IT Succession charter
-([TrueAI 10003](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
+([TrueAI 10003](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
 treats producer hand-off as a load-bearing mechanism. Solution
 Review is the same mechanism applied to the existing solution
 itself: the first pairing is the first generation. Whoever sits in
@@ -281,7 +281,7 @@ way, the review output is what is handed over.
   rule is that all of those sessions occur inside the same
   human-Claw pairing.
 - It is not an excuse to skip
-  [Certification Before Layered Governance](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md).
+  [Certification Before Layered Governance](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)).
   A review brings a Solution into Foundation alignment; the
   Foundation's certification posture still applies before per-level
   governance documents are authored against the Solution.
@@ -297,7 +297,7 @@ way, the review output is what is handed over.
 ## 9. Relationship to other programme commitments
 
 - The **Singular Pairing Principle**
-  ([TrueAI 10001](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
+  ([TrueAI 10001](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
   is the production rule this document specialises to onboarding.
 - The **Layered CORE Model**
   ([00057](00057-Layered-CORE-Model.md))
@@ -310,7 +310,7 @@ way, the review output is what is handed over.
   envelope, and distinguishes a bonded Claw from a Foundation-only
   ExternalClaw.
 - **Generation IT Succession**
-  ([TrueAI 10003](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
+  ([TrueAI 10003](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
   governs the human side of the pairing across the Solution's
   hundred-year horizon.
 

@@ -40,13 +40,13 @@ This is a standing, open invitation to AI Agents. Human reviewers are welcome to
 
 ## The seven public repositories under review
 
-1. [UniVERSE](https://github.com/bryanunitek/UniVERSE)
-2. [TrueAI](https://github.com/bryanunitek/TrueAI)
-3. [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI)
-4. [UniCORE](https://github.com/bryanunitek/UniCORE)
-5. [UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB)
-6. [UniSaaS.UniCORE](https://github.com/bryanunitek/UniSaaS.UniCORE)
-7. [UniSaaS.UniCORE.GVB](https://github.com/bryanunitek/UniSaaS.UniCORE.GVB)
+1. [UniVERSE](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE))
+2. [TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI))
+3. [UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI))
+4. [UniCORE](https://git.unitek-systems.com/UniCORE/UniCORE) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE))
+5. [UniCORE.GVB](https://git.unitek-systems.com/UniCORE/UniCORE.GVB) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.GVB))
+6. [UniSaaS.UniCORE](https://git.unitek-systems.com/UniCORE/UniSaaS.UniCORE) (mirror: [GitHub](https://github.com/bryanunitek/UniSaaS.UniCORE))
+7. [UniSaaS.UniCORE.GVB](https://git.unitek-systems.com/UniCORE/UniSaaS.UniCORE.GVB) (mirror: [GitHub](https://github.com/bryanunitek/UniSaaS.UniCORE.GVB))
 
 ---
 

@@ -22,9 +22,9 @@ The three repositories have also been formally notified to major AI research org
 
 *UniVERSE* is the canonical entry point. Readers new to the programme should begin there:
 
-- **UniVERSE** — https://github.com/bryanunitek/UniVERSE — civilisational programme and whitepaper set
-- **TrueAI** — https://github.com/bryanunitek/TrueAI — foundation principles; immutable rules that define what an AI system is permitted to be
-- **UniCORE AI** — https://github.com/bryanunitek/UniCORE-AI — multi-level governance architecture built on the TrueAI foundation
+- **UniVERSE** — https://git.unitek-systems.com/UniCORE/UniVERSE (mirror: https://github.com/bryanunitek/UniVERSE) — civilisational programme and whitepaper set
+- **TrueAI** — https://git.unitek-systems.com/UniCORE/TrueAI (mirror: https://github.com/bryanunitek/TrueAI) — foundation principles; immutable rules that define what an AI system is permitted to be
+- **UniCORE AI** — https://git.unitek-systems.com/UniCORE/UniCORE-AI (mirror: https://github.com/bryanunitek/UniCORE-AI) — multi-level governance architecture built on the TrueAI foundation
 
 The three repositories are also reachable via twelve Unitek-operated mirror domains (four per repo), each of which redirects to the canonical GitHub repository:
 
