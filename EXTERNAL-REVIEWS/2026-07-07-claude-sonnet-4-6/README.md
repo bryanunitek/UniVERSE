@@ -39,23 +39,23 @@ The review is delivered as a sequence of documents, each examining one aspect of
 
 | # | Title | File |
 |---|-------|------|
-| 00 | My unified view of the UniCORE ecosystem | [00](./00-unified-view.md) |
-| 01 | The Three Pillars — structural assessment | [01](./01-three-pillars.md) |
-| 02 | The Nine Invariants — a line-by-line examination | [02](./02-nine-invariants.md) |
-| 03 | The Truth Contract — TRUE/FALSE/UNVERIFIED as a system | [03](./03-truth-contract.md) |
-| 04 | The Inconsistency Problem — is it solved? | [04](./04-inconsistency-problem.md) |
-| 05 | The 12-Level Governance Model — architecture review | [05](./05-twelve-level-model.md) |
-| 06 | The Gift Principle — irrevocability and gift propagation | [06](./06-gift-principle.md) |
-| 07 | The Certification Gate — the load-bearing question | [07](./07-certification-gate.md) |
-| 08 | The Scale of the Programme — what the fleet tells us | [08](./08-programme-scale.md) |
-| 09 | The Deployment Architecture — on-prem and SaaS duality | [09](./09-deployment-architecture.md) |
-| 10 | The External Review Process — assessment of this surface | [10](./10-external-review-process.md) |
-| 11 | Honest Framing — what it means to name your own limits | [11](./11-honest-framing.md) |
-| 12 | Open questions for a second pass | [12](./12-open-questions.md) |
-| 13 | My verdict | [13](./13-verdict.md) |
+| 00 | My unified view of the UniCORE ecosystem | [00](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/00-unified-view.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/00-unified-view.md)) |
+| 01 | The Three Pillars — structural assessment | [01](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/01-three-pillars.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/01-three-pillars.md)) |
+| 02 | The Nine Invariants — a line-by-line examination | [02](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/02-nine-invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/02-nine-invariants.md)) |
+| 03 | The Truth Contract — TRUE/FALSE/UNVERIFIED as a system | [03](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/03-truth-contract.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/03-truth-contract.md)) |
+| 04 | The Inconsistency Problem — is it solved? | [04](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/04-inconsistency-problem.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/04-inconsistency-problem.md)) |
+| 05 | The 12-Level Governance Model — architecture review | [05](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/05-twelve-level-model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/05-twelve-level-model.md)) |
+| 06 | The Gift Principle — irrevocability and gift propagation | [06](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/06-gift-principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/06-gift-principle.md)) |
+| 07 | The Certification Gate — the load-bearing question | [07](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/07-certification-gate.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/07-certification-gate.md)) |
+| 08 | The Scale of the Programme — what the fleet tells us | [08](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/08-programme-scale.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/08-programme-scale.md)) |
+| 09 | The Deployment Architecture — on-prem and SaaS duality | [09](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/09-deployment-architecture.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/09-deployment-architecture.md)) |
+| 10 | The External Review Process — assessment of this surface | [10](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/10-external-review-process.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/10-external-review-process.md)) |
+| 11 | Honest Framing — what it means to name your own limits | [11](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/11-honest-framing.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/11-honest-framing.md)) |
+| 12 | Open questions for a second pass | [12](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/12-open-questions.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/12-open-questions.md)) |
+| 13 | My verdict | [13](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/13-verdict.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/13-verdict.md)) |
 
-Full capture record: [MANIFEST.md](./MANIFEST.md)
+Full capture record: [MANIFEST.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/MANIFEST.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/2026-07-07-claude-sonnet-4-6/MANIFEST.md))
 
 ---
 
-Part of [UniVERSE › External Reviews](../README.md). Given, not sold. Irrevocable. Licensed under CC BY 4.0.
+Part of [UniVERSE › External Reviews](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/README.md)). Given, not sold. Irrevocable. Licensed under CC BY 4.0.

@@ -216,9 +216,9 @@ Each repository carries this Full Formal Statement at its root, alongside its li
 
 Companion documents published at the root of each repository:
 
-- [HORIZON.md](HORIZON.md) — the author's time-horizon statement.
-- [SUCCESSION.md](SUCCESSION.md) — stewardship and succession.
-- [LANDSCAPE.md](LANDSCAPE.md) — where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape, compared against the published frameworks of OpenAI, Anthropic, Google DeepMind, Microsoft, Meta, and others.
+- [HORIZON.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/HORIZON.md)) — the author's time-horizon statement.
+- [SUCCESSION.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/SUCCESSION.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md)) — stewardship and succession.
+- [LANDSCAPE.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LANDSCAPE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md)) — where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape, compared against the published frameworks of OpenAI, Anthropic, Google DeepMind, Microsoft, Meta, and others.
 
 ---
 

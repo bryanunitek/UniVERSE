@@ -14,7 +14,7 @@ A 30-year programme from apprentice to certified producer. A public foundation g
 
 *This is **UniVERSE**, the civilisational-scale programme layer of UniCORE. Sister repositories: [TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) (the immutable Foundation) and [UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)) (the 12-level reference architecture).*
 
-*New to producing on the public gift surface? Start with [GETTING_STARTED.md](GETTING_STARTED.md).*
+*New to producing on the public gift surface? Start with [GETTING_STARTED.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/GETTING_STARTED.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/GETTING_STARTED.md)).*
 
 ---
 
@@ -187,7 +187,7 @@ Attribution required wherever UniCORE AI, the TrueAI Foundation, or the 12-Level
 
 ## Licence
 
-Given, not sold. The core architecture is public, open, and free. The TrueAI Foundation cannot be modified, forked, commercialised, patented, or proprietarily captured. See [FULL_FORMAL_STATEMENT.md](FULL_FORMAL_STATEMENT.md) for complete terms.
+Given, not sold. The core architecture is public, open, and free. The TrueAI Foundation cannot be modified, forked, commercialised, patented, or proprietarily captured. See [FULL_FORMAL_STATEMENT.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/FULL_FORMAL_STATEMENT.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/FULL_FORMAL_STATEMENT.md)) for complete terms.
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.
 
@@ -211,7 +211,7 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 ## Discuss and contribute
 
-Programme-level debate, adoption questions, translation, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
+Programme-level debate, adoption questions, translation, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions). See [DISCUSSIONS.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/DISCUSSIONS.md)) for what the space is for, what it is not for, and how to take part.
 
 ## Classification, brand, and claims
 
@@ -219,7 +219,7 @@ UniVERSE, TrueAI, and UniCORE AI are governance work, not products, platforms, S
 
 ## Landscape
 
-Where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape — a structural comparison against the published governance frameworks of OpenAI, Anthropic, Google DeepMind, Microsoft, Meta, and others. See [LANDSCAPE.md](LANDSCAPE.md) for the comparison and what it shows.
+Where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape — a structural comparison against the published governance frameworks of OpenAI, Anthropic, Google DeepMind, Microsoft, Meta, and others. See [LANDSCAPE.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LANDSCAPE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md)) for the comparison and what it shows.
 
 ## Horizon
 
@@ -227,24 +227,24 @@ The UniVERSE programme materials are ready to cite, challenge, and build against
 
 ## AI authorship
 
-This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](AI-AUTHORSHIP.md).
+This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/AI-AUTHORSHIP.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/AI-AUTHORSHIP.md)).
 
 ## Deployment principles
 
 Two deployment-topology principles govern how UniCORE Solutions must be produced and certified before layered governance is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical home for both is the **TrueAI Foundation**; mirror copies live here for programme-level reading.
 
-- [**Singular Pairing Principle**](docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
+- [**Singular Pairing Principle**](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10001-Singular-Pairing-Principle.md)) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10002-Certification-Before-Layered-Governance.md)) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern.
 
 ## Succession
 
-Stewardship of the programme is recorded in [SUCCESSION.md](SUCCESSION.md). The named successor (when nominated) is recorded there; the fallback procedure is set out in the same document. The gift principle is not subject to succession — it has already been given.
+Stewardship of the programme is recorded in [SUCCESSION.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/SUCCESSION.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md)). The named successor (when nominated) is recorded there; the fallback procedure is set out in the same document. The gift principle is not subject to succession — it has already been given.
 
 ## Certified Experts
 
-Practitioners authorised to provide **Solution Review** and other delegated programme services on behalf of Unitek Systems Limited are listed in [CERTIFIED-EXPERTS.md](CERTIFIED-EXPERTS.md). The register is the canonical public record of who currently holds (or has held) a Solution Review certificate. The certification rule itself is set out in [`docs/00059-Solution-Review.md`](docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly).
+Practitioners authorised to provide **Solution Review** and other delegated programme services on behalf of Unitek Systems Limited are listed in [CERTIFIED-EXPERTS.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/CERTIFIED-EXPERTS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md)). The register is the canonical public record of who currently holds (or has held) a Solution Review certificate. The certification rule itself is set out in [`docs/00059-Solution-Review.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00059-Solution-Review.md#if-the-solution-owner-cannot-operate-the-claw-directly)).
 
 ## Contact
 
-- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
+- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniVERSE/discussions) (see [DISCUSSIONS.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/DISCUSSIONS.md)))
 - **Private contact / connection request:** [LinkedIn](https://www.linkedin.com/in/bryan-fred-02209753/)

@@ -66,4 +66,4 @@ This review is named to **Claude Sonnet** as a Claw identity, designated L3 revi
 
 ---
 
-*Part of [UniVERSE](../../README.md). Given, not sold. Irrevocable. Licensed under CC BY 4.0.*
+*Part of [UniVERSE](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/README.md)). Given, not sold. Irrevocable. Licensed under CC BY 4.0.*

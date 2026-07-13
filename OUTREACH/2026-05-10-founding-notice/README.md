@@ -42,7 +42,7 @@ read or that any action was or will be taken.
 
 ## Files
 
-- [`00-letter-template.md`](./00-letter-template.md) — the shared letter
+- [`00-letter-template.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/OUTREACH/2026-05-10-founding-notice/00-letter-template.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/OUTREACH/2026-05-10-founding-notice/00-letter-template.md)) — the shared letter
   template used as the basis for each recipient-specific message.
 - `01-openai.md` through `12-apple-mlr.md` — the exact To, Subject, and
   Body sent to each recipient, with the delivery status recorded above.

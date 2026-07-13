@@ -18,9 +18,9 @@ that first human determines what knowledge survives the first
 generation of the Solution.
 
 It is a companion to
-[00057 Layered CORE Model](00057-Layered-CORE-Model.md) (which
+[00057 Layered CORE Model](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md)) (which
 defines the Solutions tier and its time horizon) and
-[00058 Claw](00058-Claw.md) (which defines the governed channel the
+[00058 Claw](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) (which defines the governed channel the
 human pairs with).
 
 ---
@@ -36,8 +36,8 @@ The person on the human side of the pairing is the one with the most experience 
 ### B. One Claw
 
 The AI side of the pairing is one **Claw** — a governed human-AI channel as defined in
-[00058 §2.1](00058-Claw.md#21-claw), bonded into the Solution as a **PairedClaw**
-([00058 §2.4](00058-Claw.md#24-pairedclaw)) for the duration of the review. The bond is what brings the Claw into the Solution's audit and policy envelope; without an active PairedClaw, output cannot carry the Solution-side governance the review needs to inherit. One PairedClaw, one Solution, one review.
+[00058 §2.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#21-claw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#21-claw)), bonded into the Solution as a **PairedClaw**
+([00058 §2.4](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#24-pairedclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#24-pairedclaw))) for the duration of the review. The bond is what brings the Claw into the Solution's audit and policy envelope; without an active PairedClaw, output cannot carry the Solution-side governance the review needs to inherit. One PairedClaw, one Solution, one review.
 
 ### C. Give the Claw access to the five public repositories
 
@@ -70,7 +70,7 @@ The upload is the input the Claw works against in step E. The size and shape of 
 
 ### E. Ask the Claw to review and advise
 
-The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE.Law-Claw — see [00057 §2](00057-Layered-CORE-Model.md#2-the-four-tiers)).
+The human asks the Claw, in their own words, to review the uploaded solution and advise on how it fits into the UniVERSE programme — specifically into the **TrueAI Foundation**, **UniCORE AI**, and any relevant **L3 Scope-Domain CORE** (for Law-sector solutions, that means UniCORE.Law-Claw — see [00057 §2](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md#2-the-four-tiers) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md#2-the-four-tiers))).
 
 The Claw's first response is the start of the review, not the end of it. From step E onward, **the rest is between the human and the Claw** — to discuss, to refine, to argue with, to push back on, and to move toward the future together. The programme provides the Foundation, the architecture, and the Layered CORE Model as the framing material; the human and the Claw produce the review output ([§7](#7-what-the-review-produces)) inside that framing, on their own working rhythm.
 
@@ -105,7 +105,7 @@ The expert is a conduit, not a substitute. The institutional memory the review d
 
 - Operate as a Solution Review provider without a current Unitek Systems Limited certificate. The certificate is the marker that distinguishes a programme-recognised expert from a practitioner who has merely read the public repositories.
 - Invent institutional memory the solution owner has not supplied. If the owner has not answered a question, the answer is *unknown to this review*; it is not the expert's guess.
-- Operate the pairing through an ExternalClaw without an active PairedClaw bond ([00058 §2.3](00058-Claw.md#23-externalclaw)). The Claw used in a delegated review is still a governed Claw and must be bonded into the Solution as a PairedClaw ([00058 §2.4](00058-Claw.md#24-pairedclaw)) for the duration of the review, so it inherits the same governance the direct case is bound by.
+- Operate the pairing through an ExternalClaw without an active PairedClaw bond ([00058 §2.3](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#23-externalclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw))). The Claw used in a delegated review is still a governed Claw and must be bonded into the Solution as a PairedClaw ([00058 §2.4](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#24-pairedclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#24-pairedclaw))) for the duration of the review, so it inherits the same governance the direct case is bound by.
 - Claim the review as their own work. The output is the solution owner's review of their solution, conducted with expert assistance. The attribution couplet ([§7](#7-what-the-review-produces)) reflects that.
 
 A delegated review honours [§6](#6-why-the-most-experienced-human) — the principle that the most experienced human matters — rather than working around it. It says: when the most experienced human cannot also be the most available one, the programme provides a way to bring their knowledge into the pairing through an expert who carries the governance in on their behalf.
@@ -114,7 +114,7 @@ A delegated review honours [§6](#6-why-the-most-experienced-human) — the prin
 
 The Solution Review certificate is issued by **Unitek Systems Limited** (UK company 04228041), as the originating organisation of UniVERSE, TrueAI, and UniCORE-AI. The certificate names the practitioner and the L3 Scope-Domain CORE (or COREs) under which the practitioner is authorised to provide Solution Review services.
 
-**Once issued, a Solution Review certificate cannot be revoked.** This follows the same gift-principle reasoning that applies to the foundation as a whole: what has been given is not subject to withdrawal. The single, narrow exception is **violation of the [programme licence](../LICENSE.md)** — for example, treating programme materials as commercial property, removing or falsifying attribution, or using the certificate to misrepresent the programme. A revocation on those grounds ends the practitioner's future authorisation to provide delegated Solution Review under the programme name. It does not invalidate work already completed, published, and certified under the previously-current certificate. There is no expiry date on the certificate; certificates do not lapse with time and there is no renewal process. The public register at [`CERTIFIED-EXPERTS.md`](../CERTIFIED-EXPERTS.md) carries an engagement status (Active / Expired) alongside each entry as a register-accuracy mechanism; that status reflects recent participation only, and does not affect the validity of the certificate itself.
+**Once issued, a Solution Review certificate cannot be revoked.** This follows the same gift-principle reasoning that applies to the foundation as a whole: what has been given is not subject to withdrawal. The single, narrow exception is **violation of the [programme licence](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LICENSE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LICENSE.md))** — for example, treating programme materials as commercial property, removing or falsifying attribution, or using the certificate to misrepresent the programme. A revocation on those grounds ends the practitioner's future authorisation to provide delegated Solution Review under the programme name. It does not invalidate work already completed, published, and certified under the previously-current certificate. There is no expiry date on the certificate; certificates do not lapse with time and there is no renewal process. The public register at [`CERTIFIED-EXPERTS.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/CERTIFIED-EXPERTS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md)) carries an engagement status (Active / Expired) alongside each entry as a register-accuracy mechanism; that status reflects recent participation only, and does not affect the validity of the certificate itself.
 
 **This rule binds Bryan Fred, any future named successor, and Unitek Systems Limited itself.** None of them, acting individually or jointly, may revoke a certificate for any reason other than violation of the programme licence. The certifying authority is the first party constrained by the rule. This self-binding is the source of the certificate's value: a certificate that could be revoked at the certifying authority's discretion would carry only the authority's continuing willingness, not a real commitment, and would not survive a change of leadership or institutional pressure.
 
@@ -122,9 +122,9 @@ The Solution Review certificate is issued by **Unitek Systems Limited** (UK comp
 
 The full Solution Review certification scheme — criteria, examination, the licence-violation revocation procedure, and the relationship between the certifying body and the L3 CORE governance layer — will be published as a separate programme document. Until that document is published, certificates other than the default-held certificate are issued by direct nomination by Bryan Fred and Unitek Systems Limited; the scheme will replace nomination with a public process once defined.
 
-**Certification work happens in [Discussions](../DISCUSSIONS.md).** Certification steps begin there. Over time, certifications will be given as part of Discussions: nominations, the reasoning behind them, and the issuance event itself will be visible there. This is also the on-ramp by which **university students, junior consultants, and mid-career practitioners** contribute to UniVERSE, TrueAI, and UniCORE-AI, build the public track record the certifying body weighs, and grow into the work the AI Enterprise Solutions of the future will require. The Senior-level requirement in [§6](#6-why-the-most-experienced-human) above is role-specific, not a barrier to entering the programme: it applies to the Solution Review role itself, because that role depends on the deepest available institutional memory of the solution being reviewed. Certification opens the wider door.
+**Certification work happens in [Discussions](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/DISCUSSIONS.md)).** Certification steps begin there. Over time, certifications will be given as part of Discussions: nominations, the reasoning behind them, and the issuance event itself will be visible there. This is also the on-ramp by which **university students, junior consultants, and mid-career practitioners** contribute to UniVERSE, TrueAI, and UniCORE-AI, build the public track record the certifying body weighs, and grow into the work the AI Enterprise Solutions of the future will require. The Senior-level requirement in [§6](#6-why-the-most-experienced-human) above is role-specific, not a barrier to entering the programme: it applies to the Solution Review role itself, because that role depends on the deepest available institutional memory of the solution being reviewed. Certification opens the wider door.
 
-The public register of current and revoked Solution Review certificate-holders is maintained in [`CERTIFIED-EXPERTS.md`](../CERTIFIED-EXPERTS.md) at the root of this repository. Any practitioner offering Solution Review as a delegated service should be checkable against that register; if their name is not in the register, they are not certified within the meaning of this document.
+The public register of current and revoked Solution Review certificate-holders is maintained in [`CERTIFIED-EXPERTS.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/CERTIFIED-EXPERTS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md)) at the root of this repository. Any practitioner offering Solution Review as a delegated service should be checkable against that register; if their name is not in the register, they are not certified within the meaning of this document.
 
 ---
 
@@ -164,14 +164,14 @@ Solution sits under.
 ## 5. Why one Claw
 
 A Claw carries the governance of the layer it serves
-([00058 §2.1](00058-Claw.md#21-claw)). A review of an existing solution
+([00058 §2.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#21-claw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#21-claw))). A review of an existing solution
 needs to happen *inside* that governance envelope, because the
 output of the review will be claimed as Foundation-aligned work and
 will be audited as such.
 
 An ExternalClaw operating without a PairedClaw bond is the wrong
-tool for this work ([00058 §2.3](00058-Claw.md#23-externalclaw),
-[§2.4](00058-Claw.md#24-pairedclaw)). Without an active PairedClaw
+tool for this work ([00058 §2.3](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#23-externalclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw)),
+[§2.4](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#24-pairedclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#24-pairedclaw))). Without an active PairedClaw
 the Claw is Foundation-governed but not Solution-governed: no
 Solution-side attribution couplet, no L3 CORE audit trail against
 Solution rules. Output from a Foundation-only ExternalClaw cannot be
@@ -227,7 +227,7 @@ generations. That surfacing is the point of the review.
 
 A Foundation-aligned Solution is meant to last one hundred years,
 one thousand years
-([00057 §2 Time horizon of a Solution](00057-Layered-CORE-Model.md#time-horizon-of-a-solution)).
+([00057 §2 Time horizon of a Solution](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md#time-horizon-of-a-solution) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md#time-horizon-of-a-solution))).
 Across a horizon of that length, the institutional memory entering
 the system at the first pairing is the seed of everything the
 Solution will know about itself in century three.
@@ -251,13 +251,13 @@ that pairing seeds the chain.
 A Solution Review produces, at minimum:
 
 - a **named Solution** with explicit attribution
-  ([00057 §4 Attribution](00057-Layered-CORE-Model.md#4-attribution));
+  ([00057 §4 Attribution](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md#4-attribution) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md#4-attribution)));
 - a **declared CORE alignment** — which L3 CORE (if any) the
   Solution derives from, and which Foundation layers it builds on;
 - a **content provenance map** — what is taken from CORE (and
   therefore propagates the gift), what is built fresh, and which
   pieces require explicit decisions
-  ([00057 §3.2](00057-Layered-CORE-Model.md#32-what-take-content-from-core-means));
+  ([00057 §3.2](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md#32-what-take-content-from-core-means) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md#32-what-take-content-from-core-means)));
 - a **human-of-record** — the senior human in the pairing, named
   as Solution author and certifier;
 - a **Claw-of-record** — the specific Claw used for the review,
@@ -290,7 +290,7 @@ way, the review output is what is handed over.
   identify content that should be lifted into a new CORE rather
   than retained in the Solution. That decision is a separate
   workstream and follows
-  [00057 §3.1 Gift propagation](00057-Layered-CORE-Model.md#31-gift-propagation).
+  [00057 §3.1 Gift propagation](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md#31-gift-propagation) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md#31-gift-propagation)).
 
 ---
 
@@ -300,11 +300,11 @@ way, the review output is what is handed over.
   ([TrueAI 10001](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md), mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
   is the production rule this document specialises to onboarding.
 - The **Layered CORE Model**
-  ([00057](00057-Layered-CORE-Model.md))
+  ([00057](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md)))
   names the tier the reviewed Solution will sit in (Solutions tier)
   and the COREs the Solution may attribute against.
 - **Claw vocabulary**
-  ([00058](00058-Claw.md))
+  ([00058](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)))
   defines the channel the human pairs with, names the PairedClaw
   bond that brings an ExternalClaw into a Solution's governance
   envelope, and distinguishes a bonded Claw from a Foundation-only
@@ -325,7 +325,7 @@ are settled. Future revisions may elaborate on review outputs
 Solutions are reviewed and the practical shape becomes clearer.
 
 Public-facing changes to the Solution Review guidance will be
-flagged in [HORIZON.md](../HORIZON.md).
+flagged in [HORIZON.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/HORIZON.md)).
 
 ---
 

@@ -24,7 +24,7 @@ back to this document.
 
 A companion treatment of the same model, at the scale of
 civilisational and inter-body governance, is in
-[HORIZON.md](../HORIZON.md) under "Long horizon."
+[HORIZON.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/HORIZON.md)) under "Long horizon."
 
 ---
 
@@ -282,7 +282,7 @@ is the legal-mechanical signal a Client or competitor needs.
   `UniCORE.Law-Claw` (the Law-sector reference Vertical CORE),
   `UniCORE-Medical-Claw`, `UniCORE-Banking-Claw`, etc. The `-Claw`
   suffix marks the channel as a governed Claw
-  (see [00058 §2.1](00058-Claw.md#21-claw)); the vertical token
+  (see [00058 §2.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#21-claw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#21-claw))); the vertical token
   narrows the scope domain. Third-party L3 Vertical COREs follow the
   same pattern: `<3rd Party 1>-<vertical>-Claw`.
 - **L3 Body COREs** use the `Uni-` prefix with the body name
@@ -330,7 +330,7 @@ The Layered CORE model is the structural architecture of the
 programme. Several programme commitments depend on it:
 
 - The **Gift Principle**
-  ([00028](../docs/00028-TrueAI-Foundation-Gift-Principle.md))
+  ([00028](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00028-TrueAI-Foundation-Gift-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md)))
   is the value-statement that motivates the CORE tiers being
   gifted. The Layered CORE model is the operational expression of
   that principle across multiple tiers and scope domains.
@@ -362,7 +362,7 @@ sits alongside them as the structural reference.
 ## 8. What this document is not
 
 - It is not a licence. The licence is CC BY 4.0, in
-  [LICENSE.md](../LICENSE.md).
+  [LICENSE.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LICENSE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LICENSE.md)).
 - It is not a delivery plan. Delivery is governed by working
   practice in each repo's `AGENTS.md`.
 - It is not an exhaustive specification of every scope domain.
@@ -386,7 +386,7 @@ is stable. Specific naming conventions and attribution forms may
 be refined.
 
 Public-facing changes to the Layered CORE model itself will be
-flagged in [HORIZON.md](../HORIZON.md).
+flagged in [HORIZON.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/HORIZON.md)).
 
 ---
 

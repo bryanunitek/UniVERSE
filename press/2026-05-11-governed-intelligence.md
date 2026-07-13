@@ -27,7 +27,7 @@ The practical implications are direct. Under the framework:
 
 The paper does not call for a ban on any class of AI. It calls for a line, below which consequential deployment is not permitted, and above which deployers must demonstrate how they meet each criterion.
 
-*Governed Intelligence* is available as [WHITEPAPER.md](../docs/whitepaper/WHITEPAPER.md) in the UniVERSE repository on GitHub and is free to read, cite, translate, and reuse under CC BY 4.0.
+*Governed Intelligence* is available as [WHITEPAPER.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)) in the UniVERSE repository on GitHub and is free to read, cite, translate, and reuse under CC BY 4.0.
 
 ---
 

@@ -192,11 +192,11 @@ The path is the same path every Powered-by-UniCORE-AI Solution walks. The machin
 
 ### 7.5.1 Form the 1-Human-1-Claw bond
 
-The producer-onboarding entry point is [`GETTING_STARTED.md`](../GETTING_STARTED.md) at the repository root.
+The producer-onboarding entry point is [`GETTING_STARTED.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/GETTING_STARTED.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/GETTING_STARTED.md)) at the repository root.
 
 `GETTING_STARTED.md` is where a producer:
 
-- Chooses the Project level they are producing for (per [`LICENSE_EXAMPLES.md`](../LICENSE_EXAMPLES.md)).
+- Chooses the Project level they are producing for (per [`LICENSE_EXAMPLES.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LICENSE_EXAMPLES.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LICENSE_EXAMPLES.md))).
 - Stands up the working tools (Visual Studio Pro, DevExpress Universal, a 1-to-1 Claw at [https://myclaw.ai?via=bryan](https://myclaw.ai?via=bryan)).
 - Sets up their Claw — introduces themselves, gives the six-point TRUTH preamble, has the Claw review the Foundation triad (UniVERSE / TrueAI / UniCORE AI), and (where relevant) the implementation references (UniCORE / UniCORE.GVB).
 - Uses the **DevExpress XAF / XPO learning surface** to teach the Claw the patterns the public reference architecture rests on (governed Business Objects, principled Module boundaries, evidence-bearing persistence, deployment-shape awareness, security and audit surfaces).
@@ -206,7 +206,7 @@ The XAF / XPO learning surface is the **door**, not the destination. Once the bo
 
 ### 7.5.2 Work under the Singular Pairing Principle
 
-The 1-Human-1-Claw bond is **per Project**, not per Human. A producer working on multiple Projects in parallel must run a separate dedicated Claw for each Project. This is the **Singular Pairing Principle**, canonically locked at [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md).
+The 1-Human-1-Claw bond is **per Project**, not per Human. A producer working on multiple Projects in parallel must run a separate dedicated Claw for each Project. This is the **Singular Pairing Principle**, canonically locked at [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10001-Singular-Pairing-Principle.md)).
 
 For a producer bringing a machine-level platform onto the Foundation, this means: **that machine-level target is its own Project, with its own dedicated 1-Human-1-Claw pairing.** Mixing a firmware Project's working context into a separate Solutions Project's Claw — or vice versa — causes drift; drift breaks the bond; the work cannot honestly compound across the long arc machine-level governance requires.
 
@@ -214,7 +214,7 @@ For a producer bringing a machine-level platform onto the Foundation, this means
 
 No Solution — software-level or machine-level — may claim *Powered by UniCORE AI, built on TrueAI Foundation* status, and no layered governance (the 12-Level Model, ILMP, Inter-Level Messaging, Mission Governance) applies, until the producer’s work has passed the **Certification gate**.
 
-The Certification gate is canonically defined at [`10002-Certification-Before-Layered-Governance.md`](10002-Certification-Before-Layered-Governance.md).
+The Certification gate is canonically defined at [`10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10002-Certification-Before-Layered-Governance.md)).
 
 For machine-level integration this gate is especially important: machine-level governance reaches into firmware, hardware enforcement paths, override pins, and silicon-level execution. Layered governance applied to an uncertified machine-level implementation is governance applied to an unvalidated foundation — which is exactly the failure mode this document exists to prevent.
 

@@ -4,11 +4,11 @@ A single framework, three artifacts. The canonical document is **WHITEPAPER.md**
 
 | File | Audience | Length | Use |
 |---|---|---|---|
-| [WHITEPAPER.md](./WHITEPAPER.md) | General, technical, academic | ~17 KB | The artifact of record. Cite this. |
-| [GOVERNMENT-BRIEFING.md](./GOVERNMENT-BRIEFING.md) | Policymakers, regulators | ~2 pages | Problem, proposal, next steps. |
-| [UN-SUBMISSION.md](./UN-SUBMISSION.md) | UN processes, multilateral bodies | ~2 pages | Route-agnostic stakeholder submission. |
+| [WHITEPAPER.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)) | General, technical, academic | ~17 KB | The artifact of record. Cite this. |
+| [GOVERNMENT-BRIEFING.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/GOVERNMENT-BRIEFING.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/GOVERNMENT-BRIEFING.md)) | Policymakers, regulators | ~2 pages | Problem, proposal, next steps. |
+| [UN-SUBMISSION.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/UN-SUBMISSION.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/UN-SUBMISSION.md)) | UN processes, multilateral bodies | ~2 pages | Route-agnostic stakeholder submission. |
 
-The companion press release lives in [`../../press/`](../../press/) as a dated file. See [`../../press/README.md`](../../press/README.md) for the index.
+The companion press release lives in [`../../press/`](../../press/) as a dated file. See [`../../press/README.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/press/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/press/README.md)) for the index.
 
 ## Licence
 

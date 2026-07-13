@@ -57,4 +57,4 @@ This is pass 1. The public URL of this review will be given back to Claude Sonne
 
 ---
 
-Part of [UniVERSE › External Reviews](../README.md). Given, not sold. Irrevocable. Licensed under CC BY 4.0.
+Part of [UniVERSE › External Reviews](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/EXTERNAL-REVIEWS/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/EXTERNAL-REVIEWS/README.md)). Given, not sold. Irrevocable. Licensed under CC BY 4.0.

@@ -10,12 +10,12 @@ This is the version that the first generation of Foundation-aligned Solutions �
 
 The set of programme docs that comprise `v1` is curated incrementally. The starting manifest is:
 
-- [`docs/00057-Layered-CORE-Model.md`](../../docs/00057-Layered-CORE-Model.md) — the Layered CORE model
-- [`docs/00058-Claw.md`](../../docs/00058-Claw.md) — the Claw vocabulary
-- [`docs/00060-Supported-AI-Provider-List.md`](../../docs/00060-Supported-AI-Provider-List.md) — the supported AI provider list
-- [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](../../docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) — the pairing protocol
-- [`docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md`](../../docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) — the failure ladder
-- [`HORIZON.md`](../../HORIZON.md) — programme horizon and timescale
+- [`docs/00057-Layered-CORE-Model.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00057-Layered-CORE-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00057-Layered-CORE-Model.md)) — the Layered CORE model
+- [`docs/00058-Claw.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) — the Claw vocabulary
+- [`docs/00060-Supported-AI-Provider-List.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00060-Supported-AI-Provider-List.md)) — the supported AI provider list
+- [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)) — the pairing protocol
+- [`docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)) — the failure ladder
+- [`HORIZON.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/HORIZON.md)) — programme horizon and timescale
 
 These are the docs a Solution embeds for the programme-corpus delivery. The set may expand as additional programme docs become canonical; the set does not shrink within `v1`.
 
@@ -25,4 +25,4 @@ These are the docs a Solution embeds for the programme-corpus delivery. The set 
 
 The decision of whether a programme-corpus refinement requires a new `v2` (versus a within-`v1` content expansion) is made at the time of refinement, on a case-by-case basis. The discipline is: if a refinement changes what a deployed Solution would surface to a paired Claw, it gets a `v2`. If a refinement only adds new material that older deployments would not have used anyway, it can stay within `v1`.
 
-See the parent [`README.md`](../README.md) for the versioning discipline.
+See the parent [`README.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/programme-corpus/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/programme-corpus/README.md)) for the versioning discipline.
