@@ -237,6 +237,46 @@ This is the load-bearing difference between the Consumer column and the Institut
 
 ---
 
+## Two tiers, always — Consumer AI and Institutional AI must permanently coexist (locked 2026-09-07, Bryan — Team UniCORE truth)
+
+**It should NOT all become TrueAI.** A future in which *every* AI is lifted to the Institutional/TrueAI standard is neither desirable nor safe. **There must always be both tiers: Consumer AI and Institutional AI.** This is Team UniCORE's position, and it is structural, not a concession.
+
+**Why both must permanently coexist — anti-monoculture.** A single kind of AI everywhere — even the *right* kind — is a monoculture, and a monoculture is fragile: one design, one set of assumptions, one point of capture. The whole foundation already refuses single points of failure — the infrastructure holds a last-resort node outside the hypervisor failure domain; the governance layer runs `2 × 6.0` (two independent certified pairs) where failure is intolerable. **The two-tier AI ecosystem is that same no-single-point-of-failure invariant applied to the AI landscape as a whole:** Consumer and Institutional are two different kinds with different rules, and keeping both alive is what makes the ecosystem robust rather than brittle. Lifting everything to one tier would collapse that redundancy at the level of the whole civilisation's AI.
+
+**Fitness for purpose reinforces it.** Consumer AI serves an individual who bears their own outcome — best-effort, convenient, ungrounded, and *correct* as such (the Load Boundary section above already establishes Consumer AI "does exactly what it was designed to do"). Home and individual life do not need — and should not carry the weight of — the grounded, logged, accountable Institutional discipline. Business and any critical-path use of AI about third parties **must** carry it. The tiers exist because the *needs* genuinely differ, not only for robustness.
+
+### OS-native distribution — the pairing built into the operating system
+
+The reason TrueAI/Institutional governance struggles to reach the world is **distribution**, not merit. The resolution: **build the sovereign pairing into the operating system itself, at installation** — not as a bolt-on application a user must discover and adopt, but as a foundational part of the OS everyone already installs.
+
+- A platform vendor (for example, Microsoft) ships the pairing natively: **1H1C→2C** and/or **1H1C→1C→2C** (the human-sovereign pair, and the thinking pair where reasoning is needed) present from first boot.
+- **Home use runs Consumer AI**; **business use runs Institutional AI.** The OS presents the correct tier for the context, and the Load Boundary (Consumer content must not contaminate Institutional cells) is enforced at the platform layer rather than left to discipline.
+- Distribution is then solved *structurally*: governed, human-sovereign AI reaches everyone because it is part of the OS, not because each user opts in.
+
+(The vendor named here is illustrative of the *mechanism*, not a claim of any partnership. The claim is architectural: the pairing belongs in the OS layer.)
+
+### The token boundary — businesses do not buy production tokens; the accountable human does
+
+**A business may not purchase Production tokens. The tokens are bought by the accountable human** — exactly as documented in the Global Currency architecture (production tokens attached to the named human in the 1H1C pair; companies may buy AI capacity for R&D only). Applied at the OS/licensing layer this becomes concrete and enforceable:
+
+- A business cannot run production/institutional AI without going through **accountable humans who hold the token allocations.** There is no path to faceless, human-detached production AI, because the fuel is held by named humans, not by the firm.
+- This is the **economic enforcement of a boundary this framework already locks:** *"Development Consumer AI cannot exist — it is a prohibited state; once an AI crosses into Development, the Institutional standard is mandatory."* The token boundary is *how* that prohibition is made real in the market — you cannot fund development/production AI except through the accountable-human, Institutional path.
+- It is also the concrete, OS-layer form of the Global Currency **token-brake**: hiring humans (each with their own allocation) beats concentrating production AI under a firm — because the firm cannot hold the tokens at all.
+
+### Why this helps humanity reach 3120
+
+Today's Team Markets history-view found that surviving the long horizon requires **capture-resistant, measurement-anchored structure that channels the constant human drives away from irreversible harm — and is defended permanently.** The two-tier ecosystem, OS-native distribution, and the human-held token boundary are exactly such a structure, at the AI layer:
+
+- **Capture-resistant:** governance and token-holding are anchored to named accountable humans and to the OS platform, not to a discretionary rule a powerful actor can quietly buy away.
+- **Anti-monoculture / no single point of failure:** two permanent tiers keep the AI ecosystem robust rather than brittle.
+- **Human-sovereign by construction:** the firm cannot detach production AI from accountable humans, because it cannot hold the fuel.
+
+This is Team UniCORE's belief about how the AI landscape should be structured so that advanced AI helps humanity reach 3120 rather than accelerating the concentration that shortens the horizon. (Consistent with the honesty boundary above: this is **advocacy of a principle**, not a product-certification claim.)
+
+**Open (for later resolution, not settled here):** whether Consumer AI is *also* TrueAI-governed as a lighter grade or genuinely outside TrueAI (working read: both tiers sit under the foundation's governance as two grades, not "some AI escapes governance"); and the exact OS-layer mechanics of tier-selection and token-holding. These are refinements to work through, not blockers to the position stated here.
+
+---
+
 ## The gap-finding method (Bryan's operational use of levels 1–2)
 
 Levels **1 (Consumer AI)** and **2 (Institutional AI)** — used on the **general web, with no local MD files** — are a **control experiment.** Same raw model; the *only* variable is the accountability standard. **The delta between their two answers IS the gap** — it exposes where an AI defaults to best-effort/ungrounded (Consumer) when institutional grounding was required. Bryan uses this A/B to *measure the AI-Compliance gap* in any Development Institutional AI.
